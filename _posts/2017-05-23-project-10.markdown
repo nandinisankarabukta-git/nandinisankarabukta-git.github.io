@@ -1,0 +1,18 @@
+---
+title: Karlsruher Entwicklertag
+subtitle: 2017
+talk-title: Vertrauen als Grundlage für DevOps
+slides: https://google.com
+recording: n/a
+layout: default
+modal-id: 10
+date: 2017-05-23
+img: ka_entwicklertage_2015.png
+thumbnail: ka_entwicklertage_2015-thumbnail.png
+alt: image-alt
+project-date: May 2017
+client: Karlsruher Entwicklertag
+category: Talk
+description: DevOps fordert einen Wandel in vielen Firmenkulturen&#58; weg vom Experten Silo hin zu kleinen autonom arbeitenden Teams. Warum also nicht die nächste Reorganisation abwarten und alles wird gut? Weil der Kulturwandel Menschen betrifft. Menschen die zusammen arbeiten. Für einen Wechsel hin zu mehr DevOps muss das Vertrauen der Menschen gestärkt werden. Vertrauen innerhalb des Teams, ins Management, in Partner & Kunden. Aber was ist Vertrauen? Hilft es wirklich in einer DevOps Transformation? Wie kann Vertrauen erzeugt oder gestärkt werden? Ich werde zuerst das Problem von fehlendem Vertrauen aufzeigen und dass ohne Vertrauen nichts wirklich funktioniert (vor allem in großen Silo Organisationen). Danach werde ich versuchen, Vertrauen zu definieren, um dann anhand von eigenen Erfahrungen sowie externen Beispielen zu zeigen, wie Vertrauen einen Wandel hin zu mehr DevOps schafft. Zum Abschluss werde ich aufzeigen, wie Vertrauen erreicht bzw. gestärkt werden kann. 
+
+---
