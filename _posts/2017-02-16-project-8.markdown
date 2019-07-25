@@ -1,0 +1,18 @@
+---
+title: Frankfurter Entwicklertag
+subtitle: 2017
+talk-title: Vertrauen als Grundlage von DevOps
+slides: http://google.com
+recording: n/a
+layout: default
+modal-id: 8
+date: 2017-02-16
+img: entwicklertag_ffm_2017.png
+thumbnail: entwicklertag_ffm_2017-thumbnail.png
+alt: image-alt
+project-date: February 2017
+client: Frankfurter Entwicklertag
+category: Talk
+description: SAP is the largest business software vendor in the world. With about 74k employees and over 40 years in making mission critical on-premise software, implementing new agile concepts like Continuous Delivery and DevOps isn’t an easy task. As the company set itself the goal to extent its business into the cloud, new working methods need to be applied.
+
+---
