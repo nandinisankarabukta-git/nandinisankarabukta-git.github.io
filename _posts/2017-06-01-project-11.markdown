@@ -5,7 +5,7 @@ talk-title: Trust as foundation of DevOps
 slides: https://google.com
 recording: https://www.youtube.com/watch?v=A0JVTJG471w
 layout: default
-modal-id: 10
+modal-id: 11
 date: 2017-06-01
 img: dod_amsterdam_2017.png
 thumbnail: dod_amsterdam_2017-thumbnail.png
