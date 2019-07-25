@@ -1,5 +1,5 @@
 ---
-title: "Beyond Borders" Meetup
+title: Beyond Borders Meetup
 subtitle: 2015
 talk-title: Making the Elephant dance – Daily deliveries at SAP
 slides: http://google.com
