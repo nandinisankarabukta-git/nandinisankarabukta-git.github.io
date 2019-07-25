@@ -1,0 +1,18 @@
+---
+title: Delivery of Things World
+subtitle: 2016
+talk-title: Daily Deliveries at SAP
+slides: http://google.com
+recording: n/a
+layout: default
+modal-id: 5
+date: 2016-04-25
+img: dotw_2016.png
+thumbnail: dotw_2016-thumbnail.png
+alt: image-alt
+project-date: April 2016
+client: Delivery of Things Worlds
+category: Talk
+description: SAP is the largest business software vendor in the world. With about 74k employees and over 40 years in making mission critical on-premise software, implementing new agile concepts like Continuous Delivery and DevOps isn’t an easy task. As the company set itself the goal to extent its business into the cloud, new working methods need to be applied.
+
+---
