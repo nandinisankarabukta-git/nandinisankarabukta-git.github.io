@@ -1,6 +1,8 @@
 ---
-title: DevOpsDays Paris 2015
-subtitle: Slides 
+title: DevOpsDays Paris
+subtitle: 2015 
+slides: http://google.com
+recording: http://www.dailymotion.com/video/x2nnysk_devopsdays-paris-2015-dirk-lehmann-making-the-elephant-dance-daily-deliveries-at-sap_tech
 layout: default
 modal-id: 1
 date: 2015-04-15
