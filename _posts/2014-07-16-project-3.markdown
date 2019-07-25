@@ -1,15 +1,18 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Karlsruher Entwicklertag
+subtitle: 2015
+talk-title: DevOps bei SAP: Voraussetzung für agiles CloudComputing
+slides: http://google.com
+recording: n/a
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+modal-id: 1
+date: 2015-05-20
+img: ka_entwicklertage_2015.png
+thumbnail: ka_entwicklertage_2015-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Mai 2015
+client: Karlsruher Entwicklertag
+category: Talk
+description: SAP ist ein großes Unternehmen mit langer Tradition. Gegründet 1972 arbeiten heute über 74000 Mitarbeiter an unternehmenskritschen Anwendungen für fast alle Industrien dieser Welt. Seit Jahrzehnten ist die SAP im on-premise Bereich so bei Kunden erfolgreich. Seit ein paar Jahren befindet sich die SAP jedoch im Wandel. Mit einer klaren Ausrichtung auf Cloud Angebote müssen bei SAP auch viele Arbeitsprozesse und Denkweisen neu erlernt und definieren werden. Durch die erfolgreiche Anwendung von DevOps und Continuous Delivery Prinzipien konnte die SAP bereits zeigen, dass tägliche Software Lieferungen auch in traditionsreichen IT-Großunternehmen umsetzbar sind. Der Vortrag zeigt auf, wie Projekte bei SAP DevOps und Continuous Delivery umsetzen, welche Schwierigkeiten damit verbunden sind und wie traditionsreiche IT-Großunternehmen den Wandel zum Cloud Geschäft meistern können.
 
 ---
