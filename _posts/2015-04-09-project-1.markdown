@@ -10,7 +10,7 @@ date: 2015-04-09
 img: gitmerge_2015.png
 thumbnail: gitmerge_2015-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2015
 client: Git Merge
 category: Talk
 description: Since a few years git became an integrated part of SAPs development landscape. Not only from a source code versioning point of view but also processes and tools start to evolve surrounding git at SAP. With TwoGo by SAP, SAP offers a free ride sharing service which was the first SAP product to implement daily deliveries using Continuous Delivery and DevOps techniques. And GitHub plays a major role in these processes for TwoGo. Learn which role GitHub takes as a DevOps tool for TwoGo enabling them to delivery daily.
