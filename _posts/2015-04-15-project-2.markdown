@@ -5,7 +5,7 @@ talk-title: Making the Elephant dance – Daily deliveries at SAP
 slides: http://google.com
 recording: http://www.dailymotion.com/video/x2nnysk_devopsdays-paris-2015-dirk-lehmann-making-the-elephant-dance-daily-deliveries-at-sap_tech
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2015-04-15
 img: dod_paris_2015.png
 thumbnail: dod_paris_2015-thumbnail.png
