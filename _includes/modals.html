@@ -27,12 +27,22 @@
                                     </strong>
                                 </li>
                                 <li>Slides:
-                                    <strong><a href= {{ post.slides }} > Link </a>
+                                    <strong>   
+                                    {% if post.slides == "n/a" %}
+                                     n/a
+                                    {% else %}
+                                     <a href= {{ post.slides }} > Link </a>
+                                    {% endif %}                                    
                                     </strong>
                                 </li>                             
                                 <li>Recording:
-                                    <strong><a href= {{ post.recording }} > Link </a>
-                                    </strong>
+                                    <strong>   
+                                    {% if post.recording == "n/a" %}
+                                     n/a
+                                    {% else %}
+                                     <a href= {{ post.recording }} > Link </a>
+                                    {% endif %}                                    
+                                    </strong>                                                                  
                                 </li>                                                          
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
