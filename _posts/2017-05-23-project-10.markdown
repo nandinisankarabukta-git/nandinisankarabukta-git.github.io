@@ -2,7 +2,7 @@
 title: Karlsruher Entwicklertag
 subtitle: 2017
 talk-title: Vertrauen als Grundlage für DevOps
-slides: https://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/VertrauenAlsGrundlageVonDevOps_ETKA2017.pdf
 recording: n/a
 layout: default
 modal-id: 10

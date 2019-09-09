@@ -2,7 +2,7 @@
 title: Continuous Lifecycle
 subtitle: 2017
 talk-title: Vertrauen als Grundlage von DevOps
-slides: https://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/VertrauenAlsGrundlageVonDevOps_CL2017.pdf
 recording: https://vimeo.com/247781643
 layout: default
 modal-id: 12

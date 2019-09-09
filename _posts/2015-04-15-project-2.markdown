@@ -2,7 +2,7 @@
 title: DevOpsDays Paris
 subtitle: 2015 
 talk-title: Making the Elephant dance – Daily deliveries at SAP
-slides: http://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/DevOpsDaysParis2015.pdf
 recording: http://www.dailymotion.com/video/x2nnysk_devopsdays-paris-2015-dirk-lehmann-making-the-elephant-dance-daily-deliveries-at-sap_tech
 layout: default
 modal-id: 2

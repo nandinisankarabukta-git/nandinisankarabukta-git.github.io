@@ -2,7 +2,7 @@
 title: Continuous Lifecycle Mannheim 
 subtitle: 2018
 talk-title: Darf's etwas gr&ouml;&szlig;er sein? Clo&uuml;d-Transformation im Gro&szlig;&uuml;nternehmen
-slides: https://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/SeedingAndGrowing_CL2018.pdf
 recording: n/a
 layout: default
 modal-id: 18

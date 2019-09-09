@@ -2,7 +2,7 @@
 title: Frankfurter Entwicklertag
 subtitle: 2017
 talk-title: Vertrauen als Grundlage von DevOps
-slides: http://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/VertrauenAlsGrundlageVonDevOps_ETFfm2017.pdf
 recording: n/a
 layout: default
 modal-id: 8

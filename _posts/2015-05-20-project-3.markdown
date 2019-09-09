@@ -2,7 +2,7 @@
 title: Karlsruher Entwicklertag
 subtitle: 2015
 talk-title: DevOps bei SAP&#58; Voraussetzung für agiles CloudComputing
-slides: http://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/DevOpsbeiSAP_ETKA2015.pdf
 recording: n/a
 layout: default
 modal-id: 3

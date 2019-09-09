@@ -2,7 +2,7 @@
 title: DevOpsConf Munich 
 subtitle: 2018
 talk-title: Seeding and Growing – Large Scale Cloud Transformation
-slides: https://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/SeedingAndGrowing_DevOpsConf2018.pdf
 recording: n/a
 layout: default
 modal-id: 19

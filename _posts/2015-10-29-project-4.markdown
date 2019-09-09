@@ -2,7 +2,7 @@
 title: Beyond Borders Meetup
 subtitle: 2015
 talk-title: Making the Elephant dance – Daily deliveries at SAP
-slides: http://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/MakeTheElephantsDance_DOAmsMeetUp.pdf
 recording: n/a
 layout: default
 modal-id: 4

@@ -2,7 +2,7 @@
 title: Continuous Lifecycle
 subtitle: 2015
 talk-title: Tägliche Softwarelieferungen bei SAP
-slides: http://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/TaeglicheSoftwareLieferungenBeiSAP_CL2015.pdf
 recording: n/a
 layout: default
 modal-id: 5

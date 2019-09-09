@@ -2,7 +2,7 @@
 title: Agile Bodensee
 subtitle: 2018
 talk-title: Trust as foundation of DevOps
-slides: https://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/TrustAsFoundationOfDevOps_AgileBodensee2018.pdf
 recording: https://www.youtube.com/watch?v=68IKMeNZqqo
 layout: default
 modal-id: 17

@@ -2,7 +2,7 @@
 title: Git Merge
 subtitle: 2015
 talk-title: Beyond Source Code Versioning 
-slides: http://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/Git%20merge.pdf 
 recording: https://www.youtube.com/watch?list=PL0lo9MOBetEFDjSJ-QTlgsBEHpd6XnaA-&v=62Q-uepv-2A
 layout: default
 modal-id: 1

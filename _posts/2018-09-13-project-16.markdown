@@ -2,7 +2,7 @@
 title: DevOpsDays Berlin
 subtitle: 2018
 talk-title: Trust as foundation of DevOps
-slides: https://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/TrustAsFoundationOfDevOps_DoDBerlin2018.pdf
 recording: n/a
 layout: default
 modal-id: 16

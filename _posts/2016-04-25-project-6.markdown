@@ -2,7 +2,7 @@
 title: Delivery of Things World
 subtitle: 2016
 talk-title: Daily Deliveries at SAP
-slides: http://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/MakeTheElephantsDance_DoTW2016.pdf
 recording: n/a
 layout: default
 modal-id: 6

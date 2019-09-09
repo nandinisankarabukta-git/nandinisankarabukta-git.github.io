@@ -2,7 +2,7 @@
 title: DevOpsDays Amsterdam
 subtitle: 2017
 talk-title: Trust as foundation of DevOps
-slides: https://google.com
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/TrustAsFoundationOfDevOps_Ams2017.pdf
 recording: https://www.youtube.com/watch?v=A0JVTJG471w
 layout: default
 modal-id: 11

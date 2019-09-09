@@ -2,7 +2,7 @@
 title: GitHub and SAP Meetup
 subtitle: 2016
 talk-title: The Hub - Learn how SAP's TwoGo team is leveraging GitHub
-slides: http://google.com
+slides: n/a
 recording: https://www.youtube.com/watch?v=2C0jrf3-6Zs
 layout: default
 modal-id: 7
