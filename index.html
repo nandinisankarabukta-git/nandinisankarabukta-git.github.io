@@ -15,6 +15,15 @@ layout: default
     {% endfor %}
   </ul>
 
+  <ul class="legals">
+    {% for legal in site.legals %}
+      <li>
+        <span class="legal-date">{{ legal.date | date: "%b %-d, %Y" }}</span>
+        <a class="legal-link" href="{{ legal.url | prepend: site.baseurl }}">{{ legal.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>  
+  
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
