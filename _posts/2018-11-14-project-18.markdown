@@ -1,7 +1,7 @@
 ---
 title: Continuous Lifecycle Mannheim 
 subtitle: 2018
-talk-title: Darf's etwas gr&ouml;&szlig;er sein? Clo&uuml;d-Transformation im Gro&szlig;&uuml;nternehmen
+talk-title: Darf's etwas gr&ouml;&szlig;er sein? Cloud-Transformation im Gro&szlig;unternehmen
 slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/SeedingAndGrowing_CL2018.pdf
 recording: n/a
 layout: default
@@ -14,4 +14,5 @@ project-date: November 2018
 client: Continuous Lifecycle
 category: Talk
 description: Die konsequente Anwendung von DevOps- und Continuous-Delivery-Praktiken in Unternehmen erfordert einen Wandel in fast allen Unternehmensbereichen. Was f&uuml;r klein- und mittelst&auml;ndische Unternehmen eine Herausforderung darstellt, ist f&uuml;r internationale Gro&szlig;konzerne eine Mammutaufgabe. In ihrem Vortrag stellen Heiko und Dirk die Cloud-Transformation von SAP vor. Dabei setzen sie den Schwerpunkt auf die Transformation der SAP-Qualit&auml;tsprozesse: weg von einer zentralen Governance-Rolle und hin zu einem unterst&uuml;tzenden Ansatz, der mit Coaching-Praktiken Entwicklungsteams fit f&uuml;r die Cloud macht.
+
 ---
