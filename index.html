@@ -15,14 +15,30 @@ layout: default
     {% endfor %}
   </ul>
 
-  <ul class="legals">
-    {% for legal in site.legals %}
-      <li>
-        <span class="legal-date">{{ legal.date | date: "%b %-d, %Y" }}</span>
-        <a class="legal-link" href="{{ legal.url | prepend: site.baseurl }}">{{ legal.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>  
+    <div class="portfolio-modal modal fade" id="legalModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Legal Information</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/yourEvent.png" class="img-responsive img-centered" alt="image-alt">
+                            <h3></h3>
+                            <p>Some legal information go in gere</p>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>  
   
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
