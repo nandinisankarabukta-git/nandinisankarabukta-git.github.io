@@ -4,10 +4,28 @@
                 <div class="col-md-4">
                     <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
                 </div>
-                <div class="col-md-6 text-right">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#portfolioModal{{ 1 }}" class="portfolio-link" data-toggle="modal">Legal notice</a>
-                        </li>
+         <!--       <div class="col-md-6 text-right">
+                    <ul class="list-inline quicklinks"> -->
+
+            {% for legal in site.legals %}
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal{{ legal.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/{{ legal.thumbnail }}" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ legal.title }}</h4>
+                        <p class="text-muted">{{ legal.subtitle }}</p>
+                    </div>
+                </div>
+            {% endfor %}                      
+
+                      <!--  <li><a href="#portfolioModal{{ 1 }}" class="portfolio-link" data-toggle="modal">Legal notice</a>
+                        </li> -->
                     </ul>
                 </div>
             </div>
