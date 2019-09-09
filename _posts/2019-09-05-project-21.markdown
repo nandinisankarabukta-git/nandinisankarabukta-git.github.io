@@ -2,7 +2,7 @@
 title: Herbstcampus
 subtitle: 2019
 talk-title: Schlechtes DevOps einfach gemacht
-slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/Bad%20DevOpsHC2019.pdf
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/Bad_DevOpsHC2019.pdf
 recording: n/a
 layout: default
 modal-id: 21
