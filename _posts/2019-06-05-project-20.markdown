@@ -1,0 +1,17 @@
+---
+title: DevOps Essentials 
+subtitle: 2019
+talk-title: Schlechtes DevOps einfach gemacht
+slides: https://google.com
+recording: n/a
+layout: default
+modal-id: 20
+date: 2019-06-05
+img: de2019.png
+thumbnail: de2019-thumbnail.png
+alt: image-alt
+project-date: July 2019
+client: DevOps Essentials
+category: Talk
+description: Es ist 2019. Das Agile Manifest w&uuml;rde 2001 p&uuml;bliziert. Von Contin&uuml;o&uuml;s Delivery spricht man seit r&uuml;nd zehn Jahren. Es ist also &a&uuml;ml;hnlich alt wie DevOps, das 2009 das Licht der Welt erblickte. Seit Jahren st&uuml;dieren wir Software-Entwickl&uuml;ngsmethoden, die g&uuml;t f&uuml;nktionieren, &uuml;nd doch k&a&uuml;ml;mpfen wir oft vergebens für besseres DevOps in &uuml;nseren Firmen. Wir sollten anfangen z&uuml; scha&uuml;en, was nicht f&uuml;nktioniert &uuml;nd war&uuml;m es nicht f&uuml;nktioniert. Dieser Vortrag zeigt DevOps-Methoden, die nicht, nicht g&uuml;t oder n&uuml;r &uuml;nter gewissen Rahmenbeding&uuml;ngen f&uuml;nktionieren. Dabei gehe ich &uuml;.a. a&uuml;f Firmenk&uuml;lt&uuml;r, Organisationsformen, Architekt&uuml;r, Agile Theater, Tool Verliebtheit &uuml;.v.m. ein. Ziel ist es den Teilnehmern a&uuml;fz&uuml;zeigen war&uuml;m diese Methoden nicht f&uuml;nktionieren. Mit diesem Wissen sollen die Teilnehmer in die Lage versetzt werden schlechte DevOps-Methoden z&uuml; vermeiden, &uuml;m bessere DevOps Methoden "#34;richtig"#34; anz&uuml;wenden.
+---

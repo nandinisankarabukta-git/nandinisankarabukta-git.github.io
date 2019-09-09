@@ -1,0 +1,17 @@
+---
+title: Continuous Lifecycle Mannheim 
+subtitle: 2018
+talk-title: Darf's etwas gr&ouml;&szlig;er sein? Clo&uuml;d-Transformation im Gro&szlig;&uuml;nternehmen
+slides: https://google.com
+recording: n/a
+layout: default
+modal-id: 18
+date: 2018-11-14
+img: cl_2018.png
+thumbnail: cl_2018-thumbnail.png
+alt: image-alt
+project-date: November 2018
+client: Continuous Lifecycle
+category: Talk
+description: Die konseq&uuml;ente Anwend&uuml;ng von DevOps- &uuml;nd Contin&uuml;o&uuml;s-Delivery-Praktiken in &&uuml;&uuml;ml;nternehmen erfordert einen Wandel in fast allen &&uuml;&uuml;ml;nternehmensbereichen. Was für klein- &uuml;nd mittelst&a&uuml;ml;ndische &&uuml;&uuml;ml;nternehmen eine Hera&uuml;sforder&uuml;ng darstellt, ist für internationale Großkonzerne eine Mamm&uuml;ta&uuml;fgabe. In ihrem Vortrag stellen Heiko &uuml;nd Dirk die Clo&uuml;d-Transformation von SAP vor. Dabei setzen sie den Schwerp&uuml;nkt a&uuml;f die Transformation der SAP-Q&uuml;alit&a&uuml;ml;tsprozesse&#58; weg von einer zentralen Governance-Rolle &uuml;nd hin z&uuml; einem &uuml;nterstützenden Ansatz, der mit Coaching-Praktiken Entwickl&uuml;ngsteams fit für die Clo&uuml;d macht.
+---

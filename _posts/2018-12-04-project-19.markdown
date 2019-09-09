@@ -1,0 +1,17 @@
+---
+title: DevOpsConf Munich 
+subtitle: 2018
+talk-title: Seeding and Growing – Large Scale Cloud Transformation
+slides: https://google.com
+recording: n/a
+layout: default
+modal-id: 19
+date: 2018-12-04
+img: doc2018.png
+thumbnail: doc2018-thumbnail.png
+alt: image-alt
+project-date: December 2018
+client: DevOpsConf Munich
+category: Talk
+description: The consistent application of DevOps and Continuous Delivery practices requires transformation within almost all functions of an company. While this is a challenge for small and medium-sized companies, it is a giant task for large international corporations. Heiko and Dirk will introduce SAP’s Cloud Transformation in their talk, during which they will focus on the transformation of SAP quality working model. Away from a strong centralized governance role to a supportive approach that uses coaching practices to prepare development teams for the cloud.
+---
