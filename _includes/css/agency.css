@@ -773,6 +773,10 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
+.modal {
+  overflow-y:auto;
+}
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
@@ -782,19 +786,16 @@ ul.social-buttons li a:active {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
-    overflow-y:auto;
 }
 }
 
 .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
-    overflow-y:auto;
 }
 
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
-    overflow-y:auto;
 }
 
 .portfolio-modal .modal-content p.item-intro {
@@ -802,18 +803,15 @@ ul.social-buttons li a:active {
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
-    overflow-y:auto;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
-    overflow-y:auto;
 }
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
-    overflow-y:auto;
 }
 
 .portfolio-modal .close-modal {
@@ -824,12 +822,10 @@ ul.social-buttons li a:active {
     height: 75px;
     background-color: transparent;
     cursor: pointer;
-    overflow-y:auto;
 }
 
 .portfolio-modal .close-modal:hover {
     opacity: .3;
-    overflow-y:auto;
 }
 
 .portfolio-modal .close-modal .lr {
