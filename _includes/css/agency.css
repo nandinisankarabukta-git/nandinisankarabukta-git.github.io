@@ -837,7 +837,6 @@ ul.social-buttons li a:active {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-    overflow-y:auto;
 }
 
 .portfolio-modal .close-modal .lr .rl {
@@ -848,7 +847,6 @@ ul.social-buttons li a:active {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-    overflow-y:auto;
 }
 
 ::-moz-selection {
