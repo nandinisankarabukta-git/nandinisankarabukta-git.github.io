@@ -9,7 +9,6 @@ layout: default
   <ul class="posts">
     {% if post.title == "Empty" %}
           <li>
-                  <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
                   <img src="img/portfolio/emptyModal.png" class="img-responsive img-centered" alt="{{ post.alt }}">
           </li>
     {% else %}
