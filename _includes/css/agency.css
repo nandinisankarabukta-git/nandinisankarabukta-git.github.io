@@ -773,7 +773,7 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
-.modal { 
+.modal-open { 
     overflow: auto !important; 
 }
 
