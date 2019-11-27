@@ -1,5 +1,5 @@
 ---
-title: Continuous Lifecycle Mannheim 
+title: Continuous Lifecycle 
 subtitle: 2018
 talk-title: Darf's etwas gr&ouml;&szlig;er sein? Cloud-Transformation im Gro&szlig;unternehmen
 slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/SeedingAndGrowing_CL2018.pdf
