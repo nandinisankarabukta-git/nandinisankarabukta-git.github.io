@@ -5,7 +5,7 @@ talk-title: Schlechtes DevOps einfach gemacht
 slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/BadDevOpsBitkom2019.pdf
 recording: n/a
 layout: default
-modal-id: 20
+modal-id: 22
 date: 2019-10-15
 img: hc2019.png
 thumbnail: bitkom-thumbnail.png
