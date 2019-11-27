@@ -1,5 +1,5 @@
 ---
-title: Continuous Lifecycle Mannheim
+title: Continuous Lifecycle
 subtitle: 2019
 talk-title: Schlechtes DevOps einfach gemacht
 slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/BadDevOpsCL2019.pdf
