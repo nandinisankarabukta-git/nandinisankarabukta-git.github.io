@@ -1,0 +1,18 @@
+---
+title: DSAG Technologietage
+subtitle: 2020
+talk-title: Vertrauen als Grundlage von DevOps
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/DSAG2020_DirkLehmann_Trust.pdf 
+recording: n/a
+layout: default
+modal-id: 25
+date: 2020-02-12
+img: dsag_tt_2020.png 
+thumbnail: dsag_tt_2020-thumbnail.png 
+alt: image-alt
+project-date: February 2020
+client: DSAG
+category: Talk
+description: DevOps fordert einen Wandel in vielen Firmenkulturen&#58; weg vom Expertensilo, hin zu kleinen, autonom arbeitenden Teams. Wie können diese Teams durch DevOps gestärkt werden, und was braucht es, um effektive, schnelle und agile Teams aufzubauen? Durch Beobachtungen und Trainings von vielen Teams innerhalb seines Unternehmens konnte Dirk feststellen, dass Vertrauen innerhalb des Teams immer wieder das entscheidende Kriterium für eine erfolgreiche Arbeitsweise darstellt. Aber was ist Vertrauen? Hilft es wirklich in einer DevOps-Transformation? Wie kann Vertrauen erzeugt oder gestärkt werden? Dirk wird Erfahrungen und Praxisbeispiele geben, die zeigen, wie DevOps-Transformationen auf Basis von Vertrauen gelingen können.
+
+---
