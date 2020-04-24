@@ -7,7 +7,7 @@ recording: https://www.youtube.com/watch?v=y13mc02mNac
 layout: default
 modal-id: 28
 date: 2020-04-15
-img: swissRe_teccconf.png
+img: allTheTalks_2020.png
 thumbnail: allTheTalks_2020_thumbnail.png
 alt: image-alt
 project-date: April 2020
