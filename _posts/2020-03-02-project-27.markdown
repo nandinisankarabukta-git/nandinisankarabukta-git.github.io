@@ -3,7 +3,7 @@ title: Swiss Re TECConf
 subtitle: 2020
 talk-title: Bad DevOps - Made Easier!
 slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/Bad_DevOps_SwissRe.pdf
-recording: n/a
+recording:  https://youtu.be/9dQJEYEKzpY
 layout: default
 modal-id: 27
 date: 2020-03-02
