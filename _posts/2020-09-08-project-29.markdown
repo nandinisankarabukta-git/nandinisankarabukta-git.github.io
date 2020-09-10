@@ -7,7 +7,7 @@ recording: https://vimeo.com/456468767
 layout: default
 modal-id: 29
 date: 2020-09-08
-img: devopstuesdays_2020_johnwillis_.png
+img: devopstuesdays_2020_johnwillis.png
 thumbnail: devopstuesdays_2020_johnwillis_thumbnail.png
 alt: image-alt
 project-date: September 2020
