@@ -13,5 +13,5 @@ alt: image-alt
 project-date: September 2020
 client: DevOpsDays.ch
 category: Moderation
-description: Fireside chat with Seth Vargo. What does it take to build and operate a service in the cloud? What are the good side of operations and what are the dark sides? Let%27s discuss with Seth Vargo! A fireside chat is an informal, yet structured interview between a moderator and a guest. It's a great opportunity to hear personal experiences from the guest, gain a deeper understanding and to jointly develop new ideas. As we want this conversion to be interactive we invite our participants to activly join the discussion between the moderator and the guest by asking questions via the chat function.
+description: Fireside chat with Seth Vargo. What does it take to build and operate a service in the cloud? What are the good side of operations and what are the dark sides? Let&#x27;s discuss with Seth Vargo! A fireside chat is an informal, yet structured interview between a moderator and a guest. It's a great opportunity to hear personal experiences from the guest, gain a deeper understanding and to jointly develop new ideas. As we want this conversion to be interactive we invite our participants to activly join the discussion between the moderator and the guest by asking questions via the chat function.
 ---
