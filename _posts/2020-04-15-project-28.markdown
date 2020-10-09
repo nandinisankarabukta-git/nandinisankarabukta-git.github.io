@@ -3,7 +3,7 @@ title: AllTheTalks.online
 subtitle: 2020
 talk-title: Trust as foundation of DevOps
 slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/TrustAsFoundationOfDevOps_AllTheTalks.pdf
-recording: https://www.youtube.com/watch?v=y13mc02mNac
+recording: https://www.youtube.com/watch?v=wJhkRrLueoM
 layout: default
 modal-id: 28
 date: 2020-04-15
