@@ -1,0 +1,17 @@
+---
+title: SAP Customer Center of Expertise
+subtitle: 2020
+talk-title: DevOps in a nutshell
+slides: https://assets.dm.ux.sap.com/webinars/sap-user-groups-k4u/pdfs/201008_devops_in_a_nutshell.pdf
+recording: https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_nfas9ixp
+layout: default
+modal-id: 31
+date: 2020-10-08
+img: sap_ceo_2020.png
+thumbnail: sap_ceo_2020_thumbnail.png
+alt: image-alt
+project-date: October 2020
+client: SAP SE
+category: Talk
+description: What is DevOps? And why is everyone talking about it? This session gives some insights into the goals of DevOps, where it came from and why so many companies are pursuing it. You will also learn how SAP itself uses DevOps in its new SAP Cloud ALM solution to enable high frequent deliveries.
+---
