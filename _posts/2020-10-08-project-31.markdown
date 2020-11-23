@@ -1,5 +1,5 @@
 ---
-title: SAP Customer Center of Expertise
+title: SAP Customer COE
 subtitle: 2020
 talk-title: DevOps in a nutshell
 slides: https://assets.dm.ux.sap.com/webinars/sap-user-groups-k4u/pdfs/201008_devops_in_a_nutshell.pdf
