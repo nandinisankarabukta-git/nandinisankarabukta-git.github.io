@@ -1,0 +1,17 @@
+---
+title: DevOpsDays Warsaw
+subtitle: 2020
+talk-title: Bad DevOps, madde easier!
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/Bad_DevOps_DOD_Warsaw2020.pdf
+recording: https://youtu.be/oZm1z02_JzI
+layout: default
+modal-id: 33
+date: 2020-11-18
+img: dod2020_warsaw.png 
+thumbnail: dod2020_warsaw_thumbnail.png
+alt: image-alt
+project-date: November 2020
+client: DevOpsDays Warsaw
+category: Talk
+description: I have not failed. I&#39;ve just found 10,000 ways that won&#39;t work.- Thomas A. Edison Are you planning to copycat the Spotify organization model 1:1 to your organization? Are you trying to use Kuberntes to &quot;do the DevOps thing&quot;? Are you Agile, cause you do standups? If so, this talk is for you! It&#39;s 2019, the agile manifesto was published 2001, Continuous Delivery is ~10years old, and DevOps was coined 2009. But still, -according to Gartner- over 70% of all DevOps transformations do not bring the expected outcome. Why is that? And what can we learn from them? Where and how did they fail? Dirk will show DevOps methods that do not work, work poorly or work only under certain circumstances. He showcases a broad scope of bad methods starting from sick company cultures, bad organizations, overrated software architecture, agile theaters, blind tool faith and many more. Goal is to show bad DevOps methods and explain why they don’t work (or work only under certain circumstances). This should enable attendees to identify bad DevOps methods in their daily work, so they can start improving the same. Let is all share and learn from bad DevOps :-)
+---
