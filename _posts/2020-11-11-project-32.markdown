@@ -13,5 +13,5 @@ alt: image-alt
 project-date: November 2020
 client: IT Online Magazine
 category: Pannel Discussion
-description: Die eigene IT-Organisation agiler machen, geh&#246;rt laut unserer SAP-Community Umfrage zu den drei wichtigsten CIO-Aufgaben der n&#196;chsten 36 Monate. Welche Erfahrungen machen SAP-Kunden, SAP und SAP-Partner mit DevOps im SAP-Umfeld? Das IT-Onlinemagazin l&#196;dt zum „IT-Roundtable“ ein, den Sie online live verfolgen k&#246;nnen. Anschlie	&#223;end sind alle Besucherinnen und Besucher herzlich eingeladen, untereinander zu networken, Erfahrungen auszutauschen und fachzusimpeln
+description: Die eigene IT-Organisation agiler machen, geh&#246;rt laut unserer SAP-Community Umfrage zu den drei wichtigsten CIO-Aufgaben der n&#228;chsten 36 Monate. Welche Erfahrungen machen SAP-Kunden, SAP und SAP-Partner mit DevOps im SAP-Umfeld? Das IT-Onlinemagazin l&#228;dt zum „IT-Roundtable“ ein, den Sie online live verfolgen k&#246;nnen. Anschlie	&#223;end sind alle Besucherinnen und Besucher herzlich eingeladen, untereinander zu networken, Erfahrungen auszutauschen und fachzusimpeln
 ---
