@@ -1,7 +1,7 @@
 ---
 title: DevOpsDays Warsaw
 subtitle: 2020
-talk-title: Bad DevOps, madde easier!
+talk-title: Bad DevOps, made easier!
 slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/Bad_DevOps_DOD_Warsaw2020.pdf
 recording: https://youtu.be/oZm1z02_JzI
 layout: default
