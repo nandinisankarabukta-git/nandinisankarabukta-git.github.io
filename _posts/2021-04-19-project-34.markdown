@@ -1,0 +1,17 @@
+---
+title: openSAP Course
+subtitle: 2021
+talk-title: Efficient DevOps with SAP
+slides: n/a
+recording: https://open.sap.com/courses/devops1
+layout: default
+modal-id: 34
+date: 2020-04-19
+img: openSAP2021.png 
+thumbnail: openSAP2021_thumbnail.png
+alt: image-alt
+project-date: April 2021
+client: SAP openSAP
+category: MOOC Course
+description: In this course, you’ll get an introduction to general DevOps approaches and key principles. The course will then outline the SAP offerings, such as best practices, services, and tools, that enable you to foster DevOps principles efficiently along the relevant phases of SAP development projects based on different programming languages and technologies. You’ll learn where to find more information and how to start using the outlined offerings, and you’ll understand why they are the right choice for your on-premise, hybrid, and cloud-native DevOps projects in SAP enterprise environments.
+---
