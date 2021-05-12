@@ -13,5 +13,5 @@ alt: image-alt
 project-date: May 2021
 client: SAP openSAP Invites
 category: Podcast
-description: we’re learning all about DevOps with SAP experts Dirk Lehmann and Boris Zarske. Dirk and Boris demystify the term DevOps and explain in refreshingly practical terms what it actually means and how by adopting this approach, we can increase the all-important agility and quality of development projects. Whatever your role and experience, this episode will shine a light on the key aspects you need to know!
+description: We’re learning all about DevOps with SAP experts Dirk Lehmann and Boris Zarske. Dirk and Boris demystify the term DevOps and explain in refreshingly practical terms what it actually means and how by adopting this approach, we can increase the all-important agility and quality of development projects. Whatever your role and experience, this episode will shine a light on the key aspects you need to know!
 ---
