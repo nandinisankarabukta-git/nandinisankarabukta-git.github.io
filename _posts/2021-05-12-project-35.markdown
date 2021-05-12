@@ -1,0 +1,17 @@
+---
+title: openSAP Invites Podcast
+subtitle: 2021
+talk-title: Learn about DevOps and the benefits for SAP environments
+slides: n/a
+recording: https://podcast.opensap.info/opensap-invites/2021/05/12/episode-16-learn-about-devops-the-benefits-for-sap-environments/
+layout: default
+modal-id: 35
+date: 2021-05-12
+img: Podcast_openSAP-invites.png 
+thumbnail: Podcast_openSAP-invites_thumbnail.png
+alt: image-alt
+project-date: May 2021
+client: SAP openSAP Invites
+category: Podcast
+description: we’re learning all about DevOps with SAP experts Dirk Lehmann and Boris Zarske. Dirk and Boris demystify the term DevOps and explain in refreshingly practical terms what it actually means and how by adopting this approach, we can increase the all-important agility and quality of development projects. Whatever your role and experience, this episode will shine a light on the key aspects you need to know!
+---
