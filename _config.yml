@@ -1,15 +1,15 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://phatslug.github.io
+baseurl: /forcefiftyapp/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Forcefifty App Version
+email: kofrandani@gmail.com
+description: "A meaningful usecase of Jekyll and Github Pages"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Gyenes Márk
   pic: 1
   position: Lead Designer
   social:
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Kofrán Dániel
   pic: 2
   position: Lead Marketer
   social:
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Velkey Artúr
   pic: 3
   position: Lead Developer
   social:
