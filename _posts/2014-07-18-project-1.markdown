@@ -1,5 +1,5 @@
 ---
-title: De szeretnék az erdőben fa lenni
+title: "De szeretnék az erdőben fa lenni"
 subtitle: Tudományfilozófia
 layout: default
 modal-id: 1
