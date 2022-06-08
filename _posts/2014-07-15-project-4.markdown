@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Levél Húgomnak
+subtitle: 2018, Konzervatív Politikai Filozófia
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2019-02-01
+img: level.png
+thumbnail: level-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2018
+client: Tóth Barnabás Felicián
+category: Konzervatív Politikai Filozófia
+description: Beszámoló dolgozatom egy kísérlet a formával, mely nem független témájától. Kutatási kérdése a helyes politikai cselekvés mibenléte és specifikusan, hogy a politika helyes döntéseiről elvont elvek, vagy a szerves fejlődés során évszázadok alatt felhalmozódott tapasztalatok mentén érdemes-e a politikai döntéseket meghozni. Mivel a beszámoló dolgozat alapvetően egy konzervatív állásfoglalást tesz ez, ezért jól illik hozzá a formája, mely elszakad a bevett, akadémiai stílust követő Rajkos beszámoló formájától. A dolgozat tartalmi mondanivalóit egy, a marxista húgomnak írt levélben adom közre. Ez a forma egyrészt nem áll távol a Konzervativizmus gondolai áramától, ahogy azt mutatja Burke (1790) sokat hivatkozott műve is, másrészt lehetőséget add arra, hogy a szerző tág kérdéseket tárgyaljon, a megszokott akadémiai szigoroságú tudatos kompromittálásának költsége mellett. A dolgozat először a felvilágosodás elméletei iskoláinak, a liberális és marxista elméleteknek a logikai gyengeségeire igyekszik rámutatni, majd azok rugalmatlan implementálásának veszélyeit tárgyalja. Végül a dolgozat harmadik részében a kiváltságosok számára helyes politikai cselekvésre és életre nézve fogalmaz meg tanácsokat a korábbi vizsgálódás alapján.
 
 ---

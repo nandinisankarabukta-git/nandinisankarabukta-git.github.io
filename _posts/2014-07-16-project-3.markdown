@@ -9,7 +9,7 @@ thumbnail: rap-thumbnail.png
 alt: image-alt
 project-date: 2019
 client: Fenyvesi "Fenyő" András
-category: Web Development
+category: Text Mining
 description: A dolgozat azt a kutatási kérdést vizsgálja, hogy a rap műfajban előadók sikeressége a Billboard év végi toplisták alapján hogyan függ össze az előadók szókincsével. A szerző a 2006-2018. közötti évekből gyűjtötte össze a Billboard év végi toplista helyezéseket, valamint a ranker.com Greatest Rappers of All Time lista első 25 előadóját is kiválasztotta egy alternatív sikerességi mérceként. Ezután a kiválasztott szerzők összes zeneszámai webscraping módszerrel összegyűjtésre kerültek, a szövegeket pedig tisztítás után Document-Term Mátrixba rendezte. A strukturált korpuszon a szókincs összehasonlító mérőszáma a véletlenül kiválasztott 50 zeneszámban található egyedi szavak száma. A szerző arra a következtetésre jutott, hogy a Billboard sikeresség nem függ össze a szókincs szélességével, azonban a mintában használt összes szó számával igen. A másik kiválasztott csoport esetében (ranker.com) csak az átlagosnál szélesebb szókinccsel rendelkező előadók kerültek a toplistára.
 
 ---
