@@ -10,5 +10,6 @@ alt: image-alt
 project-date: 2020
 client: Dormán Hanga
 category: Network Science
-description: Lorem Ipsum
+description: This paper examines how Wikipedia articles in different fields of science are related to each other conceptually, and what kinds of network phenomena can be attributed to them. First, a ranking of fields based multiple measures of crossfield contribution to scientific knowledge are introduced. Next, the analysis extends to a more detailed, field-to-field distribution of hyperlinks. To characterize fields by their network behaviour, logistic regressions are fitted to field membership variables, revealing significant differences between fields in network properties such as neighbor connectivity and clustering. By refining the process of data acquisition, introducing new measures of scientific contribution and adding complexity to the predictive model, this framework may provide the basis for analysing how knowledge is transferred within and between fields of science.
+
 ---

@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Mi fán terem a sikeres rapper?
+subtitle: 2019, Text Mining
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2020-02-01
+img: rap.png
+thumbnail: rap-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2019
+client: Fenyvesi "Fenyő" András
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A dolgozat azt a kutatási kérdést vizsgálja, hogy a rap műfajban előadók sikeressége a Billboard év végi toplisták alapján hogyan függ össze az előadók szókincsével. A szerző a 2006-2018. közötti évekből gyűjtötte össze a Billboard év végi toplista helyezéseket, valamint a ranker.com Greatest Rappers of All Time lista első 25 előadóját is kiválasztotta egy alternatív sikerességi mérceként. Ezután a kiválasztott szerzők összes zeneszámai webscraping módszerrel összegyűjtésre kerültek, a szövegeket pedig tisztítás után Document-Term Mátrixba rendezte. A strukturált korpuszon a szókincs összehasonlító mérőszáma a véletlenül kiválasztott 50 zeneszámban található egyedi szavak száma. A szerző arra a következtetésre jutott, hogy a Billboard sikeresség nem függ össze a szókincs szélességével, azonban a mintában használt összes szó számával igen. A másik kiválasztott csoport esetében (ranker.com) csak az átlagosnál szélesebb szókinccsel rendelkező előadók kerültek a toplistára.
 
 ---
