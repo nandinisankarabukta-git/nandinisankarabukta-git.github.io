@@ -2,7 +2,7 @@
 title: DevOps Enterprise Summit 2022
 subtitle: Virtual - US
 talk-title: Paving the Road for 30,000&#43; Developers
-slides: https://github.com/doergn/doergn.github.io/blob/master/posts/slides/PavedRoad_DOES_USVirtual2022
+slides: https://github.com/doergn/doergn.github.io/tree/master/_posts/slides/PavedRoad_DOES_USVirtual2022.pdf
 recording: https://videos.itrevolution.com/watch/778516759/
 layout: default
 modal-id: 40
