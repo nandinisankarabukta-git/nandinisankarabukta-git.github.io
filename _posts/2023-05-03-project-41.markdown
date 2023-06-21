@@ -3,7 +3,7 @@ title: DevOpsDays Zurich
 subtitle: 2023
 talk-title: Master of Ceremonies
 slides: n/a
-recording: [https://vimeo.com/showcase/9608509](https://vimeo.com/showcase/10397059)
+recording: https://vimeo.com/showcase/10397059
 layout: default
 modal-id: 41
 date: 2023-05-03 - 2023-05-04
