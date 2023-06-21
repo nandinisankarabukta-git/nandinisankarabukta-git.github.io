@@ -6,7 +6,7 @@ slides: https://github.com/doergn/doergn.github.io/tree/master/_posts/slides/Pav
 recording: https://youtu.be/Rx4kJx8yH3g
 layout: default
 modal-id: 42
-date: 2022-06-08 - 2023-06-09
+date: 2023-06-08 - 2023-06-09
 img: platformcon_2023.png
 thumbnail: platformcon_2023_thumbnail.png
 alt: image-alt
