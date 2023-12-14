@@ -1,0 +1,17 @@
+---
+title: Continuous Lifecycle
+subtitle: 2023
+talk-title: Platform Engineering XXL – Oder&#58; Wie wir eine CI/CD-Plattform f&#252;r 30.000 Entwickler&#58;innen bauen und betreiben
+slides: https://github.com/doergn/doergn.github.io/tree/master/_posts/slides/PlatformEngineeringXXL_NN.pdf
+recording: n/a
+layout: default
+modal-id: 44
+date: 2023-11-15 - 2023-06-16
+img: cl.png
+thumbnail: cl-thumbnail.png
+alt: image-alt
+project-date: November 2023
+client: Continuous Lifecycle
+category: Talk
+description: Bei SAP arbeiten ca. 30.000 Entwickler&#58;innen an mehr als 1.000 Produkten auf diversen Technologiestacks. Wie verbessert man in solch einer Umgebung die Developer Experience? Nach Nutzerbefragungen und Austausch mit anderen Firmen, wurde 2021 eine interne CI/CD-Plattform ins Leben gerufen, mit dem Ziel die kognitive Last der Entwicklungsteams zu reduzieren. In diesem Vortrag geht Dirk auf die grundlegenden Prinzipien des Platform Engineering ein, und zeigt am Beispiel der SAP internen Entwicklerplatform, wie diese Prinzipien bei SAP angewendet werden. So wird z.B. durch einen &#34;Paved Road&#34;- bzw. &#34;Golden Path&#34;-Ansatz die Developer Experience verbessert und Tools und Services konsolidiert.
+---
