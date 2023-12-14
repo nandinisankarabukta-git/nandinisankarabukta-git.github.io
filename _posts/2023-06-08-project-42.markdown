@@ -1,6 +1,6 @@
 ---
-title: PlatformCon 2023
-subtitle: Virtual
+title: PlatformCon
+subtitle: 2023
 talk-title: Paving the Road for 30,000&#43; Developers
 slides: https://github.com/doergn/doergn.github.io/tree/master/_posts/slides/PavedRoad_PlatformCon_2023.pdf
 recording: https://youtu.be/Rx4kJx8yH3g
@@ -12,6 +12,6 @@ thumbnail: platformcon_2023_thumbnail.png
 alt: image-alt
 project-date: June 2023
 client: PlatformCon
-category: Talk
+category: Talk (Virtual)
 description: At SAP we have around 30,000&#43; people working in our development organization, with >1000 products on our price list using various technology stacks. How do you increase developer productivity at this scale? Backed by in-house user research and industry trends we decided to lower our team's cognitive load by introducing an in-house CI/CD platform called 'Hyperspace'. Dirk will talk about the obstacles of creating 'Hyperspace' with a "platform as a product" approach to an organization that was highly fragmented. Concepts of Paved Roads (a.k.a. Golden Paths) help us to provide guidance to teams with the aim to reduce team cognitive load and decrease support load on central teams Join Dirk's talk for lessons learned, impacts that we already see, and an outlook on what we envision in the Hyperspace.
 ---
