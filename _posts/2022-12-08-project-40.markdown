@@ -1,6 +1,6 @@
 ---
 title: DevOps Enterprise Summit 2022
-subtitle: Virtual - US
+subtitle: 2022 - US
 talk-title: Paving the Road for 30,000&#43; Developers
 slides: https://github.com/doergn/doergn.github.io/tree/master/_posts/slides/PavedRoad_DOES_USVirtual2022.pdf
 recording: https://videos.itrevolution.com/watch/778516759/
@@ -12,6 +12,6 @@ thumbnail: does2022_us_virtual_thumbnail.png
 alt: image-alt
 project-date: December 2022
 client: IT-Revolution
-category: Talk
+category: Talk (Virtual)
 description: At SAP we have around 30,000&#43; people working in our development organization, with >1000 products on our price list using various technology stacks. How do you increase developer productivity at this scale? Backed by in-house user research and industry trends we decided to lower our team's cognitive load by introducing an in-house CI/CD platform called 'Hyperspace'. Dirk will talk about the obstacles of creating 'Hyperspace' with a "platform as a product" approach to an organization that was highly fragmented. Concepts of Paved Roads (a.k.a. Golden Paths) help us to provide guidance to teams with the aim to reduce team cognitive load and decrease support load on central teams Join Dirk's talk for lessons learned, impacts that we already see, and an outlook on what we envision in the Hyperspace. 
 ---
