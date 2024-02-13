@@ -9,9 +9,9 @@ description: "Government Transparency Institute"
 
 # Team names, titles and social links
 people:
-- name: Gyenes Márk
+- name: Mihály Fazekas
   pic: 1
-  position: Lead Designer
+  position: Scientific director & founder
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Kofrán Dániel
+- name: Ágnes Czibik
   pic: 2
-  position: Lead Marketer
+  position: Managing director
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Velkey Artúr
+- name: Bence Tóth
   pic: 3
-  position: Lead Developer
+  position: Senior analyst (external expert)
   social:
     - title: twitter
       url: #
