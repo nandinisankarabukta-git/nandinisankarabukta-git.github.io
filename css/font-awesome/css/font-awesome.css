@@ -2084,6 +2084,6 @@
 .fa-percent:before {
   content: "\f295";
 }
-.fa-percent:mastodon {
+.fa-mastodon:before {
   content: "\f296";
 }
