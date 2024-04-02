@@ -14,6 +14,8 @@ social:
     url: https://www.linkedin.com/in/dirk-lehmann-7712bb125/
   - title: github
     url: http://github.com/doergn
+  - title: mastodon
+    url: https://hachyderm.io/@doergn
 
 # Build settings
 markdown: kramdown
