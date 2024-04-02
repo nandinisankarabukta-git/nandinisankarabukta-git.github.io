@@ -1,5 +1,5 @@
 ---
-title: InfoDays - Platform Engineering
+title: InfoDays
 subtitle: 2024
 talk-title: Platform Engineering XXL – Oder&#58; Wie wir eine CI/CD-Plattform f&#252;r &#62;30.000 Entwickler&#58;innen bauen und betreiben
 slides: https://github.com/doergn/doergn.github.io/tree/master/_posts/slides/PlatformEngineeringXXL_ID.pdf
