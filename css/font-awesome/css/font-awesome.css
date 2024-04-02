@@ -2085,5 +2085,5 @@
   content: "\f295";
 }
 .fa-mastodon:before {
-  content: "\f300";
+  content: url:("./mastodon.svg");
 }
