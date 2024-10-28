@@ -9,12 +9,17 @@ description: "Página web del evento AI-LinkUp de la Universidad de Sonora."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: linkedin
-      url: #
+- name: Olivia Gutú
+  position: Lider
+  #social:
+  #  - title: linkedin
+  #    url: #
+- name: Eduarno Acuña
+  position: Pláticas, taller, concurso
+- name: Adrián Vazquez
+  position: Concurso
+- name: Julio Waissman
+  position: Pláticas y mesa de diálogo
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
