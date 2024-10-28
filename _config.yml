@@ -2,9 +2,9 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: AI-LinkUp 2024
+email: mcd@unison.mx
+description: "Página web del evento AI-LinkUp de la Universidad de Sonora."
 
 
 # Team names, titles and social links
@@ -13,52 +13,26 @@ people:
   pic: 1
   position: Lead Designer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://x.com/McdUnison
+  - title: linkedin
+    url: https://linkedin.com/company/mcd-unison
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/mcd-unison
+  - title: medium
+    url: https://medium.com/mcd-unison
+  
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Blvd. Luis Encinas y Rosales s/n Col. Centro. Edificio 3K1 planta baja
+  - line: C.P. 83000, Hermosillo, Sonora, México
 
 # Build settings
 markdown: kramdown
