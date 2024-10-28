@@ -10,6 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: #
 category: 
-description: Cuando, donde y a que horas nos vemos.
+description: Edificio 8A (mejor conocido como El Queso) salas 1y 2, primer piso 
+[al lado del estacionamiento multinivel](https://www.google.com/maps/place/Dirección+de+Servicios+Estudiantiles+UNISON/@29.0828833,-110.9640127,15z/data=!4m6!3m5!1s0x86ce8447bf40cf93:0xa352867bc487a844!8m2!3d29.0828833!4d-110.9640127!16s%2Fg%2F11b6bmv4y_?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)
 
 ---
