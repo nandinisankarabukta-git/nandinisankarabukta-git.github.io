@@ -9,3 +9,40 @@ color:
 font:
   primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
   secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+
+people:
+  - name: Muhammed Caliskan
+    position: UI/UX Designer
+    pic: muhammed
+    social:
+      - title: linkedin
+        url: https://linkedin.com/in/janesmith
+      - title: dribbble
+        url: https://dribbble.com/janesmith
+
+  - name: Aysenur Navruz 
+    position: UI/UX Designer
+    pic: ayse
+    social:
+      - title: linkedin
+        url: https://linkedin.com/in/janesmith
+      - title: dribbble
+        url: https://dribbble.com/janesmith
+
+  - name: Kamer 
+    position: UI/UX Designer
+    pic: kamer
+    social:
+      - title: linkedin
+        url: https://linkedin.com/in/janesmith
+      - title: dribbble
+        url: https://dribbble.com/janesmith
+
+  - name: Elif Nur Cakici 
+    position: UI/UX Designer
+    pic: elif
+    social:
+      - title: linkedin
+        url: https://linkedin.com/in/janesmith
+      - title: dribbble
+        url: https://dribbble.com/janesmith

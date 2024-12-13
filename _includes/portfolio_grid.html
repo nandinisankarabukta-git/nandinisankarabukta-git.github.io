@@ -1,29 +1,121 @@
 <!-- Portfolio Grid Section -->
-    <section id="portfolio" class="bg-light-gray">
+    <section id="portfolio" class="bg-light-gray" style="background-color: rgb(255, 255, 255);">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Portfolio</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Hakkında</h2>
+                <h3 class="section-subheading text-muted"></h3>
             </div>
-            <div class="row">
-            {% for post in site.posts %}
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
-                    </div>
-                </div>
-            {% endfor %}
-            </div>
+            Bu proje, Nesnelerin İnterneti Dersi kapsamında geliştirilen bir akıllı iklimlendirme sistemidir. Sistem, toprak nemi, sıcaklık, ışık ve hava kalitesi sensörlerinden aldığı verileri kullanarak bir seranın çevresel değerlerini gerçek zamanlı olarak kontrol etmeyi hedefler. Mobil uygulama entegrasyonu sayesinde kullanıcı, sistemin durumunu anlık olarak takip edebilir ve sistem, gerekli durumlarda otomatik olarak devreye girerek serayı ideal koşullara getirebilir. Bu yaklaşım, verimli tarımı desteklemeyi ve enerji tasarrufu sağlamayı amaçlamaktadır.
+           
+            <h2>SİSTEMİN TEMEL BİLEŞENLERİ</h2>
+            <ul style="list-style-type:disc ;">
+                <li>Raspberry Pi: Projenin ana kontrol birimi olarak kullanılır. Sensörlerden alınan verileri işleyerek sera içindeki iklimlendirme sistemlerini otomatik olarak yönetir ve mobil uygulama üzerinden kullanıcıya bilgi aktarır. </li>
+                <li>Sensörler: Toprak nemi, sıcaklık, ışık ve hava kalitesi sensörlerinden oluşur. Bu sensörler, seranın çevresel koşullarını sürekli olarak izler ve gerekli ayarlamaları yapmak üzere Raspberry Pi’ye veri iletir.</li>
+                <li>Mobil Uygulama: Kullanıcının sistemi takip etmesini ve kontrol etmesini sağlayan arayüzdür. Gerçek zamanlı bildirimler ve sistem durumu hakkında bilgi sunar.</li>
+                <li>İklimlendirme Mekanizmaları: Raspberry Pi tarafından kontrol edilen fanlar, ısıtıcılar, nemlendiriciler ve sulama sistemi, seranın ideal koşullara ulaşmasını sağlar.</li>
+                <li>İnternet Bağlantısı: Sistem, uzaktan erişim ve veri takibi için Wi-Fi üzerinden internete bağlanır.</li>
+            </ul>
+
+            <h2>Teknik Özellikler</h2>
+            <ul style="list-style-type:disc ;">
+                <li>Kullanılan Donanımlar:
+                <ul> 
+                    <li>Sensörler:
+                        <ul>
+                        <li>Toprak nem sensörü: YL69</li>
+                        <li>Işık sensörü: LDR</li>
+                        <li>Hava kalite sensörü: MQ135</li>
+                        <li>Sıcaklık sensörü: DHT11</li>
+                        </ul>
+                    </li>
+                    <li>Ana Kontrol Ünitesi: Raspberry Pi 3 veya 4 modeli.</li>
+                    <li>Diğer Donanım Bileşenleri:
+                        <ul>
+                            <li>Toprak sulama için su pompası </li>
+                            <li>Sıcaklık kontrolü için ısıtıcılar</li>
+                            <li>Aydınlatma için LED</li>
+                            <li>Hava sirkülasyonu için fan</li>
+                        </ul>
+                    </li>
+                </ul>
+                </li>
+                <!------------------------------------->
+                <li>Kullanılan Yazılım:
+                    <ul>
+                        <li>Kodlama: Python, sistemin temel kontrol ve veri işleme süreçlerinde kullanılmıştır. Ayrıca API entegrasyonu için JavaScript kullanılmıştır.</li>
+                        <li>Arayüz Tasarımı: Arayüz tasarımı Figma ile yapılmış ve yazılım Java kullanılarak geliştirilmiştir.</li>
+                    </ul>
+                </li>
+                <!------------------------------------->
+                <li>Bağlantı Türü:
+                    <ul>
+                        <li>Sistem, Wi-Fi protokolü üzerinden veri iletişimi yapmaktadır.</li>
+                    </ul>
+                </li>
+                <!------------------------------------->
+                <li>Veri İşleme:
+                    <ul>
+                        <li>Sensörlerden alınan veriler Raspberry Pi üzerinde işlenir.</li>
+                        <li>Elde edilen veriler saatlik olarak bir veritabanında saklanır. Bu veriler hem geçmiş analizleri hem de sistem optimizasyonu için kullanılır.</li>
+                    </ul>
+                </li>
+                <!------------------------------------->
+                <li>Enerji Yönetimi:
+                    <ul>
+                        <li>Sistem sürekli bir enerji kaynağına bağlı olarak çalışır ve kesintisiz bir şekilde görevlerini yerine getirir.</li>
+                    </ul>
+                </li>
+                <!------------------------------------->
+                <li>Çalışma Prensibi:
+                    <ul>
+                        <li>Sensörlerden gelen veriler, sistemde tanımlı ideal değerlerle karşılaştırılır. Eğer mevcut değerler ile ideal değerler arasında farklılık varsa sistem otomatik olarak devreye girer.</li>
+                    </ul>
+                </li>
+             </ul>
+
+
+            <h2>Kullanım Alanları</h2>
+            <ul style="list-style-type:disc ;">
+                <li>Tarımsal Uygulamalar:
+                    <ul>
+                        <li>Seralarda, bitkilerin ideal büyüme koşullarını sağlamak için otomatik iklimlendirme kontrolü sağlar.</li>
+                        <li>Verimliliği artırırken manuel müdahaleyi en aza indirerek çiftçilerin iş yükünü azaltır.</li>
+                    </ul>
+                </li>
+                <!------------------------------------->
+                <li>Akıllı Tarım Sistemleri:
+                    <ul>
+                        <li>IoT tabanlı otomasyon sayesinde, tarımsal alanların uzaktan kontrol edilmesine olanak tanır.</li>
+                        <li>Su, enerji ve diğer kaynakların daha verimli kullanılmasını destekler.</li>
+                    </ul>
+                </li>
+                <!------------------------------------->
+                <li>Çevresel İzleme ve Yönetim:
+                    <ul>
+                        <li>Çevresel değişiklikleri ve hava kalitesini anlık olarak takip ederek ekolojik dengenin korunmasına katkıda bulunur.</li>
+                        <li>Kapalı alan tarımı dışında şehir bahçeleri ve dikey tarım projelerinde de kullanılabilir.</li>
+                    </ul>
+                </li>
+                <!------------------------------------->
+                <li>Eğitim ve Araştırma:
+                    <ul>
+                        <li>Tarım teknolojileri, IoT uygulamaları ve sensör tabanlı veri analizi konularında eğitim amaçlı kullanılabilir.</li>
+                        <li>Üniversiteler ve araştırma merkezleri, sistemi deneysel çalışmalarda değerlendirebilir.</li>
+                    </ul>
+                </li>
+                <!------------------------------------->
+                <li>Küçük Ölçekli Ev Bahçeciliği:
+                    <ul>
+                        <li>Hobi bahçelerinde veya ev içi bitki yetiştirme ortamlarında, bitkilerin doğru koşullarda büyümesini sağlar.</li>
+                    </ul>
+                </li>
+
+            </ul>
+
+                
+                
+             
+            
+            Bu proje, modern tarım ihtiyaçlarına cevap vermek için geliştirilmiş yenilikçi bir çözüm sunmaktadır. Hem kullanıcı dostu arayüzü hem de güçlü donanım-yazılım entegrasyonu sayesinde, sera içi iklimlendirme süreçlerini güvenilir ve verimli bir şekilde yönetmeye olanak tanır.
         </div>
     </section>

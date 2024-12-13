@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/yüz-tanima-sistemi-ozelguvenlik-gen-tr-1007.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -289,6 +289,7 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    color: #fec503;
 }
 
 header .intro-text .intro-heading {
@@ -298,6 +299,8 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
+    color: #fec503;
+    
 }
 
 @media(min-width:768px) {
@@ -633,13 +636,14 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
+    width: 180px;
 }
 
 .team-member h4 {
@@ -653,12 +657,11 @@ section h3.section-subheading {
 }
 
 aside.clients img {
-    margin: 50px auto;
+    margin: 30px auto;
 }
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
