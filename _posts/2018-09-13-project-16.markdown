@@ -1,0 +1,17 @@
+---
+title: DevOpsDays Berlin
+subtitle: 2018
+talk-title: Trust as foundation of DevOps
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/TrustAsFoundationOfDevOps_DoDBerlin2018.pdf
+recording: n/a
+layout: default
+modal-id: 16
+date: 2018-09-13
+img: dodberlin_2018.png
+thumbnail: dodberlin_2018-thumbnail.png
+alt: image-alt
+project-date: September 2018
+client: DevOpsDays Berlin
+category: Talk
+description: In DevOps we talk about a cultural change. We aim to tear down silos and create small cross-functional, autonomous and empowered teams. So why not let management do the next big re-org thing&#58; &#34;the DevOps re-org&#34; and all is going to be fine, right!? No, because DevOps is about people. And to really change a company’s culture, we need to change the way people interact together, we need to establish, recreate and foster trust. If you drill down deeper into many of what makes up DevOps, you will find that trust plays a significant (if not crucial) role in establishing a DevOps culture. But what is trust? Does it really help on a DevOps journey? How can it be created or strengthened? Observing many teams at several occasions Dirk noticed that trust can be seen as the foundation of DevOps. Giving examples and concrete actions, his talk shows you how to foster trust in your team, so that applying DevOps becomes a success. I’ve also written a blog on the topic, which might be of interest in regards to the content&#58; https://blogs.sap.com/2018/06/19/trust-is-the-foundation-of-devops (there’s also the link on the blog to the recording of the talk from DevOpsDays Kiel 2018)
+---

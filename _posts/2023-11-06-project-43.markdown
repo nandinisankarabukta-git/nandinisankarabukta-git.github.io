@@ -1,0 +1,17 @@
+---
+title: SAFe Webinar
+subtitle: 2023
+talk-title: Now the How&#58; SAFe and SAP S&#47;4HANA &#45; DevOps Tool Chain and SAFe Flow Accelerators Deep Dive
+slides: n/a
+recording: https://videos.scaledagile.com/watch/QtTAToDgF56EmgtyjMUp32 (Requires login)
+layout: default
+modal-id: 43
+date: 2023-11-06
+img: safe.png
+thumbnail: safe_thumbnail.png
+alt: image-alt
+project-date: November 2023
+client: SAFe, SBB, SAP
+category: Panel Discussion (Virtual)
+description: In this session, you will learn how to effectively combine SAFe with SAP Activate&#39;s methodology, the SAP Solution Manager Focused Build, and other tools, including the mindset shifts to succeed in your SAP S&#47;4HANA Business Transformation. Our showcase is the Swiss Federal Railways, harmonising business processes across several portfolios with multiple value streams impacting 20,000 employees, building an Enterprise-wide state-of-the-art SAP S&#47;4HANA system. Learn from their experience and other SAP S&#47;4HANA business transformations as we discuss common antipatterns, key methods used, and the required mindset shift to succeed. An insightful conversation to learn from industry leaders and cultivate a shift to a new way of higher-value delivery at speed, delivering better business results in complex value stream networks. You can also expect a deep dive into what the DevOps Pipeline looks like at Federal Swiss Railways and other SAP Business Transformations, besides how to organize teams with value nodes in Lage solutions that deliver value across multiple value streams.
+---

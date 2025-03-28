@@ -1,0 +1,17 @@
+---
+title: Beyond Code
+subtitle: 2021
+talk-title: Speed with(out) direction - Weniger Features und mehr Nutzen ausliefern
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/SpeedWithOutDirection_BeyondCode2021.pdf
+recording: n/a
+layout: default
+modal-id: 37
+date: 2021-10-12
+img: beyond_code_2021.png
+thumbnail: beyond_code_2021_thumbnail.png
+alt: image-alt
+project-date: October 2021
+client: Beyond Code 2021
+category: Talk
+description: Everybody wants to deploy faster to production. But why? What if faster deployments, result in faster deployment of stuff that nobody wants? In this talk Dirk will show that speed without direction is not a value on its own. Why many teams become a feature factory rather than focusing on value to their customers. Using methods like Hypothesis Driven Development, Dirk shows how teams can focus on the rationale of faster deliveries&#58; value to customers.
+---

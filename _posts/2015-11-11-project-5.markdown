@@ -1,0 +1,18 @@
+---
+title: Continuous Lifecycle
+subtitle: 2015
+talk-title: Tägliche Softwarelieferungen bei SAP
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/TaeglicheSoftwareLieferungenBeiSAP_CL2015.pdf
+recording: n/a
+layout: default
+modal-id: 5
+date: 2015-11-11
+img: cl_2015.png
+thumbnail: cl_2015-thumbnail.png
+alt: image-alt
+project-date: November 2015
+client: Continuous Lifecycle
+category: Talk
+description: SAP ist ein IT Großunternehmen mit mehr als 74000 Mitarbeiteren und einer über 40-jährigen Tradition in geschäftskritischen On-Premise-Anwendungen. Seit einigen Jahren wandelt sich die SAP hin zum Cloud-Unternehmen. Dies erfordert tiefgehende Änderungen in der Arbeitsweise um z.B. Prinzipien wie DevOps und Continuous Delivery umzusetzen. Mit dem Produkt TwoGo by SAP konnte der Referent zusammen mit seinem Team erstmals in der SAP-Geschichte tägliche Softwareauslieferungen durch Anwendung von CD- und DevOps-Prinzipien verwirklichen. Am Beispiel von TwoGo wird er erzählen, welche Herausforderungen mit der Umsetzung von CD und DevOps in Großunternehmen einhergehen, wie diese angegangen und gelöst werden können.
+
+---

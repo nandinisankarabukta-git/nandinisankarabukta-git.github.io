@@ -1,0 +1,18 @@
+---
+title: DevOpsDays Zurich
+subtitle: 2017
+talk-title: Trust as foundation of DevOps
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/Trust_Ignite_Zurich2017.pdf
+recording: https://vimeo.com/219025674
+layout: default
+modal-id: 9
+date: 2017-05-03
+img: dod_zurich_2017.png
+thumbnail: dod_zurich_2017-thumbnail.png
+alt: image-alt
+project-date: May 2017
+client: DevOpsDays Zurich
+category: Ignite
+description: The why&#58; In DevOps we talk about a cultural change. We aim to tear down silos and create small cross-functional, autonomous and empowered teams. So why not only let management do the next big re-org thing, &#34;the DevOps re-org&#34;, and all is going to be fine, right!? No, because its about people. Interacting people. And for really changing a companies culture, the way people interact together, we need to establish, recreate and foster trust. If you drill down deeper into many of what makes up DevOps, you can find that trust plays a significant (if not crucial) role in establishing a DevOps culture. But what is trust? Does it really help on a DevOps journey? How can it be created or strengthened? The how&#58; I’ll first show the problem of missing trust in an (siloed) organization. Then I aim to give a definition of trust in general and which basic elements make up trust among people. I will outline which role trust plays in creating a DevOps culture, based on my very own experience within my team at SAP, as well as many examples provided by literature, blogs, etc. (e.g. &#34;The 5 dysfunctions of a Team&#34; - Lencioni ; &#34;The speed of trust&#34; - Covey). Last I will give ideas and shared experiences on how trust can be created and fostered within teams. (e.g. tell about the importance of team sizes (&#34;The mytical man-month&#34; (Brooks) as well as findings by Mr. Robin Dunbar &#34;Dunbars number&#34;), &#34;Perception of competance&#34;, &#34;Perception of intensions&#34;, &#34;Capacity of trusting&#34;, the importance of failure tolerance, openness, common shared goals, respect, diversity, …)
+
+---

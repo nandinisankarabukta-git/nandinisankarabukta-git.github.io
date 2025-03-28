@@ -1,0 +1,17 @@
+---
+title: bitkom
+subtitle: 2019
+talk-title: Schlechtes DevOps einfach gemacht
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/BadDevOpsBitkom2019.pdf
+recording: n/a
+layout: default
+modal-id: 22
+date: 2019-10-15
+img: bitkom.png
+thumbnail: bitkom-thumbnail.png
+alt: image-alt
+project-date: October 2019
+client: bitkom - AK Software Engineering und Software Architektur
+category: Talk
+description: Es ist 2019. Das Agile Manifest wurde 2001 publiziert. Von Continuous Delivery spricht man seit rund zehn Jahren. Es ist also &auml;hnlich alt wie DevOps, das 2009 das Licht der Welt erblickte. Seit Jahren studieren wir Software-Entwicklungsmethoden, die gut funktionieren, und doch k&auml;mpfen wir oft vergebens f&uuml;r besseres DevOps in unseren Firmen. Wir sollten anfangen zu schauen, was nicht funktioniert und warum es nicht funktioniert. Dieser Vortrag zeigt DevOps-Methoden, die nicht, nicht gut oder nur unter gewissen Rahmenbedingungen funktionieren. Dabei gehe ich u.a. auf Firmenkultur, Organisationsformen, Architektur, Agile Theater, Tool Verliebtheit u.v.a.m. ein. Ziel ist es den Teilnehmern aufzuzeigen, warum diese Methoden nicht funktionieren. Mit diesem Wissen sollen die Teilnehmer in die Lage versetzt werden schlechte DevOps-Methoden zu vermeiden, um bessere DevOps-Methoden &#34;richtig&#34; anzuwenden. 
+---

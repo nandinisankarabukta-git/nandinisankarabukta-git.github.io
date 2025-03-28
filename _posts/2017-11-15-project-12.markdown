@@ -1,0 +1,18 @@
+---
+title: Continuous Lifecycle
+subtitle: 2017
+talk-title: Vertrauen als Grundlage von DevOps
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/VertrauenAlsGrundlageVonDevOps_CL2017.pdf
+recording: https://vimeo.com/247781643
+layout: default
+modal-id: 12
+date: 2017-11-15
+img: cl_2017.png
+thumbnail: cl_2017-thumbnail.png
+alt: image-alt
+project-date: November 2017
+client: Continuous Lifecycle
+category: Talk
+description: DevOps fordert einen Wandel in vielen Firmenkulturen&#58; weg vom Expertensilo, hin zu kleinen, autonom arbeitenden Teams. Wie können diese Teams durch DevOps gestärkt werden, und was braucht es, um effektive, schnelle und agile Teams aufzubauen? Durch Beobachtungen und Trainings von vielen Teams innerhalb seines Unternehmens konnte Dirk feststellen, dass Vertrauen innerhalb des Teams immer wieder das entscheidende Kriterium für eine erfolgreiche Arbeitsweise darstellt. Aber was ist Vertrauen? Hilft es wirklich in einer DevOps-Transformation? Wie kann Vertrauen erzeugt oder gestärkt werden? Dirk wird Erfahrungen und Praxisbeispiele geben, die zeigen, wie DevOps-Transformationen auf Basis von Vertrauen gelingen können.
+
+---

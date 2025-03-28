@@ -1,0 +1,17 @@
+---
+title: DevOpsDays Kiel
+subtitle: 2018
+talk-title: Trust as foundation of DevOps
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/TrustAsFoundationOfDevOps_DoDKiel2018.pdf
+recording: https://vimeo.com/273653431
+layout: default
+modal-id: 15
+date: 2018-05-17
+img: dodkiel_2018.png
+thumbnail: dodkiel_2018-thumbnail.png
+alt: image-alt
+project-date: May 2018
+client: DevOpsDays Kiel
+category: Talk
+description: DevOps requires a cultural change. But how can a DevOps transformation work (esp. in large enterprises)? Observing many teams at several occasions Dirk noticed that trust can be seen as the foundation of DevOps. Giving examples and concrete actions this talk shows you how to foster trust in your team, so that applying DevOps becomes a success.
+---

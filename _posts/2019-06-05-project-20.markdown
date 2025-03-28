@@ -1,0 +1,17 @@
+---
+title: DevOps Essentials 
+subtitle: 2019
+talk-title: Schlechtes DevOps einfach gemacht
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/Bad_DevOps_DE2019.pdf
+recording: n/a
+layout: default
+modal-id: 20
+date: 2019-06-05
+img: de2019.png
+thumbnail: de2019-thumbnail.png
+alt: image-alt
+project-date: July 2019
+client: DevOps Essentials
+category: Talk
+description: Es ist 2019. Das Agile Manifest wurde 2001 publiziert. Von Continuous Delivery spricht man seit rund zehn Jahren. Es ist also &auml;hnlich alt wie DevOps, das 2009 das Licht der Welt erblickte. Seit Jahren studieren wir Software-Entwicklungsmethoden, die gut funktionieren, und doch k&auml;mpfen wir oft vergebens f&uuml;r besseres DevOps in unseren Firmen. Wir sollten anfangen zu schauen, was nicht funktioniert und warum es nicht funktioniert. Dieser Vortrag zeigt DevOps-Methoden, die nicht, nicht gut oder nur unter gewissen Rahmenbedingungen funktionieren. Dabei gehe ich u.a. auf Firmenkultur, Organisationsformen, Architektur, Agile Theater, Tool Verliebtheit u.v.m. ein. Ziel ist es den Teilnehmern aufzuzeigen warum diese Methoden nicht funktionieren. Mit diesem Wissen sollen die Teilnehmer in die Lage versetzt werden schlechte DevOps-Methoden zu vermeiden, um bessere DevOps Methoden &#34;richtig&#34; anzuwenden.
+---

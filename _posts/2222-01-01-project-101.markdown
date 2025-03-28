@@ -1,0 +1,17 @@
+---
+title: Empty
+subtitle: 
+talk-title: 
+slides: n/a
+recording: n/a
+layout: default
+modal-id: 101
+date: 2222-01-01
+img: yourEvent.png
+thumbnail: emptyModal.png
+alt: image-alt
+project-date: 
+client: 
+category: 
+description: Contact me to talk at your event!
+---

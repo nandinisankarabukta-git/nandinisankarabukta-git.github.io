@@ -1,0 +1,17 @@
+---
+title: Delivery of Things World
+subtitle: 2018
+talk-title: Seeding and Growing – Large Scale Cloud Transformation
+slides: https://github.com/doergn/doergn.github.io/blob/master/_posts/slides/SeedingAndGrowing_DoD2018.pdf
+recording: n/a
+layout: default
+modal-id: 14
+date: 2018-04-23
+img: dotw_2016.png
+thumbnail: dotw_2016-thumbnail.png
+alt: image-alt
+project-date: April 2018
+client: Delivery of Things World
+category: Talk
+description: The consistent application of DevOps and Continuous Delivery practices requires transformation within almost all functions of an company. While this is a challenge for small and medium-sized companies, it is a giant task for large international corporations. Heiko and Dirk will introduce SAP’s Cloud Transformation in their talk, during which they will focus on the transformation of SAP quality working model. Away from a strong centralized governance role to a supportive approach that uses coaching practices to prepare development teams for the cloud. 
+---

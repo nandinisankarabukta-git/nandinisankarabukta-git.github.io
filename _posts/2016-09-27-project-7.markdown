@@ -1,0 +1,18 @@
+---
+title: GitHub and SAP Meetup
+subtitle: 2016
+talk-title: The Hub - Learn how SAP's TwoGo team is leveraging GitHub
+slides: n/a
+recording: https://www.youtube.com/watch?v=2C0jrf3-6Zs
+layout: default
+modal-id: 7
+date: 2016-09-27
+img: gh_sap_meetup_2016.png
+thumbnail: gh_sap_meetup_2016-thumbnail.png
+alt: image-alt
+project-date: September 2016
+client: GitHub and SAP
+category: Talk
+description: SAP is the largest business software vendor in the world. With about 74k employees and over 40 years in making mission critical on-premise software, implementing new agile concepts like Continuous Delivery and DevOps isn’t an easy task. As the company set itself the goal to extent its business into the cloud, new working methods need to be applied.
+
+---

@@ -2084,3 +2084,6 @@
 .fa-percent:before {
   content: "\f295";
 }
+.fa-mastodon:before {
+  src: url('./mastodon.svg');
+}

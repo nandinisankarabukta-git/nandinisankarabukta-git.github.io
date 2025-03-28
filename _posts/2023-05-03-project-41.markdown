@@ -1,0 +1,17 @@
+---
+title: DevOpsDays Zurich
+subtitle: 2023
+talk-title: Master of Ceremonies
+slides: n/a
+recording: https://vimeo.com/showcase/10397059
+layout: default
+modal-id: 41
+date: 2023-05-03 - 2023-05-04
+img: dod_zurich_2023.png
+thumbnail: dod_zurich_2023_thumbnail.png
+alt: image-alt
+project-date: May 2023
+client: DevOpsDays Zurich
+category: Moderation
+description: Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area.
+---
