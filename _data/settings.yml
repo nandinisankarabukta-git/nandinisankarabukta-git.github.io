@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Akio
-logo: # You can add own logo. For example '/images/logo.png'.
-description: Creative Portfolio Theme for Jekyll.
+title: Datart
+logo: /images/datart.png # You can add own logo. For example '/images/logo.png'.
+description: Site description
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -13,28 +13,28 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'About'
-      url: '/about/'
-    - title: 'Work'
-      url: '/work/'
-    - title: 'Writing'
-      url: '/blog/'
-    - title: 'Pages'
       submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      - url: /about-the-lab/
+        title: About the Lab
+      - url: /team/
+        title: Team
+    - title: 'Research'
+      url: '/research/'
+    - title: 'publications'
+      url: '/publications/'
+    - title: 'Contact'
+      url: '/contact/'
 
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: Jason Hill
-  author__bio: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  author__avatar: '/images/01.jpg'
+  author__name: Author Name
+  author__bio: Author Bio
+  author__avatar: 'https://placehold.co/600x400?text=Author+Avatar'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com"} # TODO
 - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com"}
 - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
@@ -49,9 +49,9 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hey everyone, I’m Jason Hill
-  hero__description: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  hero__image: "/images/01-1.jpg"
+  hero__title: Hero Title
+  hero__description: Hero Description
+  hero__image: "https://placehold.co/600x400?text=Hero Image"
 
 
 #-------------------------------
@@ -88,7 +88,7 @@ logo__items:
 #-------------------------------
 # Newsletter
 mailchimp:
-  enable: true
+  enable: false
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address...
   mailchimp__button__text: Subscribe
@@ -98,8 +98,8 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Work
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  work__title: Work title
+  work__description: Work description
 
 
 #-------------------------------
@@ -107,15 +107,15 @@ work:
 testimonials:
   enable: true
 
-testimonial__title: Clients
-testimonial__description:
+testimonial__title: Testimonials title
+testimonial__description: Testimonials description
 
 testimonial__items:
-  - name: "Hanna Septimus"
-    image: "/images/client-1.jpg"
-    designation: "Product Designer"
+  - name: "Client 1 name"
+    image: "https://placehold.co/600x400?text=Client+1+Name"
+    designation: "Client 1 designation"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "Client 1 content"
 
   - name: "Carla Rosser"
     image: "/images/client-2.jpg"
@@ -169,7 +169,7 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog:
-  enable: true
+  enable: false
 
 blog__settings:
   blog__title: Writing
@@ -178,7 +178,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/bg.jpg"
+footer__background__image: "https://placehold.co/600x400?text=Footer+Background+Image"
 
 #-------------------------------
 # Contact Settings
@@ -193,7 +193,7 @@ contact:
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
+  enable: false
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
