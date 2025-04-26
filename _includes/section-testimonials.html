@@ -42,6 +42,18 @@
               {% if testimonial__item.content %}
                 <p class="client-text">{{ testimonial__item.content }}</p>
               {% endif %}
+              {% if testimonial__item.socials %}
+                <div class="social">
+                  <ul class="social__list list-reset">
+                    {% for social in testimonial__item.socials %} <!-- TODO: make the items smaller -->
+                      <li class="social__item">
+                        <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
+                           aria-label="Social link"><i class="ion {{social.icon}}"></i></a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              {% endif %}
             </div>
           </div>
         {% endfor %}

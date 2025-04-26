@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Datart
+title: Datart Lab
 logo: /images/datart.png # You can add own logo. For example '/images/logo.png'.
 description: Site description
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -13,14 +13,10 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'About'
-      submenu:
-      - url: /about-the-lab/
-        title: About the Lab
-      - url: /team/
-        title: Team
-    - title: 'Research'
-      url: '/research/'
-    - title: 'publications'
+      url: '/about/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Publications'
       url: '/publications/'
     - title: 'Contact'
       url: '/contact/'
@@ -31,7 +27,7 @@ menu__settings:
 author:
   author__name: Author Name
   author__bio: Author Bio
-  author__avatar: 'https://placehold.co/600x400?text=Author+Avatar'
+  author__avatar:
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"} # TODO
@@ -48,10 +44,10 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  enable: true
-  hero__title: Hero Title
-  hero__description: Hero Description
-  hero__image: "https://placehold.co/600x400?text=Hero Image"
+  enable: false
+  hero__title:
+  hero__description:
+  hero__image:
 
 
 #-------------------------------
@@ -61,6 +57,53 @@ logos:
   logos__title: I’ve worked with some great сompanies
 
 logo__items:
+  - name: Google
+    link: "https://www.google.com/"
+    image: "/images/google.svg"
+
+  - name: Spotify
+    link: "https://www.spotify.com/"
+    image: "/images/spotify.svg"
+
+  - name: Pinterest
+    link: "https://www.pinterest.com/"
+    image: "/images/pinterest.svg"
+
+  - name: Netlify
+    link: "https://www.netlify.com/"
+    image: "/images/netlify.svg"
+
+  - name: Apple
+    link: "https://www.apple.com/"
+    image: "/images/apple.svg"
+
+  - name: Adobe
+    link: "https://www.adobe.com/"
+    image: "/images/adobe.svg"
+
+  - name: Google
+    link: "https://www.google.com/"
+    image: "/images/google.svg"
+
+  - name: Spotify
+    link: "https://www.spotify.com/"
+    image: "/images/spotify.svg"
+
+  - name: Pinterest
+    link: "https://www.pinterest.com/"
+    image: "/images/pinterest.svg"
+
+  - name: Netlify
+    link: "https://www.netlify.com/"
+    image: "/images/netlify.svg"
+
+  - name: Apple
+    link: "https://www.apple.com/"
+    image: "/images/apple.svg"
+
+  - name: Adobe
+    link: "https://www.adobe.com/"
+    image: "/images/adobe.svg"
   - name: Google
     link: "https://www.google.com/"
     image: "/images/google.svg"
@@ -116,12 +159,20 @@ testimonial__items:
     designation: "Client 1 designation"
     link: "https://twitter.com/"
     content : "Client 1 content"
+    socials:
+        - {icon: "ion-logo-twitter", link: "https://twitter.com"}
+        - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+        - {icon: "ion-logo-instagram", link: "https://instagram.com"}
+        - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 
   - name: "Carla Rosser"
     image: "/images/client-2.jpg"
     designation: "Statistician"
     link: "https://facebook.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    socials:
+      - { icon: "ion-logo-github", link: "https://github.com" }
+      - { icon: "ion-logo-vimeo", link: "https://vimeo.com" }
 
   - name: "Maria Curtis"
     image: "/images/client-3.jpg"
