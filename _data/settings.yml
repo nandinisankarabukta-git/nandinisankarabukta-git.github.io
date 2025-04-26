@@ -172,7 +172,7 @@ blog:
   enable: false
 
 blog__settings:
-  blog__title: Writing
+  blog__title:
   blog__description:
 
 
