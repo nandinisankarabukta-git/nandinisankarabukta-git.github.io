@@ -23,7 +23,7 @@
   }
 
   .social {
-    margin-bottom: 16px;
+    margin-top: 14px;
 
     .social__list {
       display: flex;
@@ -58,10 +58,6 @@
         color: var(--white);
         background-color: var(--primary-color);
       }
-    }
-
-    @media (max-width: $desktop) {
-      margin-bottom: 10px;
     }
 
     @media (max-width: $mobile) {
