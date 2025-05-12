@@ -1,3 +1,16 @@
+# Do these
+
+- [ ] Favicon datart's d
+- [x] move "ive workeed ..." projects altina
+- [x] work title -> projects
+- [x] /projects sayfasi /work sayfasiyla baslayacak
+- [x] imagelar cikar
+- [ ] form servisi
+- [x] clients kisminin kopyasi about kisminda, linkedin vs linkleri eklenecek
+- [x] blog sil
+- [ ] footer kaldir - copyright üstündeki. Theme copyright sadece /about içinde
+- [ ] testimonials socials placement/size duzelt
+
 # Akio – Creative Portfolio Theme for Jekyll
 
 Akio is a creative personal portfolio Jekyll theme. This theme has a modern design and high-speed performance. The highlights of this theme include support Github Pages, light and dark mode, and also sections such as work, blog, clients, and testimonials. Perfectly suitable for any developer, designer, freelancer, software engineer, or some other who needs a professional way to showcase their work.
