@@ -16,7 +16,7 @@
 
         <div class="row">
         {% for testimonial__item in site.data.settings.testimonial__items %}
-          <div class="testimonial-item col col-4 col-d-6 col-t-12">
+          <div class="testimonial-item col col-6 col-d-6 col-t-12">
             <div class="testimonial-content">
               <div class="client-meta">
                 {% if testimonial__item.image %}
@@ -48,7 +48,7 @@
                     {% for social in testimonial__item.socials %} <!-- TODO: make the items smaller -->
                       <li class="social__item">
                         <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
-                           aria-label="Social link"><i class="ion {{social.icon}}"></i></a>
+                           aria-label="Social link"><i class="{{social.icon}}"></i></a>
                       </li>
                     {% endfor %}
                   </ul>

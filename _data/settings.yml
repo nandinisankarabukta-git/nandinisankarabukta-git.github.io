@@ -12,8 +12,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
-      url: '/about/'
+    - title: 'Team'
+      url: '/team/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Publications'
@@ -30,7 +30,7 @@ author:
   author__avatar:
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"} # TODO
+- {icon: "ion-logo-twitter", link: "https://twitter.com"}
 - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com"}
 - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
@@ -44,10 +44,13 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  enable: false
-  hero__title:
+  enable: true
+  hero__title: |
+    decision analytics through
+    <br>
+    advanced research & development
   hero__description:
-  hero__image:
+  hero__image: /images/hero.jpg
 
 
 #-------------------------------
@@ -154,25 +157,19 @@ testimonial__title: Testimonials title
 testimonial__description: Testimonials description
 
 testimonial__items:
-  - name: "Client 1 name"
-    image: "https://placehold.co/600x400?text=Client+1+Name"
-    designation: "Client 1 designation"
+  - name: "Asst. Prof. Erhun Kundakcıoğlu"
+    image: "/images/erhun-kundakcioglu.jpg"
+    designation:
     link:
-    content : "Client 1 content"
+    content: >
+      Professor of Industrial Engineering at Özyeğin University and Director of the Datart Lab, 
+      Dr. Erhun Kundakcıoğlu focuses on decision analytics and mathematical optimization. 
+      A former faculty member at the University of Houston and Distinguished Scientist at Optym, 
+      he is a TÜBİTAK Early Career Awardee and associate editor for leading optimization journals.
     socials:
-        - {icon: "ion-logo-twitter", link: "https://twitter.com"}
-        - {icon: "ion-logo-facebook", link: "https://facebook.com"}
-        - {icon: "ion-logo-instagram", link: "https://instagram.com"}
-        - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-
-  - name: "Carla Rosser"
-    image: "/images/client-2.jpg"
-    designation: "Statistician"
-    link:
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-    socials:
-      - { icon: "ion-logo-github", link: "https://github.com" }
-      - { icon: "ion-logo-vimeo", link: "https://vimeo.com" }
+        - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/erhunkundakcioglu"}
+        - {icon: "ion ion-logo-github", link: "https://github.com/OEKundakcioglu/"}
+        - {icon: "fa-brands fa-google-scholar", link: "https://scholar.google.com/citations?user=k6NTKvsAAAAJ&hl=en"}
 
   - name: "Maria Curtis"
     image: "/images/client-3.jpg"
@@ -234,7 +231,7 @@ footer__background__image: "https://placehold.co/600x400?text=Footer+Background+
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
+  email: # Add your form_id
   description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
@@ -250,4 +247,5 @@ disqus:
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics:
+# Add your GA Tracking Id

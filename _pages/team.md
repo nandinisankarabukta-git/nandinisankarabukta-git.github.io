@@ -3,8 +3,9 @@ layout: page
 title: Team
 description: I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
 permalink: /team/
-image: '/images/01-2.jpg'
-image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
+image:
+image_caption:
+include_credit: true
 ---
 
 Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.
@@ -36,3 +37,5 @@ The advent of paperback books in the 20th century led to an explosion of popular
 This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.
 
 Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.
+
+{% include section-testimonials.html %}
