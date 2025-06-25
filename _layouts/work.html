@@ -51,7 +51,7 @@ layout: default
   <div class="page">
     {{ content }}
   </div>
-
+{% if page.previous or page.next %}
   <section class="section work-navigation">
     <div class="row">
 
@@ -103,4 +103,5 @@ layout: default
       </div>
     </div>
   </section>
+{% endif %}
 </div>
