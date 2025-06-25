@@ -29,14 +29,6 @@ author:
   author__bio: Author Bio
   author__avatar:
 
-social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
-
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
@@ -45,10 +37,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: |
-    decision analytics through
-    <br>
-    advanced research & development
+  hero__title: decision analytics through advanced research & development
   hero__description:
   hero__image: /images/hero.jpg
 
@@ -92,45 +81,6 @@ logo__items:
     link: "https://www.spotify.com/"
     image: "/images/spotify.svg"
 
-  - name: Pinterest
-    link: "https://www.pinterest.com/"
-    image: "/images/pinterest.svg"
-
-  - name: Netlify
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
-
-  - name: Apple
-    link: "https://www.apple.com/"
-    image: "/images/apple.svg"
-
-  - name: Adobe
-    link: "https://www.adobe.com/"
-    image: "/images/adobe.svg"
-  - name: Google
-    link: "https://www.google.com/"
-    image: "/images/google.svg"
-
-  - name: Spotify
-    link: "https://www.spotify.com/"
-    image: "/images/spotify.svg"
-
-  - name: Pinterest
-    link: "https://www.pinterest.com/"
-    image: "/images/pinterest.svg"
-
-  - name: Netlify
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
-
-  - name: Apple
-    link: "https://www.apple.com/"
-    image: "/images/apple.svg"
-
-  - name: Adobe
-    link: "https://www.adobe.com/"
-    image: "/images/adobe.svg"
-
 #-------------------------------
 # Newsletter
 mailchimp:
@@ -153,8 +103,8 @@ work:
 testimonials:
   enable: true
 
-testimonial__title: Testimonials title
-testimonial__description: Testimonials description
+testimonial__title:
+testimonial__description:
 
 testimonial__items:
   - name: "Asst. Prof. Erhun Kundakcıoğlu"
@@ -168,51 +118,54 @@ testimonial__items:
       he is a TÜBİTAK Early Career Awardee and associate editor for leading optimization journals.
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/erhunkundakcioglu"}
-        - {icon: "ion ion-logo-github", link: "https://github.com/OEKundakcioglu/"}
+        - {icon: "ion ion-logo-github", link: "https://github.com/OEKundakcioglu"}
         - {icon: "fa-brands fa-google-scholar", link: "https://scholar.google.com/citations?user=k6NTKvsAAAAJ&hl=en"}
 
-  - name: "Maria Curtis"
-    image: "/images/client-3.jpg"
-    designation: "Team Lead"
+  - name: "Ulvi Fındık"
+    image: "/images/ulvi-findik.jpeg"
+    designation:
     link:
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content: >
+      Ulvi Fındık is a Operations Research Engineer at Datart and a Master’s student in 
+      Industrial Engineering at Özyeğin University. His work centers on industrial optimization, 
+      decision analytics, and applied operations research, with experience developing advanced scheduling 
+      and optimization solutions across diverse domains.
+    socials:
+      - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ulvi-fındık" }
+      - { icon: "ion ion-logo-github", link: "https://github.com/ulvifk" }
 
-  - name: "Carter Bergson"
-    image: "/images/client-4.jpg"
-    designation: "CEO, Founder"
+  - name: "Muhammed Esad Simitcioğlu"
+    image: "/images/esad-simitcioglu.jpg"
+    designation:
     link:
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content: >
+      Esad Content
+    socials:
+      - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
+      - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
+      - { icon: "fa-brands fa-google-scholar", link: "https://scholar.google.com/citations?user=dLcZwYsAAAAJ" }
 
-  - name: "Jordyn Franci"
-    image: "/images/client-5.jpg"
-    designation: "Personal Trainer"
+  - name: "Enes Tanrıkulu"
+    image: "/images/enes-tanrikulu.jpg"
+    designation:
     link:
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : >
+      Enes Content
+    socials:
+      - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/enes-tanrıkulu-363845145" }
+      - { icon: "ion ion-logo-github", link: "https://github.com/enestanrikuluu" }
 
-  - name: "Mira Carder"
-    image: "/images/client-6.jpg"
-    designation: "Data Scientist"
+  - name: "Ahmet Mert Yazıcı"
+    image: "/images/mert-yazici.jpg"
+    designation:
     link:
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Madelyn Herwitz"
-    image: "/images/client-7.jpg"
-    designation: "Frontend Engineer"
-    link:
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Anika Schleifer"
-    image: "/images/client-8.jpg"
-    designation: "Fitness Director"
-    link:
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "Wilson Dorwart"
-    image: "/images/client-9.jpg"
-    designation: "Financial Manager"
-    link:
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
+    content: >
+      Ahmet Mert Yazıcı is a Bachelor's student at Koç University, pursuing a degree in Computer Engineering
+      and a double major in Business Administration. He works as a Software Engineer at Datart, where he focuses on
+      designing and developing scalable applications, backend services, and data-driven solutions.
+    socials:
+      - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
+      - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
 
 #-------------------------------
 # Blog Section
@@ -226,7 +179,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "https://placehold.co/600x400?text=Footer+Background+Image"
+footer__background__image:
 
 #-------------------------------
 # Contact Settings
