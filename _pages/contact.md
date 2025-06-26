@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 image:
+include_credit: true
 ---
 # Title AAA
 ## Subtitle BBB
