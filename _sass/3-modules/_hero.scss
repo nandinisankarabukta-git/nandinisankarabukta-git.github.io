@@ -1,23 +1,42 @@
 /* Hero */
-.hero {
-  position: relative;
-  display: block;
+.hero__container {
+  padding-left: calc(#{$container-offset} * 2.5);
+  padding-right: calc(#{$container-offset} * 2.5);
+  margin: 0 auto;
+  width: 100%;
 
-  & > .hero__wrapper {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    backdrop-filter: blur(3px) brightness(0.85);
+  & > .hero {
+    position: relative;
+    display: block;
+    width: 100%;
+    aspect-ratio: auto;
+    border-radius: $global-radius;
+    overflow: hidden;
+    background-color: var(--background-alt-color);
 
-    & > .hero__content {
+    & > img {
+      position: static;     /* remove absolute */
+      display: block;       /* remove inline-gap */
+      width: 100%;          /* scale to container width */
+      height: auto;         /* preserve intrinsic ratio */
+      border-radius: $global-radius;
+      overflow: hidden;
+      background-color: var(--background-alt-color);
+    }
+
+    & > .hero__wrapper {
       position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: auto;
-      padding: 2rem 1rem;
+      inset: 0;
+      backdrop-filter: blur(3px) brightness(0.7);
+
+      & > .hero__content {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+        padding: 6rem 1rem;
+      }
     }
   }
 }
