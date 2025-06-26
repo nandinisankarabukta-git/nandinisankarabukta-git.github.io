@@ -43,7 +43,7 @@
     min-width: 160px;
     padding: 20px 24px;
     border-radius: 8px;
-    border-top: 3px solid var(--primary-color);
+    border-top: 3px solid var(--logo-color);
     transform: translate3d(0, 10px, 0);
     opacity: 0;
     visibility: hidden;
@@ -90,11 +90,11 @@
             font-size: 18px;
 
             &:hover {
-              color: var(--primary-color);
+              color: var(--logo-color);
             }
 
             &.active-link {
-              color: var(--primary-color);
+              color: var(--logo-color);
             }
           }
         }
@@ -112,11 +112,11 @@
           }
 
           &.active-link {
-            color: var(--primary-color);
+            color: var(--logo-color);
           }
 
           &:hover {
-            color: var(--primary-color);
+            color: var(--logo-color);
           }
 
           .arrow-down {
@@ -182,7 +182,7 @@
         &::before {
           opacity: 1;
           visibility: visible;
-          background-color: var(--primary-color);
+          background-color: var(--logo-color);
         }
       }
     }
@@ -226,7 +226,7 @@
     opacity: 0;
     visibility: hidden;
     transition: all .25s ease;
-    border-top: 3px solid var(--primary-color);
+    border-top: 3px solid var(--logo-color);
     border-radius: 8px;
     box-shadow: 0 15px 40px 5px rgba(20, 20, 20, 0.07);
     background-color: var(--background-color);
@@ -241,7 +241,7 @@
       will-change: transform;
 
       &:hover {
-        color: var(--primary-color);
+        color: var(--logo-color);
       }
 
       &:last-child {
@@ -249,7 +249,7 @@
       }
 
       &.active-link {
-        color: var(--primary-color);
+        color: var(--logo-color);
       }
 
       &::before {
