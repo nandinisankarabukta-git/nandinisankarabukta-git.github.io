@@ -22,12 +22,13 @@
       border-radius: $global-radius;
       overflow: hidden;
       background-color: var(--background-alt-color);
+      opacity: 0.3;
     }
 
     & > .hero__wrapper {
       position: absolute;
       inset: 0;
-      backdrop-filter: blur(3px) brightness(0.7);
+      backdrop-filter: blur(3px) brightness(0.85);
 
       & > .hero__content {
         position: absolute;
