@@ -58,11 +58,13 @@
   }
 
   /* Optional: tighten space above hero section if it’s nested under something */
-  header,
-  .site-header {
+  header, .site-header {
     margin-bottom: 0; !important;
     padding-bottom: 0; !important;
   }
+    /*Let's also fade the alpha 
+absolutely can create a vertical gradient mask on an image’s alpha channel — this gives the appearance of the image fading out gradually (e.g., from opaque to transparent as you go down or up).
+    */
 </style>
 {% if site.data.settings.hero.enable == true %}
 <div class="hero__container">
