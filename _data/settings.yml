@@ -37,7 +37,7 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero__title: decision analytics through advanced research & development
+  hero__title:
   hero__description:
   hero__image: /images/hero.jpg
 
