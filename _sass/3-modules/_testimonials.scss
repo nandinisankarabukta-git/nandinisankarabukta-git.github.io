@@ -84,8 +84,9 @@
 
 .image-container {
   position: relative;
-  width: 4rem;
-  height: 4rem;
+  width: 4.25rem;
+  height: 4.25rem;
+  flex-shrink: 0;
   margin-right: 12px;
   border: 2px solid var(--primary-color);
   border-radius: 50%;
@@ -112,7 +113,7 @@
 .client-info {
   .client-name {
     margin-bottom: 8px;
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     line-height: 1;
     font-weight: 700;
   }
