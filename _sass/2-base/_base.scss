@@ -27,6 +27,11 @@ body {
   }
 }
 
+*::-moz-selection {
+  color: var(--background-color);
+  background-color: var(--primary-color);
+}
+
 *::selection {
   color: var(--background-color);
   background-color: var(--primary-color);

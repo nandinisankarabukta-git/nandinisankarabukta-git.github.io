@@ -32,6 +32,10 @@
   color: var(--heading-font-color);
   background-color: var(--background-color);
 
+  &::-moz-placeholder {
+    color: var(--text-alt-color);
+  }
+
   &::placeholder {
     color: var(--text-alt-color);
   }

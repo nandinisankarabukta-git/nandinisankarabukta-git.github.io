@@ -334,7 +334,9 @@
   align-items: center;
   width: 20px;
   height: 20px;
-  user-select: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
   cursor: pointer;
 
   &.theme-light {
