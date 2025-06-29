@@ -6,7 +6,7 @@
   }
 
   .tag__info {
-    max-width: 840px;
+    max-width: 52.5rem;
     margin: 40px auto 60px;
     padding-bottom: 60px;
     text-align: center;
@@ -17,7 +17,7 @@
     position: absolute;
     top: -8px;
     padding: 4px 10px;
-    font-size: 18px;
+    font-size: 1.125rem;
     line-height: 1.2;
     font-weight: normal;
     border-radius: 30px;
@@ -27,13 +27,13 @@
   .tag__name {
     position: relative;
     margin-bottom: 0;
-    font-size: 62px;
+    font-size: 3.875rem;
     text-transform: capitalize;
   }
 
   .tag__link {
     margin-top: 4px;
-    font-size: 21px;
+    font-size: 1.3125rem;
     color: var(--text-alt-color);
 
     a {
@@ -52,17 +52,17 @@
     }
 
     .tag__name {
-      font-size: 48px;
+      font-size: 3rem;
     }
 
     .tag__link {
-      font-size: 18px;
+      font-size: 1.125rem;
     }
   }
 
   @media (max-width: $mobile) {
     .tag__name {
-      font-size: 36px;
+      font-size: 2.25rem;
     }
   }
 }

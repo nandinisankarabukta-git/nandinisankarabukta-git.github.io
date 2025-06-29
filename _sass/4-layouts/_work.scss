@@ -71,7 +71,7 @@
     position: relative;
     margin-bottom: 12px;
     padding-left: 16px;
-    font-size: 18px;
+    font-size: 1.125rem;
     color: var(--heading-font-color);
 
     &::before {
@@ -80,15 +80,15 @@
       left: 0;
       top: 50%;
       transform: translateY(-50%);
-      width: 8px;
-      height: 8px;
+      width: 0.5rem;
+      height: 0.5rem;
       border-radius: 50%;
       background-color: var(--primary-color);
     }
 
     strong {
       display: inline-block;
-      width: 60px;
+      width: 3.75rem;
       font-weight: 500;
     }
 
@@ -99,24 +99,24 @@
 
   @media (max-width: $mobile) {
     .work-meta__item {
-      font-size: 16px;
+      font-size: 1rem;
     }
   }
 }
 
 .work-category {
   margin-bottom: 4px;
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: 500;
   color: var(--heading-font-color);
 
   @media (max-width: $mobile) {
-    font-size: 16px;
+    font-size: 1rem;
   }
 }
 
 /* Work Navigation */
 .work-navigation {
-  max-width: 840px;
+  max-width: 52.5rem;
   margin: 0 auto;
 }

@@ -1,12 +1,12 @@
 /* Grid */
 $columns: 12;
-$container-base-width: 1300px;
+$container-base-width: 81.25rem;
 $container-offset: $base-spacing-unit;
 
-$wide: 1400px;
-$desktop: 1024px;
-$tablet: 768px;
-$mobile: 576px;
+$wide: 87.5rem;
+$desktop: 64rem;
+$tablet: 48rem;
+$mobile: 36rem;
 
 $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 
@@ -27,21 +27,21 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   margin: 0 auto;
 
   @media only screen and (max-width: $wide) {
-    max-width: 1000px;
+    max-width: 62.5rem;
     padding-left: $container-offset;
     padding-right: $container-offset;
   }
 
   @media only screen and (max-width: $desktop) {
-    max-width: 740px;
+    max-width: 46.25rem;
   }
 
   @media only screen and (max-width: $tablet) {
-    max-width: 560px;
+    max-width: 35rem;
   }
 
   @media only screen and (max-width: $mobile) {
-    max-width: 480px;
+    max-width: 30rem;
     padding-left: calc(#{$container-offset} + 4px);
     padding-right: calc(#{$container-offset} + 4px);
   }
