@@ -109,14 +109,14 @@
 .client-info {
   .client-name {
     margin-bottom: 8px;
-    font-size: 1.125rem;
+    font-size: 1.75rem;
     line-height: 1;
     font-weight: 700;
   }
 
   .client-designation {
     margin-bottom: 0;
-    font-size: 0.875rem;
+    font-size: 1.125rem;
     line-height: 1;
     color: var(--text-alt-color);
   }
@@ -126,7 +126,7 @@
 .client-text {
   position: relative;
   margin-bottom: 0;
-  font-size: 1rem;
+  font-size: 1.25rem;
 
   &::before {
     content: "“";
