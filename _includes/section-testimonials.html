@@ -21,7 +21,7 @@
               <div class="client-meta">
                 {% if testimonial__item.image %}
                   <div class="image-container">
-                    <img class="client-avatar lazy" data-src="{{ testimonial__item.image | relative_url }}" alt="{{ testimonial__item.name }}" loading="lazy">
+                    <img class="client-avatar lazy" draggable="false" data-src="{{ testimonial__item.image | relative_url }}" alt="{{ testimonial__item.name }}" loading="lazy">
                   </div>
                 {% endif %}
                 <div class="client-info">
@@ -45,7 +45,7 @@
               {% if testimonial__item.socials %}
                 <div class="social">
                   <ul class="social__list list-reset">
-                    {% for social in testimonial__item.socials %} <!-- TODO: make the items smaller -->
+                    {% for social in testimonial__item.socials %}
                       <li class="social__item">
                         <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
                            aria-label="Social link"><i class="{{social.icon}}"></i></a>
