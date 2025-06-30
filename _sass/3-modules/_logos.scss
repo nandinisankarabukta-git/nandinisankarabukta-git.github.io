@@ -15,6 +15,10 @@
 .logos__item {
   padding: $base-spacing-unit;
   margin-bottom: 0;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 }
 
 .logos__link {

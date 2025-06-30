@@ -28,12 +28,12 @@ body {
 }
 
 *::-moz-selection {
-  color: var(--background-color);
+  color: var(--light-gray);
   background-color: var(--primary-color);
 }
 
 *::selection {
-  color: var(--background-color);
+  color: var(--light-gray);
   background-color: var(--primary-color);
 }
 
