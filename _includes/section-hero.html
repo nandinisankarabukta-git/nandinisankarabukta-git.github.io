@@ -12,10 +12,13 @@
 {% if site.data.settings.hero.enable == true %}
 <div class="hero__container">
     <div class="hero">
-        <img class="lazy" data-src="{{ site.data.settings.hero.hero__image }}" alt="{{ site.data.settings.title }}">
+        <img src="{{ site.data.settings.hero.hero__image }}" alt="{{ site.data.settings.title }}">
         <div class="hero__wrapper">
             <div class="hero__content">
-                <img class="lazy hero__title" draggable="false" data-src="/images/title.png" alt="{{ site.data.settings.hero.hero__title }}" />
+                <div class="hero__title">
+                    <h1> Decision Analtyics </h1>
+                    <h2> Advanced Research and Development </h2>
+                </div>
                 {% if page.image_caption %}
                 <div class="hero__caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
                 {%endif %}

@@ -3,7 +3,7 @@
   margin: 0;
   width: 100%;
 
-  & > .hero {
+  .hero {
     position: relative;
     width: 100%;
     aspect-ratio: auto;
@@ -23,24 +23,37 @@
               mask-repeat: no-repeat;
     }
 
-    & > .hero__wrapper {
+    .hero__wrapper {
       position: absolute;
       inset: 0;
       -webkit-backdrop-filter: blur(4px) brightness(0.85);
               backdrop-filter: blur(4px) brightness(0.85);
 
-      & > .hero__content {
+      .hero__content {
         position: absolute;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
 
-        & > .hero__title {
+        .hero__title {
           width: 100%;
           max-width: 700px;
+
+          & > * {
+            text-align: center;
+            margin: 0 auto;
+          }
+
+          & > h1 {
+            font-size: 4vw;
+          }
+
+          & > h2 {
+              font-size: 3vw;
+          }
         }
 
-        & > .hero__caption {
+        .hero__caption {
           @extend .post-image-caption;
           text-align: center;
         }
