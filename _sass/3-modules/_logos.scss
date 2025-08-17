@@ -34,6 +34,8 @@
 .logos__image {
   height: 2.25rem;
   filter: invert(51%) sepia(4%) saturate(1703%) hue-rotate(179deg) brightness(85%) contrast(89%);
+  border-radius: 0 !important;
+  
 
   @media (max-width: $mobile) {
     height: 2rem;
