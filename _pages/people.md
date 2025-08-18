@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Team
-description: Team description
-permalink: /team/
+title: People
+description: 
+permalink: /people/
 image:
 image_caption:
 ---

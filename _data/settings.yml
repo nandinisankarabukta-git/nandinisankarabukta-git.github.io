@@ -12,8 +12,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Team'
-      url: '/team/'
+    - title: 'People'
+      url: '/people/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Publications'
@@ -46,39 +46,16 @@ hero:
 # Logos Settings
 logos:
   enable: true
-  logos__title: I've worked with some great companies
+  logos__title: References
 
 logo__items:
-  - name: Google
-    link: "https://www.google.com/"
-    image: "/images/google.svg"
-
-  - name: Spotify
-    link: "https://www.spotify.com/"
-    image: "/images/spotify.svg"
-
-  - name: Pinterest
-    link: "https://www.pinterest.com/"
-    image: "/images/pinterest.svg"
-
-  - name: Netlify
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
-
-  - name: Apple
-    link: "https://www.apple.com/"
-    image: "/images/apple.svg"
-
-  - name: Adobe
-    link: "https://www.adobe.com/"
-    image: "/images/adobe.svg"
 
   - name: Arute
     link: "http://arutesolutions.com/"
     image: "/images/arute.svg"
 
   - name: Bicakcilar
-    link: "https://www.bicakcilar.com/"
+    link: "https://kocmedical.com/"
     image: "/images/bicakcilar.svg"
 
   - name: Borcelik
@@ -86,59 +63,55 @@ logo__items:
     image: "/images/borcelik.svg"
 
   - name: Cansan
-    link: "https://www.cansan.com/"
+    link: "https://www.cansan.com.tr/"
     image: "/images/cansan.svg"
 
   - name: Durak
-    link: "https://www.durakgrup.com/"
+    link: "https://durak.com//"
     image: "/images/durak.svg"
 
-  - name: Kronos
-    link: "https://www.kronosmetal.com/"
-    image: "/images/el.svg"
-
   - name: Funthemental
-    link: "https://www.funthemental.com/"
+    link: "http://www.funthemental.com.tr/"
     image: "/images/funthemental.svg"
 
-  - name: HC
-    link: "https://www.harrishealth.com/"
+  - name: Harris Health
+    link: "http://www.harrishealth.com/"
     image: "/images/hc.svg"
 
   - name: Hitit
     link: "https://www.hitit.com/"
     image: "/images/hitit.svg"
 
-  - name: HW
+  - name: Honeywell
     link: "https://www.honeywell.com/"
     image: "/images/hw.svg"
 
-  - name: KW
+  - name: Keller Williams
     link: "https://www.kw.com/"
     image: "/images/kw.svg"
 
-  - name: LCW
-    link: "https://www.lcw.com/"
-    image: "/images/lcw.svg"
+  - name: Kronos
+    link: "https://www.ukg.com/"
+    image: "/images/el.svg"
 
-  - name: MG
+  - name: Magic Generations
     link: "https://www.mgsportif.com/"
     image: "/images/mg.svg"
 
-  - name: MIR
+  - name: Mir Unique Solutions
     link: "https://www.mirarge.com/"
     image: "/images/mir.svg"
 
-  - name: MM
-    link: "https://www.komatsu.com/"
+  - name: Modular Mining
+    link: "https://www.komatsu.com/en-us/technology/smart-mining/modular"
     image: "/images/mm.svg"
 
-  - name: TAM
-    link: "https://www.tamfinans.com/"
+  - name: Tam Finans
+    link: "https://www.tamfinans.com.tr/"
     image: "/images/tam.svg"
 
-  - name: TMG
-    link: "https://www.turkuvazmedyagrubu.com/"
+  - name: Turkuvaz Medya Grubu
+    link: "https://www.turkuvazmedyagrubu.com.tr/"
     image: "/images/tmg.svg"
   
     
@@ -170,6 +143,32 @@ testimonial__title:
 testimonial__description:
 
 testimonial__items:
+
+  - name: "Ahmet Mert Yazıcı"
+    image: "/images/mert-yazici.jpg"
+    designation:
+    link:
+    content: >
+      Ahmet Mert Yazıcı is a Bachelor's student at Koç University, pursuing a degree in Computer Engineering
+      and a double major in Business Administration. He works as a Software Engineer at Datart, where he focuses on
+      designing and developing scalable applications, backend services, and data-driven solutions.
+    socials:
+      - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
+      - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
+
+  - name: "Enes Tanrıkulu"
+    image: "/images/enes-tanrikulu.jpg"
+    designation:
+    link:
+    content : >
+      Enes Tanrıkulu is a senior student at Koç University, pursuing a Bachelor of Science in Industrial Engineering 
+      with a track in Machine Learning, and a Double Major in Computer Engineering. He works as a Software/Operations 
+      Research Engineer at DATART, where he focuses on developing scalable applications, high performing optimization
+       models and data-centered solutions for enterprise problems.
+    socials:
+    - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/enes-tanrıkulu-363845145" }
+    - { icon: "ion ion-logo-github", link: "https://github.com/enestanrikuluu" }
+
   - name: "Erhun Kundakcıoğlu"
     image: "/images/erhun-kundakcioglu.jpg"
     designation:
@@ -184,6 +183,29 @@ testimonial__items:
         - {icon: "ion ion-logo-github", link: "https://github.com/OEKundakcioglu"}
         - {icon: "fa-brands fa-google-scholar", link: "https://scholar.google.com/citations?user=k6NTKvsAAAAJ&hl=en"}
 
+  - name: "Esma Nehir Vardar"
+    image: "/images/nehir-vardar.jpg"
+    designation:
+    link:
+    content: >
+        Esma Nehir Vardar is a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
+         She is a volunteer intern at DATART, where she is gaining experience in operations research,
+          developing real-life solutions, and learning how data and algorithms are applied to practical problems.
+    socials:
+        - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/esma-nehir-vardar-4448562b5"}
+        - {icon: "ion ion-logo-github", link: "https://github.com/nehirvardar"}
+
+  - name: "Muhammed Esad Simitcioğlu"
+    image: "/images/esad-simitcioglu.jpg"
+    designation:
+    link:
+    content: >
+      Esad Content
+    socials:
+    - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
+    - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
+    - { icon: "fa-brands fa-google-scholar", link: "https://scholar.google.com/citations?user=dLcZwYsAAAAJ" }
+
   - name: "Ulvi Fındık"
     image: "/images/ulvi-findik.jpeg"
     designation:
@@ -197,38 +219,38 @@ testimonial__items:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ulvi-fındık" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ulvifk" }
 
-  - name: "Muhammed Esad Simitcioğlu"
-    image: "/images/esad-simitcioglu.jpg"
-    designation:
-    link:
-    content: >
-      Esad Content
-    socials:
-      - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
-      - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
-      - { icon: "fa-brands fa-google-scholar", link: "https://scholar.google.com/citations?user=dLcZwYsAAAAJ" }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
-  - name: "Enes Tanrıkulu"
-    image: "/images/enes-tanrikulu.jpg"
-    designation:
-    link:
-    content : >
-      Enes Content
-    socials:
-      - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/enes-tanrıkulu-363845145" }
-      - { icon: "ion ion-logo-github", link: "https://github.com/enestanrikuluu" }
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
-  - name: "Ahmet Mert Yazıcı"
-    image: "/images/mert-yazici.jpg"
-    designation:
-    link:
-    content: >
-      Ahmet Mert Yazıcı is a Bachelor's student at Koç University, pursuing a degree in Computer Engineering
-      and a double major in Business Administration. He works as a Software Engineer at Datart, where he focuses on
-      designing and developing scalable applications, backend services, and data-driven solutions.
-    socials:
-      - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
-      - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 #-------------------------------
 # Blog Section

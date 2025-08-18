@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Contact
-description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+description: 
 permalink: /contact/
 image:
 include_credit: true
 ---
-# Title AAA
-## Subtitle BBB
+You can contact us at [team@datart-lab.com](mailto:team@datart-lab.com) for any questions or feedback. We look forward to hearing from you!
+
