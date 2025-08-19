@@ -70,7 +70,7 @@
   @media (max-width: $desktop) {
     position: absolute;
     top: 88px;
-    right: $base-spacing-unit;
+    left: $base-spacing-unit;
     z-index: -1;
     display: block;
     min-width: 160px;

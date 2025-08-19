@@ -11,7 +11,7 @@ color_scheme: dark # You can choose three modes auto, light, and dark. By defaul
 menu__settings:
   menu__items:
     - title: 'Work'
-      url: '/work/'  
+      url: '/work/'
     - title: 'Team'
       url: '/team/'
     - title: 'Contact'
@@ -109,9 +109,9 @@ logo__items:
   - name: Turkuvaz Medya Grubu
     link: "https://www.turkuvazmedyagrubu.com.tr/"
     image: "/images/tmg.png"
-  
-    
-  
+
+
+
 
 #-------------------------------
 # Newsletter
@@ -224,39 +224,6 @@ testimonial__items:
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ulvi-fındık" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ulvifk" }
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
 #-------------------------------
 # Blog Section
