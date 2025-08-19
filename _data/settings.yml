@@ -10,10 +10,10 @@ color_scheme: dark # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
+    - title: 'Work'
+      url: '/work/'  
     - title: 'Team'
       url: '/team/'
-    - title: 'Work'
-      url: '/work/'
     - title: 'Contact'
       url: '/contact/'
 
