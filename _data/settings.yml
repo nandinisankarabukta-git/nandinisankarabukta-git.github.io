@@ -76,7 +76,7 @@ logo__items:
 
   - name: Harris Health
     link: "https://www.harrishealth.org/"
-    image: "/images/hc.svg"
+    image: "/images/hh.png"
 
   - name: Hitit
     link: "https://www.hitit.com/"
@@ -108,7 +108,7 @@ logo__items:
 
   - name: Tam Finans
     link: "https://www.tamfinans.com.tr/"
-    image: "/images/tam.svg"
+    image: "/images/tamfinans.png"
 
   - name: Turkuvaz Medya Grubu
     link: "https://www.turkuvazmedyagrubu.com.tr/"
@@ -195,7 +195,7 @@ testimonial__items:
     link:
     content: >
         Esma Nehir Vardar is a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
-         She is a intern at Datart Lab, where she is gaining experience in operations research,
+         She is an intern at Datart Lab, where she is gaining experience in operations research,
           developing real-life solutions, and learning how data and algorithms are applied to practical problems.
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/esma-nehir-vardar-4448562b5"}
@@ -206,7 +206,11 @@ testimonial__items:
     designation:
     link:
     content: >
-      Esad Content
+      M. Esad Simitcioğlu graduated from Koç University with a Master of Science in Computer Science, focusing on Security,
+       Privacy, and Machine Learning. He also holds a Bachelor of Science in Computer Science from Özyeğin University. 
+       He currently works as an Algorithm Developer at Komatsu Mining and Software Lead at Datart-Lab, where he develops predictive models,
+        optimization solutions, and computer vision algorithms. His research and professional work span data privacy, software engineering,
+         and machine learning systems, aiming to create data-driven solutions for complex industrial and engineering problems.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
     - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
