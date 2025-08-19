@@ -145,9 +145,8 @@ testimonial__items:
     designation:
     link:
     content: >
-      Ahmet Mert Yazıcı is a Bachelor's student at Koç University, pursuing a degree in Computer Engineering
-      and a double major in Business Administration. He works as a Software Engineer at Datart Lab, where he focuses on
-      designing and developing scalable applications, backend services, and data-driven solutions.
+      Ahmet Mert Yazıcı is a Bachelor's student at Koç University, pursuing a degree in Computer Engineering and a double major in Business Administration. He focuses on
+      designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
@@ -158,7 +157,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Egecan Aktan is a Master's student at Özyeğin University.
+      Egecan Aktan is a Master’s student in Industrial Engineering at Özyeğin University, where he also earned his BSc degree in the same field.
 
 
   - name: "Enes Tanrıkulu"
@@ -167,9 +166,8 @@ testimonial__items:
     link:
     content : >
       Enes Tanrıkulu is a senior student at Koç University, pursuing a Bachelor of Science in Industrial Engineering 
-      with a track in Machine Learning, and a Double Major in Computer Engineering. He works as a Software/Operations 
-      Research Engineer at Datart Lab, where he focuses on developing scalable applications, high performing optimization
-       models and data-centered solutions for enterprise problems.
+      with a track in Machine Learning, and a Double Major in Computer Engineering. He focuses on developing scalable applications, high performing optimization
+       models and data-centered solutions for enterprise problems at Datart Lab.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/enes-tanrıkulu-363845145" }
     - { icon: "ion ion-logo-github", link: "https://github.com/enestanrikuluu" }
@@ -179,7 +177,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com). He received the [TÜBİTAK](https://tubitak.gov.tr/en) Early Career Award and contributes as an associate editor for several journals in optimization.
+      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. He holds a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com). He received the [TÜBİTAK](https://tubitak.gov.tr/en) Early Career Award and contributes as an associate editor for several journals in optimization.
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/erhunkundakcioglu"}
         - {icon: "ion ion-logo-github", link: "https://github.com/OEKundakcioglu"}
@@ -191,8 +189,8 @@ testimonial__items:
     link:
     content: >
         Esma Nehir Vardar is a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
-         She is an intern at Datart Lab, where she is gaining experience in operations research,
-          developing real-life solutions, and learning how data and algorithms are applied to practical problems.
+         She is gaining experience in operations research,
+          developing real-life solutions, and learning how data and algorithms are applied to practical problems at Datart Lab.
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/esma-nehir-vardar-4448562b5"}
         - {icon: "ion ion-logo-github", link: "https://github.com/nehirvardar"}
@@ -202,11 +200,8 @@ testimonial__items:
     designation:
     link:
     content: >
-      M. Esad Simitcioğlu graduated from Koç University with a Master of Science in Computer Science, focusing on Security,
-       Privacy, and Machine Learning. He also holds a Bachelor of Science in Computer Science from Özyeğin University. 
-       He currently works as an Algorithm Developer at Komatsu Mining and Software Lead at Datart-Lab, where he develops predictive models,
-        optimization solutions, and computer vision algorithms. His research and professional work span data privacy, software engineering,
-         and machine learning systems, aiming to create data-driven solutions for complex industrial and engineering problems.
+      M. Esad Simitcioğlu graduated from Koç University with a Master of Science in Computer Science, focusing on Security, Privacy, and Machine Learning. He also holds a Bachelor of Science in Computer Science from Özyeğin University. 
+       He currently works as a Software Lead at Datart-Lab and an Algorithm Developer at Komatsu Mining, where he develops predictive models, optimization solutions, and computer vision algorithms. His research and professional work span data privacy, software engineering, and machine learning systems, aiming to create data-driven solutions for complex industrial and engineering problems.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
     - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
@@ -218,17 +213,14 @@ testimonial__items:
     designation:
     link:
     content: >
-       Nurullah Y. Duru is a Master's student at Özyeğin University.
+       Nurullah Y. Duru is a Master’s student in Industrial Engineering at Özyeğin University, where he also earned his BSc degree in the same field.
 
   - name: "Ulvi Fındık, MSc"
     image: "/images/ulvi-findik.jpeg"
     designation:
     link:
     content: >
-      Ulvi Fındık is a Operations Research Engineer at Datart and a Master’s student in 
-      Industrial Engineering at Özyeğin University. His work centers on industrial optimization, 
-      decision analytics, and applied operations research, with experience developing advanced scheduling 
-      and optimization solutions across diverse domains.
+      Ulvi Fındık is a PhD student in Industrial Engineering at Sabancı University. He holds both MSc and BSc degrees in Industrial Engineering from Özyeğin University. His research focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ulvi-fındık" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ulvifk" }
