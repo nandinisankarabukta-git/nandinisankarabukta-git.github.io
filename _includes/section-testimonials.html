@@ -40,7 +40,7 @@
                 </div>
               </div>
               {% if testimonial__item.content %}
-                <p class="client-text">{{ testimonial__item.content }}</p>
+                <p class="client-text">{{ testimonial__item.content | markdownify}}</p>
               {% endif %}
               {% if testimonial__item.socials %}
                 <div class="social">

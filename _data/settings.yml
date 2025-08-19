@@ -156,6 +156,15 @@ testimonial__items:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
 
+
+  - name: "Egecan Aktan, BSc"
+    image: "/images/egecan-aktan.jpg"
+    designation:
+    link:
+    content: >
+      Egecan Aktan is a Master's student at Özyeğin University.
+
+
   - name: "Enes Tanrıkulu"
     image: "/images/enes-tanrikulu.jpg"
     designation:
@@ -174,10 +183,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Professor of Industrial Engineering at Özyeğin University and Director of the Datart Lab, 
-      Dr. Erhun Kundakcıoğlu focuses on decision analytics and mathematical optimization. 
-      A former faculty member at the University of Houston and Distinguished Scientist at Optym, 
-      he is a TÜBİTAK Early Career Awardee and associate editor for leading optimization journals.
+      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com). He received the [TÜBİTAK](https://tubitak.gov.tr/en) Early Career Award and contributes as an associate editor for several journals in optimization.
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/erhunkundakcioglu"}
         - {icon: "ion ion-logo-github", link: "https://github.com/OEKundakcioglu"}
@@ -205,6 +211,14 @@ testimonial__items:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
     - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
     - { icon: "fa-brands fa-google-scholar", link: "https://scholar.google.com/citations?user=dLcZwYsAAAAJ" }
+
+
+  - name: "Nurullah Y. Duru, BSc"
+    image: "/images/nurullah-duru.jpg"
+    designation:
+    link:
+    content: >
+       Nurullah Y. Duru is a Master's student at Özyeğin University.
 
   - name: "Ulvi Fındık, MSc"
     image: "/images/ulvi-findik.jpeg"
