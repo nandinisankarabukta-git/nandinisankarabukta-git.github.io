@@ -12,8 +12,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'People'
-      url: '/people/'
+    - title: 'Team'
+      url: '/team/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Publications'
@@ -52,7 +52,7 @@ logo__items:
 
   - name: Arute
     link: "http://arutesolutions.com/"
-    image: "/images/arute.svg"
+    image: "/images/arute.png"
 
   - name: Bicakcilar
     link: "https://kocmedical.com/"
@@ -60,51 +60,51 @@ logo__items:
 
   - name: Borcelik
     link: "https://www.borcelik.com/"
-    image: "/images/borcelik.svg"
+    image: "/images/borcelik.png"
 
   - name: Cansan
     link: "https://www.cansan.com.tr/"
-    image: "/images/cansan.svg"
+    image: "/images/cansan.png"
 
   - name: Durak
-    link: "https://durak.com//"
-    image: "/images/durak.svg"
+    link: "https://durak.com/"
+    image: "/images/durak.png"
 
   - name: Funthemental
     link: "http://www.funthemental.com.tr/"
-    image: "/images/funthemental.svg"
+    image: "/images/fm.png"
 
   - name: Harris Health
-    link: "http://www.harrishealth.com/"
+    link: "https://www.harrishealth.org/"
     image: "/images/hc.svg"
 
   - name: Hitit
     link: "https://www.hitit.com/"
-    image: "/images/hitit.svg"
+    image: "/images/hitit.png"
 
   - name: Honeywell
     link: "https://www.honeywell.com/"
-    image: "/images/hw.svg"
+    image: "/images/hw.png"
 
   - name: Keller Williams
     link: "https://www.kw.com/"
-    image: "/images/kw.svg"
+    image: "/images/kw.png"
 
   - name: Kronos
     link: "https://www.ukg.com/"
-    image: "/images/el.svg"
+    image: "/images/ukg.png"
 
   - name: Magic Generations
     link: "https://www.mgsportif.com/"
-    image: "/images/mg.svg"
+    image: "/images/mg.png"
 
   - name: Mir Unique Solutions
     link: "https://www.mirarge.com/"
-    image: "/images/mir.svg"
+    image: "/images/mir.png"
 
   - name: Modular Mining
-    link: "https://www.komatsu.com/en-us/technology/smart-mining/modular"
-    image: "/images/mm.svg"
+    link: "https://www.komatsu.com/"
+    image: "/images/Komatsu.png"
 
   - name: Tam Finans
     link: "https://www.tamfinans.com.tr/"
@@ -112,7 +112,7 @@ logo__items:
 
   - name: Turkuvaz Medya Grubu
     link: "https://www.turkuvazmedyagrubu.com.tr/"
-    image: "/images/tmg.svg"
+    image: "/images/tmg.png"
   
     
   
@@ -150,7 +150,7 @@ testimonial__items:
     link:
     content: >
       Ahmet Mert Yazıcı is a Bachelor's student at Koç University, pursuing a degree in Computer Engineering
-      and a double major in Business Administration. He works as a Software Engineer at Datart, where he focuses on
+      and a double major in Business Administration. He works as a Software Engineer at Datart Lab, where he focuses on
       designing and developing scalable applications, backend services, and data-driven solutions.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
@@ -163,14 +163,14 @@ testimonial__items:
     content : >
       Enes Tanrıkulu is a senior student at Koç University, pursuing a Bachelor of Science in Industrial Engineering 
       with a track in Machine Learning, and a Double Major in Computer Engineering. He works as a Software/Operations 
-      Research Engineer at DATART, where he focuses on developing scalable applications, high performing optimization
+      Research Engineer at Datart Lab, where he focuses on developing scalable applications, high performing optimization
        models and data-centered solutions for enterprise problems.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/enes-tanrıkulu-363845145" }
     - { icon: "ion ion-logo-github", link: "https://github.com/enestanrikuluu" }
 
-  - name: "Erhun Kundakcıoğlu"
-    image: "/images/erhun-kundakcioglu.jpg"
+  - name: "Erhun Kundakcıoğlu, PhD"
+    image: "/images/erhun-kundakcioglu.jpeg"
     designation:
     link:
     content: >
@@ -189,13 +189,13 @@ testimonial__items:
     link:
     content: >
         Esma Nehir Vardar is a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
-         She is a volunteer intern at DATART, where she is gaining experience in operations research,
+         She is a intern at Datart Lab, where she is gaining experience in operations research,
           developing real-life solutions, and learning how data and algorithms are applied to practical problems.
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/esma-nehir-vardar-4448562b5"}
         - {icon: "ion ion-logo-github", link: "https://github.com/nehirvardar"}
 
-  - name: "Muhammed Esad Simitcioğlu"
+  - name: "Muhammed Esad Simitcioğlu, MSc"
     image: "/images/esad-simitcioglu.jpg"
     designation:
     link:
@@ -206,7 +206,7 @@ testimonial__items:
     - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
     - { icon: "fa-brands fa-google-scholar", link: "https://scholar.google.com/citations?user=dLcZwYsAAAAJ" }
 
-  - name: "Ulvi Fındık"
+  - name: "Ulvi Fındık, MSc"
     image: "/images/ulvi-findik.jpeg"
     designation:
     link:
