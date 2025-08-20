@@ -2,7 +2,6 @@
 title: Post-Disaster Inventory Management and Relief Simulation
 description: A decision support platform using simulation and Markov Decision Processes (MDPs) to optimize post-disaster inventory prepositioning, allocation, and distribution under uncertainty.
 category: Non-profit | Simulation | Humanitarian Supply Chain
-date: 2024-10-21
 image: ''
 image_caption: 'Simulation-driven disaster relief logistics'
 ---

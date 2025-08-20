@@ -2,7 +2,6 @@
 title: Athlete Talent Identification and Development Platform
 description: An integrated system, portal, and mobile/web app that manages athlete data, applies evaluation rules, and leverages advanced analytics to guide training and talent development.
 category: Machine Learning | Database | Portal
-date: 2021-06-15
 image: ''
 image_caption: 'Athlete evaluation and training insights'
 ---

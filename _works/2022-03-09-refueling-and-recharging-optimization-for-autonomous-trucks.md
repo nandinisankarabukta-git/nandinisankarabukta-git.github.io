@@ -2,7 +2,6 @@
 title: Refueling and Recharging Optimization for Autonomous Trucks
 description: This engine optimizes refueling and recharging strategies for autonomous trucks to reduce operational costs, minimize downtime, and limit deviations from planned routes.
 category: Optimization | Scheduling | Engine
-date: 2022-03-09 
 image: ''
 image_caption: 'Refuel engine in action'
 ---

@@ -2,7 +2,6 @@
 title: TV Commercial Scheduling Optimization
 description: A decision support engine for optimizing the scheduling of TV commercials, balancing audience reach, advertiser demands, and network constraints.
 category: Revenue Management | Scheduling | Engine
-date: 2014-05-20
 image: ''
 image_caption: 'TV commercial scheduling optimization in action'
 ---
