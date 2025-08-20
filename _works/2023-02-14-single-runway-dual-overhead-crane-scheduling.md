@@ -1,7 +1,7 @@
 ---
 title: Single Runway Dual Overhead Crane Scheduling
 description: An optimization and simulation engine that schedules dual overhead cranes sharing a single runway to minimize delays and improve throughput in industrial operations.
-category: Manufacturing | Simulation | Industry 4.0
+category: Manufacturing | Industry 4.0 | Optimization
 image: ''
 image_caption: 'Dual overhead crane scheduling engine in action'
 ---
