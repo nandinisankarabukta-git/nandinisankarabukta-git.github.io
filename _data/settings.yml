@@ -145,8 +145,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Ahmet Mert Yazıcı is a BSc student at Koç University, pursuing a degree in Computer Engineering and a double major in Business Administration. He focuses on
-      designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab.
+      Ahmet Mert Yazıcı focuses on designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab. He is currently pursuing a BSc in Computer Engineering with a double major in Business Administration at Koç University.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
@@ -157,7 +156,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Egecan Aktan is a MSc student in Industrial Engineering at Özyeğin University, where he also earned his BSc degree in the same field.
+      Egecan Aktan earned his BSc degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his MSc in the same field.
 
 
   - name: "Enes Tanrıkulu"
@@ -165,9 +164,7 @@ testimonial__items:
     designation:
     link:
     content : >
-      Enes Tanrıkulu is a senior student at Koç University, pursuing a BSc in Industrial Engineering 
-      with a track in Machine Learning, and a Double Major in Computer Engineering. He focuses on developing scalable applications, high performing optimization
-       models and data-centered solutions for enterprise problems at Datart Lab.
+      Enes Tanrıkulu focuses on developing scalable applications, high-performing optimization models, and data-centered solutions for enterprise problems at Datart Lab. He is currently a senior at Koç University, pursuing a BSc in Industrial Engineering with a track in Machine Learning, along with a Double Major in Computer Engineering.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/enes-tanrıkulu-363845145" }
     - { icon: "ion ion-logo-github", link: "https://github.com/enestanrikuluu" }
@@ -188,9 +185,7 @@ testimonial__items:
     designation:
     link:
     content: >
-        Esma Nehir Vardar is a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
-         She is gaining experience in operations research,
-          developing real-life solutions, and learning how data and algorithms are applied to practical problems at Datart Lab.
+        Esma Nehir Vardar explores operations research, develops real-life solutions, and learns how data and algorithms are applied to practical problems at Datart Lab. She is currently a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/esma-nehir-vardar-4448562b5"}
         - {icon: "ion ion-logo-github", link: "https://github.com/nehirvardar"}
@@ -200,8 +195,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      M. Esad Simitcioğlu graduated from Koç University with a MSc in Computer Science, focusing on Security, Privacy, and Machine Learning. He also holds a BSc in Computer Science from Özyeğin University. 
-       He currently works as a Software Lead at Datart Lab and an Algorithm Developer at Komatsu Mining, where he develops predictive models, optimization solutions, and computer vision algorithms. His research and professional work span data privacy, software engineering, and machine learning systems, aiming to create data-driven solutions for complex industrial and engineering problems.
+     M. Esad Simitcioğlu holds an MSc in Computer Science from Koç University, where he focused on security, privacy, and machine learning, and a BSc in Computer Science from Özyeğin University. He is currently a Software Lead at Datart Lab and an Algorithm Developer at Komatsu Mining, where he develops predictive models, optimization solutions, and computer vision algorithms. His research and professional work span data privacy, software engineering, and machine learning systems, with an emphasis on creating data-driven solutions for complex industrial and engineering challenges.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
     - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
@@ -213,14 +207,14 @@ testimonial__items:
     designation:
     link:
     content: >
-       Nurullah Y. Duru is a MSc student in Industrial Engineering at Özyeğin University, where he also earned his BSc degree in the same field.
+       Nurullah Y. Duru earned his BSc degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his MSc in the same field.
 
   - name: "Ulvi Fındık, MSc"
     image: "/images/ulvi-findik.jpeg"
     designation:
     link:
     content: >
-      Ulvi Fındık is a PhD student in Industrial Engineering at Sabancı University. He holds both MSc and BSc degrees in Industrial Engineering from Özyeğin University. His research focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains.
+      Ulvi Fındık holds both MSc and BSc degrees in Industrial Engineering from Özyeğin University. His research focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains. He is currently pursuing his PhD in Industrial Engineering at Sabancı University.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ulvi-fındık" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ulvifk" }
