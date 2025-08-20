@@ -14,8 +14,8 @@ menu__settings:
       url: '/work/'
     - title: 'Team'
       url: '/team/'
-    - title: 'Contact'
-      url: '/contact/'
+    - title: 'İletişim'
+      url: '/iletisim/'
 
 
 #-------------------------------
@@ -195,7 +195,7 @@ testimonial__items:
     designation:
     link:
     content: >
-     M. Esad Simitcioğlu holds an MSc in Computer Science from Koç University, where he focused on security, privacy, and machine learning, and a BSc in Computer Science from Özyeğin University. He is currently a Software Lead at Datart Lab and an Algorithm Developer at Komatsu Mining, where he develops predictive models, optimization solutions, and computer vision algorithms. His research and professional work span data privacy, software engineering, and machine learning systems, with an emphasis on creating data-driven solutions for complex industrial and engineering challenges.
+     M. Esad Simitcioğlu earned his M.Sc. in Computer Science from Koç University, specializing in Privacy, Machine Learning, and Software Engineering. Outside of coding, he is a lifelong video game fan and tennis enthusiast, always ready for a test whether it’s debugging code, cracking algorithms, or rallying on the court 
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
     - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
