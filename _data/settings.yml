@@ -14,8 +14,8 @@ menu__settings:
       url: '/work/'
     - title: 'Team'
       url: '/team/'
-    - title: 'İletişim'
-      url: '/iletisim/'
+    - title: 'Contact'
+      url: '/contact/'
 
 
 #-------------------------------
