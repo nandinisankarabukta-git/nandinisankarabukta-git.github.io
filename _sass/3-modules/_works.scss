@@ -52,7 +52,7 @@
 
   .work__category {
     margin-bottom: 4px;
-    font-size: 1.125rem;
+    font-size: 1rem;
     font-weight: 500;
     color: var(--heading-font-color);
   }
@@ -60,7 +60,7 @@
   .work__title {
     display: inline-block;
     margin-bottom: 0;
-    font-size: 2rem;
+    font-size: 1.5rem;
     line-height: 1;
 
     a {
@@ -74,7 +74,7 @@
     display: -webkit-box;
     margin-top: 20px;
     margin-bottom: 0;
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     overflow-y: hidden;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
@@ -83,7 +83,7 @@
 
   @media (max-width: $desktop) {
     .work__title {
-      font-size: 1.75rem;
+      font-size: 1.5rem;
     }
   }
 
