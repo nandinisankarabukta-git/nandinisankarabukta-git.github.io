@@ -134,7 +134,7 @@ work:
 publications:
   enable: true
   publications__title: Publications
-  publications__description: Publications description
+  publications__description: 
 
 #-------------------------------
 # Testimonials Section
