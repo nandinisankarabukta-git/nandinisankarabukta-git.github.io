@@ -145,7 +145,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Ahmet Mert Yazıcı is a Bachelor's student at Koç University, pursuing a degree in Computer Engineering and a double major in Business Administration. He focuses on
+      Ahmet Mert Yazıcı is a BSc student at Koç University, pursuing a degree in Computer Engineering and a double major in Business Administration. He focuses on
       designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
@@ -157,7 +157,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Egecan Aktan is a Master’s student in Industrial Engineering at Özyeğin University, where he also earned his BSc degree in the same field.
+      Egecan Aktan is a MSc student in Industrial Engineering at Özyeğin University, where he also earned his BSc degree in the same field.
 
 
   - name: "Enes Tanrıkulu"
@@ -165,7 +165,7 @@ testimonial__items:
     designation:
     link:
     content : >
-      Enes Tanrıkulu is a senior student at Koç University, pursuing a Bachelor of Science in Industrial Engineering 
+      Enes Tanrıkulu is a senior student at Koç University, pursuing a BSc in Industrial Engineering 
       with a track in Machine Learning, and a Double Major in Computer Engineering. He focuses on developing scalable applications, high performing optimization
        models and data-centered solutions for enterprise problems at Datart Lab.
     socials:
@@ -200,8 +200,8 @@ testimonial__items:
     designation:
     link:
     content: >
-      M. Esad Simitcioğlu graduated from Koç University with a Master of Science in Computer Science, focusing on Security, Privacy, and Machine Learning. He also holds a Bachelor of Science in Computer Science from Özyeğin University. 
-       He currently works as a Software Lead at Datart-Lab and an Algorithm Developer at Komatsu Mining, where he develops predictive models, optimization solutions, and computer vision algorithms. His research and professional work span data privacy, software engineering, and machine learning systems, aiming to create data-driven solutions for complex industrial and engineering problems.
+      M. Esad Simitcioğlu graduated from Koç University with a MSc in Computer Science, focusing on Security, Privacy, and Machine Learning. He also holds a BSc in Computer Science from Özyeğin University. 
+       He currently works as a Software Lead at Datart Lab and an Algorithm Developer at Komatsu Mining, where he develops predictive models, optimization solutions, and computer vision algorithms. His research and professional work span data privacy, software engineering, and machine learning systems, aiming to create data-driven solutions for complex industrial and engineering problems.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
     - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
@@ -213,7 +213,7 @@ testimonial__items:
     designation:
     link:
     content: >
-       Nurullah Y. Duru is a Master’s student in Industrial Engineering at Özyeğin University, where he also earned his BSc degree in the same field.
+       Nurullah Y. Duru is a MSc student in Industrial Engineering at Özyeğin University, where he also earned his BSc degree in the same field.
 
   - name: "Ulvi Fındık, MSc"
     image: "/images/ulvi-findik.jpeg"
