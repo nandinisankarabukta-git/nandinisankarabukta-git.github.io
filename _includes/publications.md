@@ -1,11 +1,3 @@
----
-layout: page
-title: Publications
-description: 
-permalink: /publications/
-image:
-image_caption:
----
  U. Findik, O. E. Kundakcioglu, and S. Alizamir, Handbook of Combinatorial Optimization, 3rd Ed., P. M. Pardalos and O. A. 
 Prokopyev, Eds., Springer, 2024, ch. Generalized assignment problem.
 

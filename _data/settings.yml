@@ -129,6 +129,12 @@ work:
   work__title: Work title
   work__description: Work description
 
+#-------------------------------
+# Publications Settings
+publications:
+  enable: true
+  publications__title: Publications
+  publications__description: Publications description
 
 #-------------------------------
 # Testimonials Section
