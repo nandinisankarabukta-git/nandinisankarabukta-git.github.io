@@ -180,7 +180,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. He holds a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com). He received the [TÜBİTAK](https://tubitak.gov.tr/en) Early Career Award and contributes as an associate editor for several journals in optimization.
+      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. He holds a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com). He received the [TÜBİTAK](https://tubitak.gov.tr/en) Early Career Award and contributes as an associate editor for several journals in optimization. Beyond his professional work, he plays the guitar and basketball, where precision, rhythm, and teamwork echo the spirit of his research.
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/erhunkundakcioglu"}
         - {icon: "ion ion-logo-github", link: "https://github.com/OEKundakcioglu"}
@@ -201,7 +201,7 @@ testimonial__items:
     designation:
     link:
     content: >
-     M. Esad Simitcioğlu earned his M.Sc. in Computer Science from Koç University, specializing in Privacy, Machine Learning, and Software Engineering. Outside of coding, he is a lifelong video game fan and tennis enthusiast, always ready for a test whether it’s debugging code, cracking algorithms, or rallying on the court 
+     M. Esad Simitcioğlu earned his MSc in Computer Science from Koç University, specializing in Privacy, Machine Learning, and Software Engineering. He is the Lead Developer at Datart Lab, where he contributes to building advanced optimization engines and intelligent software systems. Outside of coding, he is a lifelong video game fan and tennis enthusiast, always ready for a challenge whether it’s debugging code, cracking algorithms, or rallying on the court. 
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
     - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
