@@ -6,15 +6,15 @@ permalink: /contact/
 image:
 include_credit: true
 ---
-Reach out to us at [team@datart-lab.com](mailto:team@datart-lab.com) to connect, collaborate, and create together. 
+Bize ulaşmak için  [team@datart-lab.com](mailto:team@datart-lab.com) adresine yazabilirsiniz. Bağlantı kuralım, işbirliği yapalım ve yeni şeyler üretelim.
 
 ***
 
-#### Curious Minds & Future Talent
-> If you are eager to grow in data analytics, optimization, or software development, Datart Lab offers opportunities to work on real projects and gain valuable experience. Whether you are an undergraduate or graduate student, you can *join our projects to learn, contribute, and develop your skills*.
+#### Merak Edenler & Geleceğin Yetenekleri
+> Veri analitiği, optimizasyon veya yazılım geliştirme alanında kendini geliştirmek istiyorsan, Datart Lab gerçek projelerde görev alabileceğin ve değerli deneyimler kazanabileceğin fırsatlar sunuyor. Lisans ya da lisansüstü öğrenci olman fark etmez; *projelerimize katılarak öğrenebilir, katkı sağlayabilir ve yetkinliklerini geliştirebilirsin*.
 
-#### Fellow Thinkers & Collaborators
-> We highly value collaborations with academics and researchers who share our interests. If you would like to co-develop *research projects, publish scientific papers, or partner on international grant applications*, our door is always open.
+#### Akademik İşbirlikleri
+> İlgi alanlarımızı paylaşan akademisyenler ve araştırmacılarla işbirliğine büyük önem veriyoruz. *Eğer araştırma projeleri geliştirmek, bilimsel makaleler yayımlamak ya da uluslararası fon başvurularında ortak olmak* istersen, kapımız her zaman açık.
 
-#### Industry Partners
-> Datart Lab designs solutions for complex decision-making and optimization problems in industry. If *your company needs data-driven decision support systems, custom software solutions, or advanced analytics engines*, we are ready to collaborate and build tailored projects together.
+#### Sektör İş Ortakları
+> Datart Lab, sektördeki karmaşık karar verme ve optimizasyon problemlerine yönelik çözümler geliştirir. *Şirketiniz veri odaklı karar destek sistemlerine, özel yazılım çözümlerine ya da ileri analitik motorlarına ihtiyaç duyuyorsa*, işbirliği yapmaya ve ihtiyacınıza özel projeler geliştirmeye hazırız. 
