@@ -7,7 +7,7 @@
           <div class="main-nav__box">
             <ul class="nav__list list-reset">
               <li class="logo nav__item">
-                <a class="logo__link nav__link{% if page.url == item.url %} active-link{% endif %}" href="{{ site.baseurl }}/">
+                <a class="logo__link nav__link{% if page.url == '/' %} active-link{% endif %}" href="{{ site.baseurl }}/">
                   {% if site.data.settings.logo %}
                     <img class="logo__image" draggable="false" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
                   {% else %}
