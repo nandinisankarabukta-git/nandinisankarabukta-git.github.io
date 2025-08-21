@@ -163,7 +163,9 @@ testimonial__items:
     link:
     content: >
       Egecan Aktan earned his BSc degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his MSc in the same field.
-
+    socials:
+    - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/egecan-aktan-200b88135/" }
+    - { icon: "ion ion-logo-github", link: "https://github.com/Egecan33" }
 
   - name: "Enes Tanrıkulu"
     image: "/images/enes-tanrikulu.jpg"
@@ -214,6 +216,9 @@ testimonial__items:
     link:
     content: >
        Nurullah Y. Duru earned his BSc degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his MSc in the same field.
+    socials:
+    - { icon: "ion ion-logo-linkedin", link: "http://www.linkedin.com/in/nurullah-yusuf-duru-81253a16b" }
+    - { icon: "ion ion-logo-github", link: "https://github.com/NurullahYusufDuru" }
 
   - name: "Ulvi Fındık, MSc"
     image: "/images/ulvi-findik.jpeg"
