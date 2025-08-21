@@ -217,7 +217,7 @@ testimonial__items:
     designation:
     link:
     content: >
-       Nurullah Y. Duru earned his BSc degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his MSc in the same field.
+       Nurullah Yusuf Duru earned his B.Sc. degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his M.Sc. in the same field. His graduate research focuses on perishable food supply chains, with broader interests in the integration of machine learning and optimization algorithms. He is also keen on sports analytics, exploring data-driven insights in basketball and football. Outside academia, he is passionate about the NBA and a devoted fan of LeBron James.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "http://www.linkedin.com/in/nurullah-yusuf-duru-81253a16b" }
     - { icon: "ion ion-logo-github", link: "https://github.com/NurullahYusufDuru" }
@@ -227,7 +227,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Ulvi Fındık holds both MSc and BSc degrees in Industrial Engineering from Özyeğin University. His research focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains. He is currently pursuing his PhD in Industrial Engineering at Sabancı University.
+      Ulvi Fındık holds both MSc and BSc degrees in Industrial Engineering from Özyeğin University. His research focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains. He is currently pursuing his PhD in Industrial Engineering at Sabancı University. Outside of research, Ulvi is an avid movie enthusiast, known to optimize his streaming queue with the same rigor he applies to his algorithms.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ulvi-fındık" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ulvifk" }
