@@ -7,7 +7,7 @@ image:
 include_credit: true
 ---
 Reach out to us at [team@datart-lab.com](mailto:team@datart-lab.com) to connect, collaborate, and create together. 
-
+{: .text-lg}
 ***
 
 #### Curious Minds & Future Talent
