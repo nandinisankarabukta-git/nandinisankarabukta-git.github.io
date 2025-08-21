@@ -145,7 +145,8 @@ testimonial__items:
     designation:
     link:
     content: >
-      Ahmet Mert Yazıcı focuses on designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab. He is currently pursuing a BSc in Computer Engineering with a double major in Business Administration at Koç University.
+     Ahmet Mert Yazıcı, Datart Lab’de ölçeklenebilir uygulamalar, backend servisleri ve veri odaklı çözümler tasarlayıp geliştirmeye odaklanmaktadır.
+     Koç Üniversitesi’nde Bilgisayar Mühendisliği lisans eğitiminin yanı sıra İşletme çift anadal programını sürdürmektedir.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
@@ -164,7 +165,9 @@ testimonial__items:
     designation:
     link:
     content : >
-      Enes Tanrıkulu focuses on developing scalable applications, high-performing optimization models, and data-centered solutions for enterprise problems at Datart Lab. He is currently a senior at Koç University, pursuing a BSc in Industrial Engineering with a track in Machine Learning, along with a Double Major in Computer Engineering.
+      Enes Tanrıkulu, Datart Lab’de ölçeklenebilir uygulamalar, yüksek performanslı optimizasyon modelleri ve kurumsal problemlere yönelik veri odaklı çözümler geliştirmeye odaklanmaktadır.
+       Koç Üniversitesi’nde Endüstri Mühendisliği lisans programında, Makine Öğrenmesi odaklı bir hattı takip ederek son sınıf öğrencisi olarak öğrenim görmekte ve aynı zamanda
+        Bilgisayar Mühendisliği çift anadal programını sürdürmektedir.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/enes-tanrıkulu-363845145" }
     - { icon: "ion ion-logo-github", link: "https://github.com/enestanrikuluu" }
@@ -174,7 +177,9 @@ testimonial__items:
     designation:
     link:
     content: >
-      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. He holds a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com). He received the [TÜBİTAK](https://tubitak.gov.tr/en) Early Career Award and contributes as an associate editor for several journals in optimization.
+      Dr. Erhun Kundakcıoğlu, Sabancı Üniversitesi Endüstri Mühendisliği Bölümü’nde profesör olarak görev yapmakta ve Datart Lab’in direktörlüğünü yürütmektedir. Araştırmaları karar analitiği ve matematiksel optimizasyon üzerine yoğunlaşmaktadır. 
+      Florida Üniversitesi’nde Endüstri ve Sistem Mühendisliği alanında doktora derecesini almıştır. Daha önce Houston Üniversitesi ve Özyeğin Üniversitesi’nde öğretim üyeliği yapmış, ayrıca Optym’de “Distinguished Scientist” olarak görev almıştır.
+       TÜBİTAK’ın Kariyer Geliştirme (CAREER) Ödülü’nü kazanmış olup, optimizasyon alanındaki çeşitli dergilerde editörlük görevini sürdürmektedir.
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/erhunkundakcioglu"}
         - {icon: "ion ion-logo-github", link: "https://github.com/OEKundakcioglu"}
@@ -195,7 +200,9 @@ testimonial__items:
     designation:
     link:
     content: >
-     M. Esad Simitcioğlu holds an MSc in Computer Science from Koç University, where he focused on security, privacy, and machine learning, and a BSc in Computer Science from Özyeğin University. He is currently a Software Lead at Datart Lab and an Algorithm Developer at Komatsu Mining, where he develops predictive models, optimization solutions, and computer vision algorithms. His research and professional work span data privacy, software engineering, and machine learning systems, with an emphasis on creating data-driven solutions for complex industrial and engineering challenges.
+      M. Esad Simitcioğlu, Koç Üniversitesi’nde Bilgisayar Bilimleri yüksek lisansını tamamlamış olup, çalışmalarını Gizlilik, Makine Öğrenmesi ve Yazılım Mühendisliği alanlarında yoğunlaştırmıştır.
+       Kodlamanın dışında, uzun süredir bir video oyun tutkunu ve tenis meraklısıdır; 
+      ister hata ayıklamak, ister algoritmaları çözmek, isterse kortta topa girmek olsun, her zaman meydan okumaya hazırdır.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
     - { icon: "ion ion-logo-github", link: "https://github.com/EsadSimitcioglu" }
@@ -214,7 +221,10 @@ testimonial__items:
     designation:
     link:
     content: >
-      Ulvi Fındık holds both MSc and BSc degrees in Industrial Engineering from Özyeğin University. His research focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains. He is currently pursuing his PhD in Industrial Engineering at Sabancı University.
+      Ulvi Fındık, Özyeğin Üniversitesi’nden Endüstri Mühendisliği alanında hem lisans hem de yüksek lisans derecelerine sahiptir.
+       Araştırmaları, endüstriyel optimizasyon, karar analitiği ve uygulamalı operasyon araştırmaları üzerine odaklanmakta olup,
+        çeşitli uygulama alanlarında gelişmiş planlama ve optimizasyon çözümleri geliştirme konusunda pratik deneyime sahiptir. 
+        Sabancı Üniversitesi’nde Endüstri Mühendisliği alanında doktora çalışmalarını sürdürmektedir.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ulvi-fındık" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ulvifk" }
