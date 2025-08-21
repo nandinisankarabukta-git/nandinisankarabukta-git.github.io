@@ -1,26 +1,26 @@
 {% if site.data.settings.publications.enable == true %}
 {% capture publications %}
-{% include publications.md %}
+  {% include publications.md %}
 {% endcapture %}
 
-<section class="section logos animate">
-    <div class="container">
-        <div class="row">
-            <div class="col col-12">
-                {% if site.data.settings.publications.publications__title != '' || site.data.settings.publications.publications__description != '' %}
-                <div class="section__info">
-                    {% if site.data.settings.publications.publications__title != '' %}
-                        <h2 class="section__title">{{ site.data.settings.publications.publications__title }}</h2>
-                    {% endif %}
-                    {% if site.data.settings.publications.publications__description != '' %}
-                        <p class="section__description">{{ site.data.settings.publications.publications__description }}</p>
-                    {% endif %}
-                </div>
-                {% endif %}
+<div class="container">
+  <section class="section animate">
+    <div class="row">
+      <div class="col col-12">
+        {% if site.data.settings.publications.publications__title != '' || site.data.settings.publications.publications__description != '' %}
+          <div class="section__info">
+            {% if site.data.settings.publications.publications__title != '' %}
+              <h2 class="section__title">{{ site.data.settings.publications.publications__title }}</h2>
+            {% endif %}
+            {% if site.data.settings.publications.publications__description != '' %}
+              <p class="section__description">{{ site.data.settings.publications.publications__description }}</p>
+            {% endif %}
+          </div>
+        {% endif %}
 
-                {{ publications | markdownify }}
-            </div>
-        </div>
+        {{ publications | markdownify }}
+      </div>
     </div>
-</section>
+  </section>
+</div>
 {% endif %}
