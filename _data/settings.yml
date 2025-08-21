@@ -162,7 +162,10 @@ testimonial__items:
     designation:
     link:
     content: >
-      Egecan Aktan earned his BSc degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his MSc in the same field.
+       Egecan Aktan earned his BSc degree in Industrial Engineering at Özyeğin University, where he is now pursuing his MSc in the same field.
+        His graduate research focuses on perishable lot-sizing, developing optimization models that integrate artificial intelligence and advanced analytics.
+         Beyond this, he has worked on projects in forecasting, supply chain planning, and applied machine learning, combining analytical methods with programming
+          and data visualization to create practical solutions. Outside of his academic work, he is passionate about basketball and enjoys collecting board games, reflecting his interest in strategy and teamwork.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/egecan-aktan-200b88135/" }
     - { icon: "ion ion-logo-github", link: "https://github.com/Egecan33" }
