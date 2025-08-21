@@ -126,8 +126,7 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Work title
-  work__description: Work description
+  work__title: Selected Projects
 
 #-------------------------------
 # Publications Settings
