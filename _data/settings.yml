@@ -196,7 +196,9 @@ testimonial__items:
     designation:
     link:
     content: >
-        Esma Nehir Vardar explores operations research, develops real-life solutions, and learns how data and algorithms are applied to practical problems at Datart Lab. She is currently a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
+        Esma Nehir Vardar explores operations research, develops real-life solutions, and learns how data and algorithms are applied to practical problems at Datart Lab. 
+        She is currently a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
+        In addition, she likes playing the guitar and is a dedicated volleyball enthusiast who enjoys being in the stands for live games.
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/esma-nehir-vardar-4448562b5"}
         - {icon: "ion ion-logo-github", link: "https://github.com/nehirvardar"}
@@ -218,7 +220,9 @@ testimonial__items:
     designation:
     link:
     content: >
-       Nurullah Y. Duru earned his BSc degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his MSc in the same field.
+       Nurullah Yusuf Duru earned his B.Sc. degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his M.Sc. in the same field. 
+       His graduate research focuses on perishable food supply chains, with broader interests in the integration of machine learning and optimization algorithms. 
+       He is also keen on sports analytics, exploring data-driven insights in basketball and football. Outside academia, he is passionate about the NBA and a devoted fan of LeBron James.
     socials:
     - { icon: "ion ion-logo-linkedin", link: "http://www.linkedin.com/in/nurullah-yusuf-duru-81253a16b" }
     - { icon: "ion ion-logo-github", link: "https://github.com/NurullahYusufDuru" }
