@@ -150,15 +150,18 @@ testimonial__items:
     designation:
     link:
     content: >
-      Ahmet Mert Yazıcı focuses on designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab. He is currently pursuing a BSc in Computer Engineering with a double major in Business Administration at Koç University.
+      Ahmet Mert Yazıcı focuses on designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab. He is currently pursuing a BSc in Computer Engineering with a double major in Business Administration at Koç University.<br>
+      ☕ White Chocolate Mocha <br>
+
+      🎬 Godfather<br>
+
+      🎮 NBA 2K26<br>
+
+      🏀 🧩 <br>
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
-    hobbies:
-      - { icon: "☕", link: "https://www.google.com" }
-      - { icon: "🎬", link: "https://www.google.com" }
-      - { icon: "🎮", link: "https://www.google.com" }
-      - { icon: "🏀", link: "https://www.google.com" }
+
 
   - name: "Egecan Aktan, BSc"
     image: "/images/egecan-aktan.jpg"
@@ -188,7 +191,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. He holds a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com). He received the [TÜBİTAK](https://tubitak.gov.tr/en) Early Career Award and contributes as an associate editor for several journals in optimization. Beyond his professional work, he plays the guitar and basketball, where precision, rhythm, and teamwork echo the spirit of his research.
+      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. He holds a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com). He received the [TÜBİTAK](https://tubitak.gov.tr/en) Early Career Award and contributes as an associate editor for several journals in optimization. 
     socials:
         - {icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/erhunkundakcioglu"}
         - {icon: "ion ion-logo-github", link: "https://github.com/OEKundakcioglu"}
