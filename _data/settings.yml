@@ -154,7 +154,11 @@ testimonial__items:
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
-
+    hobbies:
+      - { icon: "☕", link: "https://www.google.com" }
+      - { icon: "🎬", link: "https://www.google.com" }
+      - { icon: "🎮", link: "https://www.google.com" }
+      - { icon: "🏀", link: "https://www.google.com" }
 
   - name: "Egecan Aktan, BSc"
     image: "/images/egecan-aktan.jpg"
