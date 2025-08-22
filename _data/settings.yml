@@ -151,17 +151,18 @@ testimonial__items:
     link:
     content: >
       Ahmet Mert Yazıcı focuses on designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab. He is currently pursuing a BSc in Computer Engineering with a double major in Business Administration at Koç University.<br>
-      ☕ White Chocolate Mocha <br>
-
-      🎬 Godfather<br>
-
-      🎮 NBA 2K26<br>
-
-      🏀 🧩 <br>
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
 
+    hobbies:
+      - { icon: "☕", label: "White Chocolate Mocha" }
+      - { icon: "🎬", label: "Godfather" }
+      - { icon: "🎮", label: "NBA 2K26" }
+
+    hobby_icons:
+      - { icon: "🏀" }
+      - { icon: "🧩" }
 
   - name: "Egecan Aktan, BSc"
     image: "/images/egecan-aktan.jpg"

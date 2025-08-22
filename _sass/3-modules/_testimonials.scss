@@ -148,3 +148,21 @@
     pointer-events: none;
   }
 }
+
+.hobbies__list {
+  display: flex;
+  flex-direction: column;
+
+  .hobby__item {
+    margin-bottom: 4px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    .hobby-text {
+      margin-bottom: 0;
+      font-size: 1rem;
+    }
+  }
+}

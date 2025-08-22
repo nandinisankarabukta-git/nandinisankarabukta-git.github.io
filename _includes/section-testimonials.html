@@ -40,7 +40,29 @@
                 </div>
               </div>
               {% if testimonial__item.content %}
-                <p class="client-text">{{ testimonial__item.content | markdownify}}</p>
+                <p class="client-text">{{ testimonial__item.content | markdownify }}</p>
+                {% if testimonial__item.hobbies or testimonial__item.hobby_icons %}
+                  <div>
+                    <ul class="hobbies__list list-reset">
+                      {% if testimonial__item.hobbies %}
+                        {% for hobby in testimonial__item.hobbies %}
+                          <li class="hobby__item">
+                            <p class="hobby-text">{{ hobby.icon }} {{ hobby.label }}</p>
+                          </li>
+                        {% endfor %}
+                      {% endif %}
+                      {% if testimonial__item.hobby_icons %}
+                        <li class="hobby__item">
+                          <p class="hobby-text">
+                            {% for hobby in testimonial__item.hobby_icons %}
+                              <span>{{ hobby.icon }}</span>
+                            {% endfor %}
+                          </p>
+                        </li>
+                      {% endif %}
+                    </ul>
+                  </div>
+                {% endif %}
               {% endif %}
               {% if testimonial__item.socials %}
                 <div class="social">
@@ -49,18 +71,6 @@
                       <li class="social__item">
                         <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
                            aria-label="Social link"><i class="{{social.icon}}"></i></a>
-                      </li>
-                    {% endfor %}
-                  </ul>
-                </div>
-              {% endif %}
-              {% if testimonial__item.hobbies %}
-                <div class="social">
-                  <ul class="social__list list-reset">
-                    {% for social in testimonial__item.hobbies %}
-                      <li class="social__item">
-                        <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
-                           aria-label="Social link">{{ social.icon }}</a>
                       </li>
                     {% endfor %}
                   </ul>
