@@ -55,7 +55,7 @@ layout: default
       <div class="col col-12">
         <div class="section__info">
           <div class="section__head">
-            <h2 class="section__title">Next</h2>
+            <h2 class="section__title">Other Selected Projects</h2>
           </div>
         </div>
 
@@ -71,9 +71,6 @@ layout: default
                 <div class="work__category">{{ page.previous.category }}</div>
                 {% endif %}
                 <h3 class="work__title"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h3>
-                {% if page.previous.category %}
-                <p class="work__description">{{ page.previous.description }}</p>
-                {% endif %}
               </div>
             </div>
           </article>
@@ -89,9 +86,6 @@ layout: default
                 <div class="work__category">{{ page.next.category }}</div>
                 {% endif %}
                 <h3 class="work__title"><a href="{{ page.next.url }}">{{ page.next.title }}</a></h3>
-                {% if page.next.category %}
-                <p class="work__description">{{ page.next.description }}</p>
-                {% endif %}
               </div>
             </div>
           </article>

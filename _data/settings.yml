@@ -126,8 +126,7 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Work title
-  work__description: Work description
+  work__title: Selected Projects
 
 #-------------------------------
 # Publications Settings
@@ -232,7 +231,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Ulvi Fındık holds both MSc and BSc degrees in Industrial Engineering from Özyeğin University. His research focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains. He is currently pursuing his PhD in Industrial Engineering at Sabancı University.
+      Ulvi Fındık holds both MSc and BSc degrees in Industrial Engineering from Özyeğin University. His research focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains. He is currently pursuing his PhD in Industrial Engineering at Sabancı University. Outside of research, Ulvi is an avid movie enthusiast, known to optimize his streaming queue with the same rigor he applies to his algorithms.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ulvi-fındık" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ulvifk" }
