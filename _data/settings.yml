@@ -174,14 +174,20 @@ testimonial__items:
          Beyond this, he has worked on projects in forecasting, supply chain planning, and applied machine learning, combining analytical methods with programming
           and data visualization to create practical solutions. 
     hobbies:
-      - { icon: "☕", label: "..." }
-      - { icon: "🎬", label: "..." }
-      - { icon: "🎮", label: "..." }
-      - { icon: "🎵", label: "..." }
+      - { icon: "☕", label: "Blanc 1664" }
+      - { icon: "🎬", label: "Dune" }
+      - { icon: "🎮", label: "Expedition 33" }
+      - { icon: "🎵", label: "Dream Theater" }
 
     hobby_icons:
       - { icon: "🏀" }
-      - { icon: "🧩" }
+      - { icon: "🎲" }
+      - { icon: "🃏" }
+      - { icon: "🥊" }
+      - { icon: "🥁" }
+      - { icon: "🎳" }
+      - { icon: "🏁" }
+
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/egecan-aktan-200b88135/" }
     - { icon: "ion ion-logo-github", link: "https://github.com/Egecan33" }
@@ -231,10 +237,9 @@ testimonial__items:
         Esma Nehir Vardar explores operations research, develops real-life solutions, and learns how data and algorithms are applied to practical problems at Datart Lab. 
         She is currently a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
     hobbies:
-      - { icon: "☕", label: "..." }
-      - { icon: "🎬", label: "..." }
-      - { icon: "🎮", label: "..." }
-      - { icon: "🎵", label: "..." }
+      - { icon: "☕", label: "Iced Americano" }
+      - { icon: "🎬", label: "Inglourious Bastards" }
+      - { icon: "🎵", label: "Queen" }
 
     hobby_icons:
       - { icon: "🎸" }
@@ -249,14 +254,11 @@ testimonial__items:
     link:
     content: >
      M. Esad Simitcioğlu earned his MSc in Computer Science from Koç University, specializing in Privacy, Machine Learning, and Software Engineering. He is the Lead Developer at Datart Lab, where he contributes to building advanced optimization engines and intelligent software systems. 
-    hobbies:
-      - { icon: "☕", label: "..." }
-      - { icon: "🎬", label: "..." }
-      - { icon: "🎮", label: "..." }
-      - { icon: "🎵", label: "..." }
 
     hobby_icons:
       - { icon: "🎾" }  
+      - { icon: "🎮" }
+      - { icon: "💻" }
 
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/muhammed-esad-simitcioglu" }
@@ -273,12 +275,14 @@ testimonial__items:
        His graduate research focuses on perishable food supply chains, with broader interests in the integration of machine learning and optimization algorithms. 
        He is also keen on sports analytics, exploring data-driven insights in basketball and football. 
     hobbies:
-      - { icon: "☕", label: "..." }
-      - { icon: "🎬", label: "..." }
-      - { icon: "🎮", label: "..." }
-      - { icon: "🎵", label: "..." }
+      - { icon: "☕", label: "Tea" }
+      - { icon: "🎬", label: "Seven" }
+      - { icon: "🎮", label: "NBA 2K" }
+      - { icon: "🎵", label: "Kendrick Lamar" }
 
     hobby_icons:
+      - { icon: "🏀" }
+      - { icon: "⚽" }
     
     socials:
     - { icon: "ion ion-logo-linkedin", link: "http://www.linkedin.com/in/nurullah-yusuf-duru-81253a16b" }
