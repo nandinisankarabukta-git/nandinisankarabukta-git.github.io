@@ -197,14 +197,16 @@ testimonial__items:
     designation:
     link:
     content : >
-      Enes Tanrıkulu focuses on developing scalable applications, high-performing optimization models, and data-centered solutions for enterprise problems at Datart Lab. He is currently a senior at Koç University, pursuing a BSc in Industrial Engineering with a track in Machine Learning, along with a Double Major in Computer Engineering.
+       Enes Tanrıkulu is a senior student at Koç University, pursuing a Bachelor of Science in Industrial Engineering with a track in Machine Learning, and a Double Major in Computer Engineering. He works as a Software/Operations Research Engineer at DATART, where he focuses on developing scalable applications, high performing optimization models and data-centered solutions for enterprise problems.
     hobbies:
-      - { icon: "☕", label: "..." }
-      - { icon: "🎬", label: "..." }
-      - { icon: "🎮", label: "..." }
-      - { icon: "🎵", label: "..." }
+      - { icon: "☕", label: "Cortado" }
+      - { icon: "🎬", label: "Paths of Glory" }
+      - { icon: "🎮", label: "Minecraft" }
+      - { icon: "🎵", label: "Blues" }
+      - { icon: "📖", label: "Ethica" }
 
     hobby_icons:
+    - { icon: "🏋" }
       
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/enes-tanrıkulu-363845145" }
