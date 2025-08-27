@@ -1,13 +1,9 @@
 {% if site.data.settings.publications.enable == true %}
-{% capture publications %}
-  {% include publications.md %}
-{% endcapture %}
-
 <div class="container">
   <section class="section animate">
     <div class="row">
       <div class="col col-12">
-        {% if site.data.settings.publications.publications__title != '' || site.data.settings.publications.publications__description != '' %}
+        {% if site.data.settings.publications.publications__title != '' or site.data.settings.publications.publications__description != '' %}
           <div class="section__info">
             {% if site.data.settings.publications.publications__title != '' %}
               <h2 class="section__small__title">{{ site.data.settings.publications.publications__title }}</h2>
@@ -18,7 +14,24 @@
           </div>
         {% endif %}
 
-        {{ publications | markdownify }}
+        <div class="publications-list">
+          {% for p in site.data.settings.publications.publications__items %}
+            <div class="publication-item" style="margin-bottom: 2em;">
+              {{ p.citation }}
+              {% if p.paper_url %}
+                <a href="{{ p.paper_url }}" target="_blank" title="View Paper">
+                  📄
+                </a>
+              {% endif %}
+              {% if p.github_url %}
+                <a href="{{ p.github_url }}" target="_blank" title="View GitHub Repo">
+                  🐙
+                </a>
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+
       </div>
     </div>
   </section>
