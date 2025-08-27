@@ -47,7 +47,7 @@
                       {% if testimonial__item.hobbies %}
                         {% for hobby in testimonial__item.hobbies %}
                           <li class="hobby__item">
-                            <p class="hobby-text">{{ hobby.icon }} {{ hobby.label }}</p>
+                            <p class="hobby-text"><span class="select-none">{{ hobby.icon }}</span> {{ hobby.label }}</p>
                           </li>
                         {% endfor %}
                       {% endif %}
@@ -55,7 +55,7 @@
                         <li class="hobby__item">
                           <p class="hobby-text">
                             {% for hobby in testimonial__item.hobby_icons %}
-                              <span>{{ hobby.icon }}</span>
+                              <span class="select-none">{{ hobby.icon }}</span>
                             {% endfor %}
                           </p>
                         </li>
