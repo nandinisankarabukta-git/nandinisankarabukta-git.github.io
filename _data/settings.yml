@@ -102,6 +102,10 @@ logo__items:
     link: "https://www.komatsu.com/"
     image: "/images/Komatsu.png"
 
+  - name: Odysee
+    link: "https://www.odysee.ai/"
+    image: "/images/odysee.png"
+
   - name: Tam Finans
     link: "https://www.tamfinans.com.tr/"
     image: "/images/tamfinans.png"
@@ -169,10 +173,7 @@ testimonial__items:
     designation:
     link:
     content: >
-       Egecan Aktan earned his BSc degree in Industrial Engineering at Özyeğin University, where he is now pursuing his MSc in the same field.
-        His graduate research focuses on perishable lot-sizing, developing optimization models that integrate artificial intelligence and advanced analytics.
-         Beyond this, he has worked on projects in forecasting, supply chain planning, and applied machine learning, combining analytical methods with programming
-          and data visualization to create practical solutions. 
+       Egecan Aktan earned his BSc degree in Industrial Engineering at Özyeğin University, where he is now pursuing his MSc in the same field. His research focuses on perishable lot-sizing, developing optimization models that integrate artificial intelligence and advanced analytics. Beyond this, he has worked on projects in forecasting, supply chain planning, and applied machine learning, combining analytical methods with programming and data visualization to create practical solutions. 
     hobbies:
       - { icon: "☕", label: "Blanc 1664" }
       - { icon: "🎬", label: "Dune" }
@@ -203,11 +204,11 @@ testimonial__items:
       - { icon: "🎬", label: "Paths of Glory" }
       - { icon: "🎮", label: "Minecraft" }
       - { icon: "🎵", label: "Blues" }
-      - { icon: "📖", label: "Ethica" }
 
     hobby_icons:
-    - { icon: "🏋" }
-      
+    - { icon: "🏋"}
+    - { icon: "📖" }
+
     socials:
     - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/enes-tanrıkulu-363845145" }
     - { icon: "ion ion-logo-github", link: "https://github.com/enestanrikuluu" }
@@ -219,10 +220,10 @@ testimonial__items:
     content: >
       Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. He holds a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com). He received the [TÜBİTAK](https://tubitak.gov.tr/en) Early Career Award and contributes as an associate editor for several journals in optimization. 
     hobbies:
-      - { icon: "☕", label: "..." }
-      - { icon: "🎬", label: "..." }
-      - { icon: "🎮", label: "..." }
-      - { icon: "🎵", label: "..." }
+      - { icon: "☕", label: "Espresso" }
+      - { icon: "🎬", label: "Shawshank Redemption" }
+      - { icon: "🎮", label: "FIFA" }
+      - { icon: "🎵", label: "The Milk Carton Kids" }
     hobby_icons:
       - { icon: "🏀" }
       - { icon: "🎸" }
@@ -236,8 +237,7 @@ testimonial__items:
     designation:
     link:
     content: >
-        Esma Nehir Vardar explores operations research, develops real-life solutions, and learns how data and algorithms are applied to practical problems at Datart Lab. 
-        She is currently a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
+        Esma Nehir Vardar explores operations research, develops real-life solutions, and learns how data and algorithms are applied to practical problems at Datart Lab. She is currently a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
     hobbies:
       - { icon: "☕", label: "Iced Americano" }
       - { icon: "🎬", label: "Inglourious Bastards" }
@@ -256,7 +256,7 @@ testimonial__items:
     link:
     content: >
      M. Esad Simitcioğlu earned his MSc in Computer Science from Koç University, specializing in Privacy, Machine Learning, and Software Engineering. He is the Lead Developer at Datart Lab, where he contributes to building advanced optimization engines and intelligent software systems. 
-
+  
     hobby_icons:
       - { icon: "🎾" }  
       - { icon: "🎮" }
@@ -273,9 +273,7 @@ testimonial__items:
     designation:
     link:
     content: >
-       Nurullah Yusuf Duru earned his B.Sc. degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his M.Sc. in the same field. 
-       His graduate research focuses on perishable food supply chains, with broader interests in the integration of machine learning and optimization algorithms. 
-       He is also keen on sports analytics, exploring data-driven insights in basketball and football. 
+       Nurullah Yusuf Duru earned his B.Sc. degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his M.Sc. in the same field. His graduate research focuses on perishable food supply chains, with broader interests in the integration of machine learning and optimization algorithms. He is also keen on sports analytics, exploring data-driven insights in basketball and football. 
     hobbies:
       - { icon: "☕", label: "Tea" }
       - { icon: "🎬", label: "Seven" }
