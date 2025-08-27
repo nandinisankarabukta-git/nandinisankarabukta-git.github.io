@@ -200,3 +200,31 @@
     }
   }
 }
+
+.publication .citation { display: inline; }
+
+.publication__links {
+  display: inline-flex;        /* sits on the same line as the citation */
+  gap: .4rem;                  /* space between icons */
+  margin-left: .5rem;          /* little gap after the text */
+  vertical-align: baseline;
+}
+
+.publication__link {
+  display: inline-flex;        /* was: flex (block-level) */
+  justify-content: center;
+  align-items: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  font-size: 0.875rem;
+  border-radius: 50%;
+  will-change: transform;
+  color: var(--dark);
+  background-color: var(--light-gray);
+  transition: var(--global-transition);
+}
+
+.publication__link:hover {
+  color: var(--white);
+  background-color: var(--primary-color);
+}
