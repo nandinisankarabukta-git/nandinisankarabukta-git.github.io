@@ -21,8 +21,8 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Author Name
-  author__bio: Author Bio
+  author__name:
+  author__bio:
   author__avatar:
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
@@ -47,7 +47,7 @@ logos:
 logo__items:
 
   - name: Arute
-    link: "http://arutesolutions.com/"
+    link: "https://arutesolutions.com/"
     image: "/images/arute.png"
 
   - name: Bicakcilar
@@ -115,15 +115,13 @@ logo__items:
     image: "/images/tmg.png"
 
 
-
-
 #-------------------------------
 # Newsletter
 mailchimp:
   enable: false
-  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-  mailchimp__input__text: Your email address...
-  mailchimp__button__text: Subscribe
+  mailchimp__identifier:
+  mailchimp__input__text:
+  mailchimp__button__text:
 
 
 #-------------------------------
@@ -132,12 +130,76 @@ work:
   enable: true
   work__title: Selected Projects
 
+
 #-------------------------------
 # Publications Settings
 publications:
   enable: true
   publications__title: Publications
   publications__description:
+
+  publications__items:
+    - citation: "U. Findik, O. E. Kundakcioglu, and S. Alizamir. <em>Handbook of Combinatorial Optimization</em>, 3rd Ed., P. M. Pardalos and O. A. Prokopyev, Eds., Springer, 2024, ch. Generalized assignment problem."
+
+    - citation: "C. Y. Yildiz and O. E. Kundakcioglu. Disaster relief inventory simulation: Managing resources in humanitarian camps. <em>Proceedings of the 2024 INFORMS Winter Simulation Conference</em>."
+
+    - citation: "S. Azizi, D. N. Yoltay, and O. E. Kundakcioglu. <em>Handbook of Combinatorial Optimization</em>, 3rd Ed., P. M. Pardalos and O. A. Prokopyev, Eds., Springer, 2024, ch. Inventory management for medical supplies."
+
+    - citation: "C. Y. Yildiz and O. E. Kundakcioglu. <em>Handbook of Combinatorial Optimization</em>, 3rd Ed., P. M. Pardalos and O. A. Prokopyev, Eds., Springer, 2024, ch. Optimization for time series decomposition."
+
+    - citation: "H. Shourabizadeh, O. E. Kundakcioglu, C. D. C. Bozkir, M. B. Tufekci, and A. C. Henry. <em>Healthcare Inventory Management in the Presence of Supply Disruptions and a Reliable Secondary Supplier</em>. <em>Annals of Operations Research</em>, 2023, vol. 331, pp. 1149-1206."
+      paper_url: "https://doi.org/10.1007/s10479-023-05620-y"
+
+    - citation: "I. E. Sakarya and O. E. Kundakcioglu. Multi-instance learning by maximizing the area under receiver operating characteristic curve. <em>Journal of Global Optimization</em>, 2023, vol. 85, pp. 351-375."
+      paper_url: "https://doi.org/10.1007/s10898-022-01219-y"
+      github_url: "https://github.com/OEKundakcioglu/MI-ROCMax"
+
+    - citation: "C. D. C. Bozkir, O. E. Kundakcioglu, and A. C. Henry. Hospital service levels during drug shortages: Stocking and transshipment policies for pharmaceutical inventory. <em>Journal of Global Optimization</em>, 2022, vol. 83, pp. 565-584."
+      paper_url: "https://doi.org/10.1007/s10898-021-01058-3"
+      github_url: "https://github.com/OEKundakcioglu/HospitalInventorySimulation"
+
+    - citation: "S. Korkmaz, O. E. Kundakcioglu, and O. Sivrikaya. A fluid approximation for the single-leg fare allocation problem with nonhomogeneous Poisson demand. <em>Journal of Revenue and Pricing Management</em>, 2022, vol. 21, pp. 81-96."
+      paper_url: "https://doi.org/10.1057/s41272-021-00284-4"
+
+    - citation: "O. Simsek and O. E. Kundakcioglu. Cost of fairness in agent scheduling for contact centers. <em>Journal of Industrial and Management Optimization</em>, 2022, vol. 18, no. 2, pp. 873-896."
+      paper_url: "https://doi.org/10.3934/jimo.2021001"
+
+    - citation: "S. Azizi, C. D. C. Bozkir, A. C. Trapp, O. E. Kundakcioglu, and A. K. Kurbanzade. Aid allocation for camp-based and urban refugees with uncertain demand and replenishments. <em>Production and Operations Management</em>, 2021, vol. 30, no. 12, pp. 4455-4474."
+      paper_url: "https://doi.org/10.1111/poms.13531"
+      github_url: "https://github.com/OEKundakcioglu/RefugeeAidAllocation"
+
+    - citation: "S. Gozuyilmaz and O. E. Kundakcioglu. Mathematical optimization for time series decomposition. <em>OR Spectrum</em>, 2021, vol. 43, pp. 733-758."
+      paper_url: "https://doi.org/10.1007/s00291-021-00637-w"
+
+    - citation: "M. Önal, O. E. Kundakcioglu, and S. Jain. An EOQ model with deteriorating items and self-selection constraints. <em>Optimization Letters</em>, 2020, vol. 14, pp. 1491-1518."
+      paper_url: "https://doi.org/10.1007/s11590-020-01566-3"
+
+    - citation: "T. Yavuz, O. E. Kundakcioglu, and T. Ünlüyurt. Exact and heuristic approaches to detect failures in failed k-out-of-n systems. <em>Computers and Operations Research</em>, 2019, vol. 112, 104752."
+      paper_url: "https://doi.org/10.1016/j.cor.2019.07.010"
+
+    - citation: "N. R. Barshes, S. Saedi, J. Wrobel, P. Kougias, O. E. Kundakcioglu, and D. G. Armstrong. A model to estimate cost-savings in diabetic foot ulcer prevention efforts. <em>Journal of Diabetes and Its Complications</em>, 2017, vol. 31, no. 4, pp. 700-707."
+      paper_url: "https://doi.org/10.1016/j.jdiacomp.2016.12.017"
+
+    - citation: "B. Balcik, C. D. C. Bozkir, and O. E. Kundakcioglu. A literature review on inventory management in humanitarian supply chains. <em>Surveys in Operations Research and Management Science</em>, 2016, vol. 21, no. 2, pp. 101-116."
+      paper_url: "https://doi.org/10.1016/j.sorms.2016.10.002"
+
+    - citation: "M. Önal, A. Yenipazarli, and O. E. Kundakcioglu. A mathematical model for perishable products with price- and stock-dependent demand. <em>Computers and Industrial Engineering</em>, 2016, vol. 102, pp. 246-258."
+      paper_url: "https://doi.org/10.1016/j.cie.2016.11.002"
+
+    - citation: "S. Saedi, O. E. Kundakcioglu, and A. C. Henry. Mitigating the impact of drug shortages for a healthcare facility: An inventory management approach. <em>European Journal of Operational Research</em>, 2016, vol. 251, no. 1, pp. 107-123."
+      paper_url: "https://doi.org/10.1016/j.ejor.2015.11.017"
+
+    - citation: "H. Yang, O. E. Kundakcioglu, and D. Zeng. Healthcare data analytics. <em>Information Systems and e-Business Management</em>, 2015, vol. 13, no. 4, pp. 595-597."
+
+    - citation: "M. H. Poursaeidi and O. E. Kundakcioglu. Robust support vector machines for multiple instance classification. <em>Annals of Operations Research</em>, 2014, vol. 216, no. 1, pp. 205-227."
+      paper_url: "https://doi.org/10.1007/s10479-012-1241-z"
+
+    - citation: "H. Yang and O. E. Kundakcioglu. Healthcare intelligence: Turning data into knowledge. <em>IEEE Intelligent Systems, Trends & Controversies</em>, 2014, vol. 29, no. 3, pp. 54-56."
+
+    - citation: "S. Saedi and O. E. Kundakcioglu. <em>Handbook of Combinatorial Optimization</em>, 2nd Ed., P. M. Pardalos, D.-Z. Du, and R. Graham, Eds., Springer, 2013, ch. Combinatorial optimization in data mining, pp. 595-630."
+
+    - citation: "M. H. Poursaeidi, M. Samorani, and O. E. Kundakcioglu. Offshore wind farm layout optimization: What is the hype? <em>Proceedings of the Industrial and Systems Engineering Research Conference</em>, ID: 952, 2013."
+
 
 #-------------------------------
 # Testimonials Section
@@ -154,19 +216,18 @@ testimonial__items:
     designation:
     link:
     content: >
-      Mert focuses on designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab, while pursuing a B.Sc. in Computer Engineering with a double major in Business Administration at Koç University.<br>
+      Mert focuses on designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab, while pursuing a B.Sc. in Computer Engineering with a double major in Business Administration at Koç University.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
-
     hobbies:
-      - { icon: "☕", label: "..." }
-      - { icon: "🎬", label: "..." }
-      - { icon: "🎮", label: "..." }
-      - { icon: "🎵", label: "..." }
-
+      - { icon: "☕", label: "Espresso" }
+      - { icon: "🎬", label: "Interstellar" }
+      - { icon: "🎮", label: "Resident Evil" }
+      - { icon: "🎵", label: "Progressive Metal" }
     hobby_icons:
-      
+      - { icon: "🏋" }
+      - { icon: "🎸" }
 
   - name: "Egecan Aktan, BSc"
     image: "/images/egecan-aktan.jpg"
@@ -206,7 +267,7 @@ testimonial__items:
       - { icon: "🎵", label: "Blues" }
 
     hobby_icons:
-    - { icon: "🏋"}
+    - { icon: "🏋" }
     - { icon: "📖" }
 
     socials:
@@ -240,7 +301,7 @@ testimonial__items:
         Nehir explores operations research, develops real-life solutions, and learns how data and algorithms are applied to practical problems at Datart Lab, while studying Computer Science at Özyeğin University, where she is pursuing a B.Sc. with a minor in Industrial Engineering.
     hobbies:
       - { icon: "☕", label: "Iced Americano" }
-      - { icon: "🎬", label: "Inglourious Bastards" }
+      - { icon: "🎬", label: "Inglourious Basterds" }
       - { icon: "🎵", label: "Queen" }
 
     hobby_icons:
@@ -259,7 +320,7 @@ testimonial__items:
 
     hobbies:
       - { icon: "☕", label: "Tea" }
-      - { icon: "🎮", label: "Baldurs Gate" }
+      - { icon: "🎮", label: "Baldur's Gate" }
     hobby_icons:
       - { icon: "🎾" }  
       - { icon: "💻" }
@@ -287,7 +348,7 @@ testimonial__items:
       - { icon: "⚽" }
     
     socials:
-    - { icon: "ion ion-logo-linkedin", link: "http://www.linkedin.com/in/nurullah-yusuf-duru-81253a16b" }
+    - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/nurullah-yusuf-duru-81253a16b" }
     - { icon: "ion ion-logo-github", link: "https://github.com/NurullahYusufDuru" }
 
   - name: "Ulvi Fındık, MSc"
@@ -308,75 +369,7 @@ testimonial__items:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ulvi-fındık" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ulvifk" }
 
-# Publications Settings
-publications:
-  enable: true
-  publications__title: Publications
 
- 
-  publications__items:
-    - citation: "U. Findik, O. E. Kundakcioglu, and S. Alizamir. <em>Handbook of Combinatorial Optimization</em>, 3rd Ed., P. M. Pardalos and O. A. Prokopyev, Eds., Springer, 2024, ch. Generalized assignment problem."
-      
-    - citation: "C. Y. Yildiz and O. E. Kundakcioglu. Disaster relief inventory simulation: Managing resources in humanitarian camps. <em>Proceedings of the 2024 INFORMS Winter Simulation Conference</em>."
-      
-    - citation: "S. Azizi, D. N. Yoltay, and O. E. Kundakcioglu. <em>Handbook of Combinatorial Optimization</em>, 3rd Ed., P. M. Pardalos and O. A. Prokopyev, Eds., Springer, 2024, ch. Inventory management for medical supplies."
-      
-    - citation: "C. Y. Yildiz and O. E. Kundakcioglu. <em>Handbook of Combinatorial Optimization</em>, 3rd Ed., P. M. Pardalos and O. A. Prokopyev, Eds., Springer, 2024, ch. Optimization for time series decomposition."
-     
-    - citation: "H. Shourabizadeh, O. E. Kundakcioglu, C. D. C. Bozkir, M. B. Tufekci, and A. C. Henry. <em>Healthcare Inventory Management in the Presence of Supply Disruptions and a Reliable Secondary Supplier</em>. <em>Annals of Operations Research</em>, 2023, vol. 331, pp. 1149-1206."
-      paper_url: "https://doi.org/10.1007/s10479-023-05620-y"
-
-    - citation: "I. E. Sakarya and O. E. Kundakcioglu. Multi-instance learning by maximizing the area under receiver operating characteristic curve. <em>Journal of Global Optimization</em>, 2023, vol. 85, pp. 351-375."
-      paper_url: "https://doi.org/10.1007/s10898-022-01219-y"
-      github_url: "https://github.com/OEKundakcioglu/MI-ROCMax"
-
-    - citation: "C. D. C. Bozkir, O. E. Kundakcioglu, and A. C. Henry. Hospital service levels during drug shortages: Stocking and transshipment policies for pharmaceutical inventory. <em>Journal of Global Optimization</em>, 2022, vol. 83, pp. 565-584."
-      paper_url: "https://doi.org/10.1007/s10898-021-01058-3"
-      github_url: "https://github.com/OEKundakcioglu/HospitalInventorySimulation"
-
-    - citation: "S. Korkmaz, O. E. Kundakcioglu, and O. Sivrikaya. A fluid approximation for the single-leg fare allocation problem with nonhomogeneous Poisson demand. <em>Journal of Revenue and Pricing Management</em>, 2022, vol. 21, pp. 81-96."
-      paper_url: "https://doi.org/10.1057/s41272-021-00284-4"
-
-    - citation: "O. Simsek and O. E. Kundakcioglu. Cost of fairness in agent scheduling for contact centers. <em>Journal of Industrial and Management Optimization</em>, 2022, vol. 18, no. 2, pp. 873-896."
-      paper_url: "https://doi.org/10.3934/jimo.2021001"
-
-    - citation: "S. Azizi, C. D. C. Bozkir, A. C. Trapp, O. E. Kundakcioglu, and A. K. Kurbanzade. Aid allocation for camp-based and urban refugees with uncertain demand and replenishments. <em>Production and Operations Management</em>, 2021, vol. 30, no. 12, pp. 4455-4474."
-      paper_url: "https://doi.org/10.1111/poms.13531"
-      github_url: "https://github.com/OEKundakcioglu/RefugeeAidAllocation"
-
-    - citation: "S. Gozuyilmaz and O. E. Kundakcioglu. Mathematical optimization for time series decomposition. <em>OR Spectrum</em>, 2021, vol. 43, pp. 733-758."
-      paper_url: "https://doi.org/10.1007/s00291-021-00637-w"
-      
-    - citation: "M. Önal, O. E. Kundakcioglu, and S. Jain. An EOQ model with deteriorating items and self-selection constraints. <em>Optimization Letters</em>, 2020, vol. 14, pp. 1491-1518."
-      paper_url: "https://doi.org/10.1007/s11590-020-01566-3"
-
-    - citation: "T. Yavuz, O. E. Kundakcioglu, and T. Ünlüyurt. Exact and heuristic approaches to detect failures in failed k-out-of-n systems. <em>Computers and Operations Research</em>, 2019, vol. 112, 104752."
-      paper_url: "https://doi.org/10.1016/j.cor.2019.07.010"
-
-    - citation: "N. R. Barshes, S. Saedi, J. Wrobel, P. Kougias, O. E. Kundakcioglu, and D. G. Armstrong. A model to estimate cost-savings in diabetic foot ulcer prevention efforts. <em>Journal of Diabetes and Its Complications</em>, 2017, vol. 31, no. 4, pp. 700-707."
-      paper_url: "https://doi.org/10.1016/j.jdiacomp.2016.12.017"
-
-    - citation: "B. Balcik, C. D. C. Bozkir, and O. E. Kundakcioglu. A literature review on inventory management in humanitarian supply chains. <em>Surveys in Operations Research and Management Science</em>, 2016, vol. 21, no. 2, pp. 101-116."
-      paper_url: "https://doi.org/10.1016/j.sorms.2016.10.002"
-
-    - citation: "M. Önal, A. Yenipazarli, and O. E. Kundakcioglu. A mathematical model for perishable products with price- and stock-dependent demand. <em>Computers and Industrial Engineering</em>, 2016, vol. 102, pp. 246-258."
-      paper_url: "https://doi.org/10.1016/j.cie.2016.11.002"
-
-    - citation: "S. Saedi, O. E. Kundakcioglu, and A. C. Henry. Mitigating the impact of drug shortages for a healthcare facility: An inventory management approach. <em>European Journal of Operational Research</em>, 2016, vol. 251, no. 1, pp. 107-123."
-      paper_url: "https://doi.org/10.1016/j.ejor.2015.11.017"
-
-    - citation: "H. Yang, O. E. Kundakcioglu, and D. Zeng. Healthcare data analytics. <em>Information Systems and e-Business Management</em>, 2015, vol. 13, no. 4, pp. 595-597."
-      
-    - citation: "M. H. Poursaeidi and O. E. Kundakcioglu. Robust support vector machines for multiple instance classification. <em>Annals of Operations Research</em>, 2014, vol. 216, no. 1, pp. 205-227."
-      paper_url: "https://doi.org/10.1007/s10479-012-1241-z"
-
-    - citation: "H. Yang and O. E. Kundakcioglu. Healthcare intelligence: Turning data into knowledge. <em>IEEE Intelligent Systems, Trends & Controversies</em>, 2014, vol. 29, no. 3, pp. 54-56."
-      
-    - citation: "S. Saedi and O. E. Kundakcioglu. <em>Handbook of Combinatorial Optimization</em>, 2nd Ed., P. M. Pardalos, D.-Z. Du, and R. Graham, Eds., Springer, 2013, ch. Combinatorial optimization in data mining, pp. 595-630."
-      
-    - citation: "M. H. Poursaeidi, M. Samorani, and O. E. Kundakcioglu. Offshore wind farm layout optimization: What is the hype? <em>Proceedings of the Industrial and Systems Engineering Research Conference</em>, ID: 952, 2013."
-
-  
 #-------------------------------
 # Blog Section
 blog:
@@ -390,6 +383,7 @@ blog__settings:
 #-------------------------------
 # Footer Settings
 footer__background__image:
+
 
 #-------------------------------
 # Contact Settings
