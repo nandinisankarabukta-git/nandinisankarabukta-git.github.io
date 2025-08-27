@@ -154,7 +154,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Ahmet Mert Yazıcı focuses on designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab. He is currently pursuing a BSc in Computer Engineering with a double major in Business Administration at Koç University.<br>
+      Mert focuses on designing and developing scalable applications, backend services, and data-driven solutions at Datart Lab, while pursuing a B.Sc. in Computer Engineering with a double major in Business Administration at Koç University.<br>
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
@@ -173,7 +173,7 @@ testimonial__items:
     designation:
     link:
     content: >
-       Egecan Aktan earned his BSc degree in Industrial Engineering at Özyeğin University, where he is now pursuing his MSc in the same field. His research focuses on perishable lot-sizing, developing optimization models that integrate artificial intelligence and advanced analytics. Beyond this, he has worked on projects in forecasting, supply chain planning, and applied machine learning, combining analytical methods with programming and data visualization to create practical solutions. 
+       Egecan’s work centers on simulation and optimization, with applications in logistics, scheduling, and resource allocation. He is particularly interested in perishable lot-sizing, developing optimization models that integrate artificial intelligence and advanced analytics. He is pursuing an M.Sc. in Industrial Engineering at Özyeğin University, where he also earned his B.Sc. in the same field. 
     hobbies:
       - { icon: "☕", label: "Blanc 1664" }
       - { icon: "🎬", label: "Dune" }
@@ -198,7 +198,7 @@ testimonial__items:
     designation:
     link:
     content : >
-       Enes Tanrıkulu is a senior student at Koç University, pursuing a Bachelor of Science in Industrial Engineering with a track in Machine Learning, and a Double Major in Computer Engineering. He works as a Software/Operations Research Engineer at DATART, where he focuses on developing scalable applications, high performing optimization models and data-centered solutions for enterprise problems.
+       Enes is passionate about optimization and mathematical modeling, contributing to the design and implementation of data-driven decision support systems. His current work focuses on large-scale scheduling problems with practical industry applications. He is pursuing a B.Sc. in Industrial Engineering with a track in Machine Learning, alongside a Double Major in Computer Engineering at Koç University.
     hobbies:
       - { icon: "☕", label: "Cortado" }
       - { icon: "🎬", label: "Paths of Glory" }
@@ -218,7 +218,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. He holds a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com). He received the [TÜBİTAK](https://tubitak.gov.tr/en) Early Career Award and contributes as an associate editor for several journals in optimization. 
+      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the [Datart Lab](https://datart-lab.com). His research centers on decision analytics and mathematical optimization. He earned a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Distinguished Scientist at [Optym](https://optym.com).
     hobbies:
       - { icon: "☕", label: "Espresso" }
       - { icon: "🎬", label: "Shawshank Redemption" }
@@ -237,7 +237,7 @@ testimonial__items:
     designation:
     link:
     content: >
-        Esma Nehir Vardar explores operations research, develops real-life solutions, and learns how data and algorithms are applied to practical problems at Datart Lab. She is currently a junior Computer Science student at Özyeğin University, with a minor in Industrial Engineering.
+        Nehir explores operations research, develops real-life solutions, and learns how data and algorithms are applied to practical problems at Datart Lab, while studying Computer Science at Özyeğin University, where she is pursuing a B.Sc. with a minor in Industrial Engineering.
     hobbies:
       - { icon: "☕", label: "Iced Americano" }
       - { icon: "🎬", label: "Inglourious Bastards" }
@@ -255,7 +255,7 @@ testimonial__items:
     designation:
     link:
     content: >
-     M. Esad Simitcioğlu earned his MSc in Computer Science from Koç University, specializing in Privacy, Machine Learning, and Software Engineering. He is the Lead Developer at Datart Lab, where he contributes to building advanced optimization engines and intelligent software systems. 
+     Esad specializes in privacy, machine learning, and software engineering, with strong expertise in full-stack development and system integration. He is a lead developer at Datart Lab, where he contributes to optimization engines and decision analytics platforms. He earned his M.Sc. in Computer Science from Koç University.
   
     hobby_icons:
       - { icon: "🎾" }  
@@ -273,7 +273,7 @@ testimonial__items:
     designation:
     link:
     content: >
-       Nurullah Yusuf Duru earned his B.Sc. degree in Industrial Engineering at Özyeğin University, where he is currently pursuing his M.Sc. in the same field. His graduate research focuses on perishable food supply chains, with broader interests in the integration of machine learning and optimization algorithms. He is also keen on sports analytics, exploring data-driven insights in basketball and football. 
+     Nurullah's research focuses on perishable food supply chains, with broader interests in the integration of machine learning and optimization algorithms. He is also keen on sports analytics, exploring data-driven insights in basketball and football. He is pursuing an M.Sc. in Industrial Engineering at Özyeğin University, where he also earned his B.Sc. in the same field.
     hobbies:
       - { icon: "☕", label: "Tea" }
       - { icon: "🎬", label: "Seven" }
@@ -293,7 +293,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Ulvi Fındık holds both MSc and BSc degrees in Industrial Engineering from Özyeğin University. His research focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains. He is currently pursuing his PhD in Industrial Engineering at Sabancı University.
+     Ulvi's work focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains. He is pursuing his Ph.D. in Industrial Engineering at Sabancı University, after earning both his M.Sc. and B.Sc. degrees in Industrial Engineering from Özyeğin University.
     hobbies:
       - { icon: "☕", label: "..." }
       - { icon: "🎬", label: "..." }
