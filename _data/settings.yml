@@ -319,7 +319,7 @@ testimonial__items:
      Esad specializes in privacy, machine learning, and software engineering, with strong expertise in full-stack development and system integration. He is a lead developer at Datart Lab, where he contributes to optimization engines and decision analytics platforms. He earned his M.Sc. in Computer Science from Koç University.
 
     hobbies:
-      - { icon: "☕", label: "Tea" }
+      - { icon: "☕", label: "Black Tea" }
       - { icon: "🎮", label: "Baldur's Gate" }
     hobby_icons:
       - { icon: "🎾" }  
@@ -338,7 +338,7 @@ testimonial__items:
     content: >
      Nurullah's research focuses on perishable food supply chains, with broader interests in the integration of machine learning and optimization algorithms. He is also keen on sports analytics, exploring data-driven insights in basketball and football. He is pursuing an M.Sc. in Industrial Engineering at Özyeğin University, where he also earned his B.Sc. in the same field.
     hobbies:
-      - { icon: "☕", label: "Tea" }
+      - { icon: "☕", label: "Black Tea" }
       - { icon: "🎬", label: "Seven" }
       - { icon: "🎮", label: "NBA 2K" }
       - { icon: "🎵", label: "Kendrick Lamar" }
