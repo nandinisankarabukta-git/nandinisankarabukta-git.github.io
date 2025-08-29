@@ -8,6 +8,13 @@ image_caption: ‘Aircraft tail assignment in action’
 
 ## Summary
 
-The Aviation Tail Assignment System was developed to help airlines tackle one of their most critical planning challenges: assigning aircraft to flights at the tail-number level. By integrating operational and technical constraints such as maintenance schedules, ground times, routing restrictions, cabin configurations, and crew continuity, the system ensures optimal flight assignments that balance efficiency, profitability, and operational reliability.
+The **Aircraft Tail Assignment System** helps airlines solve one of their most complex planning challenges: assigning aircraft to flights at the tail-number level. By considering **operational and technical constraints** such as maintenance schedules, ground times, routing restrictions, cabin configurations, and crew continuity, the system generates flight assignments that maximize **efficiency, profitability, and reliability**.  
 
-We designed the mathematical optimization model, implemented advanced heuristics, and built a robust scheduling engine that reduces maintenance frequency, maximizes aircraft utilization, and increases passenger capacity. The system also improves coordination between departments such as maintenance, operations, and crew planning, ensuring smoother and more cost-effective workflows. Our solution integrates with real airline data, enabling adaptive and transparent planning. It delivers measurable improvements in profitability, resource utilization, and operational resilience. 
+We developed a **mathematical optimization model**, applied **advanced heuristics**, and built a **robust scheduling engine** that:  
+- Reduces maintenance frequency  
+- Maximizes fleet utilization  
+- Increases passenger capacity  
+
+Beyond optimization, the system enhances **coordination across departments** including maintenance, operations, and crew planning, resulting in smoother and more cost-effective workflows.  
+
+With direct integration to real airline data, it enables **adaptive, transparent, and data-driven planning** — delivering measurable improvements in **profitability, resource utilization, and operational resilience**.  
