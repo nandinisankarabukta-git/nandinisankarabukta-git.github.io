@@ -358,12 +358,14 @@ testimonial__items:
     content: >
      Ulvi's work focuses on industrial optimization, decision analytics, and applied operations research, with hands-on experience in developing advanced scheduling and optimization solutions across diverse application domains. He is pursuing his Ph.D. in Industrial Engineering at Sabancı University, after earning both his M.Sc. and B.Sc. degrees in Industrial Engineering from Özyeğin University.
     hobbies:
-      - { icon: "☕", label: "..." }
-      - { icon: "🎬", label: "..." }
-      - { icon: "🎮", label: "..." }
-      - { icon: "🎵", label: "..." }
+      - { icon: "☕", label: "Black Coffee" }
+      - { icon: "🎬", label: "The Prestige" }
+      - { icon: "🎮", label: "Dota 2" }
+      - { icon: "🎵", label: "Daft Punk, Muse" }
 
     hobby_icons:
+      - { icon: "🏋" }
+      - { icon: "🎮" }
       
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ulvi-fındık" }
