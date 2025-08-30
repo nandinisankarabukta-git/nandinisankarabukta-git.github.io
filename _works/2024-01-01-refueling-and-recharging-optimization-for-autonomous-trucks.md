@@ -3,7 +3,7 @@ title: Refueling and Recharging Optimization for Autonomous Vehicles
 description: This engine optimizes refueling and recharging strategies for autonomous trucks to reduce operational costs, minimize downtime, and limit deviations from planned routes.
 category: Mining | Engine | Routing
 image: '/images/mine.png'
-image_caption: 'Refuel engine in action'
+image_caption: 'Autonomous vehicles in operation'
 ---
 
 ## Summary

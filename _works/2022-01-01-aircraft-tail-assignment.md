@@ -3,7 +3,7 @@ title: Aircraft Tail Assignment
 description: A decision support engine for optimizing aircraft tail assignment, reducing operational costs, and maximizing fleet utilization and passenger capacity.
 category: Aviation | Engine | Optimization
 image: '/images/ta.jpeg'
-image_caption: ‘Aircraft tail assignment in action’
+image_caption: 'Screenshot of the aircraft tail assignment system'
 ---
 
 ## Summary
@@ -15,6 +15,4 @@ We developed a **mathematical optimization model**, applied **advanced heuristic
 - Maximizes fleet utilization  
 - Increases passenger capacity  
 
-Beyond optimization, the system enhances **coordination across departments** including maintenance, operations, and crew planning, resulting in smoother and more cost-effective workflows.  
-
-With direct integration to real airline data, it enables **adaptive, transparent, and data-driven planning** — delivering measurable improvements in **profitability, resource utilization, and operational resilience**.  
+Beyond optimization, the system enhances **coordination across departments** including maintenance, operations, and crew planning, resulting in smoother and more cost-effective workflows. With direct integration to real airline data, it enables **adaptive, transparent, and data-driven planning** — delivering measurable improvements in **profitability, resource utilization, and operational resilience**.  
