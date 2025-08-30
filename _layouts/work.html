@@ -7,7 +7,7 @@ layout: default
 
     <div class="row">
       {% if page.image %}
-      <div class="col col-5 col-d-12">
+      <div class="col col-4 col-d-12">
         <div class="work-head__left">
           <div class="work-head__image">
             <img class="lazy" draggable="false" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
@@ -19,7 +19,7 @@ layout: default
       </div>
       {% endif %}
 
-      <div class="col col-7 col-d-12">
+      <div class="col col-8 col-d-12">
         <div class="work-head__right">
           {% if page.category %}
           <div class="work-category">{{ page.category }}</div>
@@ -61,7 +61,7 @@ layout: default
 
         <div class="row">
           {% if page.previous.url %}
-          <article class="work col col-5 col-d-12">
+          <article class="work col col-4 push-1 col-d-12">
             <div class="work__content">
               <a href="{{ page.previous.url }}" class="work__image">
                 <img class="lazy" data-src="{{ page.previous.image }}" alt="{{ page.previous.title }}">
@@ -76,7 +76,7 @@ layout: default
           </article>
           {% endif %}
           {% if page.next.url %}
-          <article class="work col col-5 push-2 push-d-0 col-d-12">
+          <article class="work col col-4 push-2 push-d-0 col-d-12">
             <div class="work__content">
               <a href="{{ page.next.url }}" class="work__image">
                 <img class="lazy" data-src="{{ page.next.image }}" alt="{{ page.next.title }}">
