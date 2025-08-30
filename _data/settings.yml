@@ -275,7 +275,7 @@ testimonial__items:
     - { icon: "ion ion-logo-github", link: "https://github.com/enestanrikuluu" }
 
   - name: "Erhun Kundakcıoğlu, PhD"
-    image: "/images/erhun-kundakcioglu.jpeg"
+    image: "/images/erhun-kundakcioglu.jpg"
     designation:
     link:
     content: >

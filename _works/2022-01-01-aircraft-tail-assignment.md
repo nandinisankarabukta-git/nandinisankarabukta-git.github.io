@@ -2,8 +2,8 @@
 title: Aircraft Tail Assignment
 description: A decision support engine for optimizing aircraft tail assignment, reducing operational costs, and maximizing fleet utilization and passenger capacity.
 category: Aviation | Engine | Optimization
-image: '/images/ta.jpeg'
-image_caption: 'Screenshot of the aircraft tail assignment system'
+image: '/images/ta.jpg'
+image_caption: 'Parked aircraft'
 ---
 
 ## Summary
