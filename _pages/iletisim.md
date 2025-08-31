@@ -6,10 +6,9 @@ permalink: /iletisim/
 image:
 include_credit: true
 ---
-
-<p class="text-3xl md:text-5xl lg:text-6xl font-bold">
+<p class="iletisim-yazi">
 Bizimle iletişime geçmek, iş birliği yapmak ve birlikte üretmek için 
-<a href="mailto:team@datart-lab.com" class="underline">team@datart-lab.com</a> adresinden bize ulaşabilirsiniz.
+<a href="mailto:team@datart-lab.com">team@datart-lab.com</a> adresinden bize ulaşabilirsiniz.
 </p>
 
 ---
