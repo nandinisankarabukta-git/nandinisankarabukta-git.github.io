@@ -1,20 +1,20 @@
 ---
-title: Post-Disaster Inventory Management and Relief
-description: A decision support platform using simulation and Markov Decision Processes (MDPs) to optimize post-disaster inventory prepositioning, allocation, and distribution under uncertainty.
-category: Non-profit | Humanitarian Supply Chain | Simulation
+title: Afet Sonrası Envanter Yönetimi ve Yardım
+description: Belirsizlik altında, felaket sonrası stokların önceden konumlandırılması, dağıtımı ve tahsisini optimize etmek için simülasyon ve Markov Karar Süreçleri (MDP) kullanan bir karar destek platformu.
+category: Kâr amacı gütmeyen | İnsanî Tedarik Zinciri | Simülasyon
 image: '/images/pd.jpeg'
-image_caption: 'Simulation-driven disaster relief logistics'
+image_caption: 'Simülasyon odaklı afet yardım lojistiği'
 ---
 
-## Summary
+## Özet
 
-**Post-Disaster Relief & Inventory Supply Management (PRISM)** is an advanced decision support system designed to address one of the most pressing challenges in humanitarian logistics: **managing inventories and supply flows in the aftermath of natural disasters.**
+**Felaket Sonrası Yardım ve Stok Yönetimi (PRISM)**, insani lojistikteki en önemli sorunlardan biri olan **doğal afet sonrası stokların ve tedarik akışlarının yönetimini** ele almak için tasarlanmış gelişmiş bir karar destek sistemidir.
 
-At its core, **PRISM** integrates a comprehensive **simulation framework** that captures the dynamics of disrupted supply chains, fluctuating demand, infrastructure failures, and uncertain recovery timelines. Building on this foundation, it employs a **Markov Decision Process (MDP)** model to enable dynamic allocation and replenishment strategies that continuously adapt as new information emerges in disaster environments. **PRISM** equips policymakers, NGOs, and emergency response agencies with the ability to determine:  
-- Where to preposition relief items
-- How to allocate scarce resources during crises
-- How to adapt operations over time as conditions evolve
+Temelinde, **PRISM**, kesintiye uğramış tedarik zincirlerinin dinamiklerini, değişken talebi, altyapı arızalarını ve belirsiz iyileşme sürelerini yakalayan kapsamlı bir **simülasyon çerçevesi** ile çalışır. Bu temelin üzerine, felaket ortamlarında ortaya çıkan yeni bilgilerle sürekli uyum sağlayabilen dinamik tahsis ve yeniden ikmal stratejilerini mümkün kılan bir **Markov Karar Süreci (MDP)** modeli entegre edilmiştir. **PRISM**, politika yapıcılar, STK’lar ve acil müdahale birimlerine şunları belirleme yeteneği sağlar:
+ - Yardım malzemelerini nerede önceden konumlandıracakları
+ - Kriz sırasında kıt kaynakları nasıl tahsis edecekleri
+ - Koşullar değiştikçe operasyonları nasıl uyarlayacakları
 
-By combining **stochastic modeling, simulation, and MDP-based optimization**, the system delivers not only near-optimal solutions but also **robust, real-time decision guidance**.
+**Stokastik modelleme, simülasyon ve MDP tabanlı optimizasyonu**nu birleştirerek, sistem yalnızca neredeyse optimal çözümler sunmakla kalmaz, aynı zamanda **güçlü ve gerçek zamanlı karar rehberliği** sağlar.
 
-Beyond its academic contributions, **PRISM** offers substantial societal impact. It provides **actionable tools** for organizations such as **AFAD in Turkey, the Red Crescent, and international humanitarian agencies**, helping them **strengthen preparedness, accelerate response times, reduce shortages, and ultimately save lives**.  By transforming how relief logistics are planned and executed, **PRISM** directly supports the development of **more resilient communities** in the face of future disasters.
+Akademik katkılarının ötesinde, **PRISM**, önemli toplumsal etki de sunar. Türkiye’deki **AFAD, Kızılay ve uluslararası insani yardım kuruluşları** gibi organizasyonlar için **uygulanabilir araçlar** sağlayarak, onların **hazırlıklarını güçlendirmelerine, müdahale sürelerini hızlandırmalarına, malzeme eksikliklerini azaltmalarına ve nihayetinde hayat kurtarmalarına** yardımcı olur. Yardım lojistiğinin planlanış ve uygulanış biçimini dönüştürerek, **PRISM**, gelecekteki afetler karşısında **daha dirençli topluluklar**ın gelişimini doğrudan destekler.

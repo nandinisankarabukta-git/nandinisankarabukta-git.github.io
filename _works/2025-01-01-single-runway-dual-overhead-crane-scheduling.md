@@ -1,13 +1,13 @@
 ---
-title: Single Runway Dual Overhead Crane Scheduling Engine
-description: An optimization and simulation engine that schedules dual overhead cranes sharing a single runway to minimize delays and improve throughput in industrial operations.
-category: Manufacturing | Industry 4.0 | Optimization
+title: Tek Pistli Çift Üst Vinç Planlama Motoru
+description: Tek bir pist paylaşan çift üst vinçlerin planlamasını optimize eden ve simüle eden bu motor; gecikmeleri minimize eder ve endüstriyel operasyonlarda verimliliği artırır.
+category: Üretim | Endüstri 4.0 | Optimizasyon
 image: '/images/crane_upscale.png'
-image_caption: 'Dual overhead crane scheduling engine in action'
+image_caption: 'Çift üst vinç planlama motoru operasyon halinde'
 ---
 
-## Summary
+## Özet
 
-The **Single Runway Dual Overhead Crane Scheduling Engine** addresses the critical challenge of coordinating two cranes sharing the same runway while avoiding collisions and minimizing idle time. We developed a tailored **dynamic programming approach** combined with heuristics to generate efficient schedules under real-world industrial constraints. The engine dynamically assigns tasks, incorporates safety buffers, and adjusts to operational uncertainties.  
+**Tek Pistli Çift Üst Vinç Planlama Motoru**, aynı pist üzerinde çalışan iki vincin çarpışmalarını önleyerek ve boşta kalma sürelerini minimize ederek koordine etme gibi kritik bir sorunu çözer. Gerçek dünyadaki endüstriyel kısıtlar altında verimli programlar üretmek için **dinamik programlama yaklaşımı** ve sezgisel yöntemleri bir arada kullanır. Motor, görevleri dinamik olarak atar, güvenlik aralıklarını uygular ve operasyonel belirsizliklere uyum sağlar.  
 
-A built-in **simulation module** evaluates schedule feasibility in real time, ensuring resilience against disruptions. With this capability, factories and warehouses gain a powerful decision support tool that significantly reduces task completion times and improves overall system throughput.  
+Dahili bir **simülasyon modülü**, programın uygulanabilirliğini gerçek zamanlı olarak değerlendirir ve aksamalara karşı dayanıklılık sağlar. Bu yetenek sayesinde, fabrikalar ve depolar görev tamamlama sürelerini önemli ölçüde azaltan ve sistem verimliliğini artıran güçlü bir karar destek aracına sahip olur.

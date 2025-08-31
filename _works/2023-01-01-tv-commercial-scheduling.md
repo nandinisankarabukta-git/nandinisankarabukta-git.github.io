@@ -1,15 +1,15 @@
 ---
-title: Commercial Allocation & Scheduling Tool
-description: A decision support engine for optimizing the scheduling of TV commercials, balancing audience reach, advertiser demands, and network constraints.
-category: Revenue Management | Engine | Scheduling
+title: Reklam Atama ve Yayın Planlama Aracı
+description: TV reklamlarının yayın planlamasını optimize eden, izleyici erişimi, reklamveren talepleri ve ağ kısıtlamalarını dengeleyen bir karar destek motoru.
+category: Gelir Yönetimi | Motor | Planlama
 image: '/images/tv.png'
-image_caption: 'TV commercial scheduling in action'
+image_caption: 'TV reklam planlaması'
 ---
 
-## Summary
+## Özet
 
-**Commercial Allocation & Scheduling Tool (CAST)** is designed to help broadcasters and advertising networks maximize revenue and audience engagement through smarter scheduling.  
+**Reklam Atama ve Yayın Planlama Aracı (CAST)**, yayıncılar ve reklam ağlarının daha akıllı planlama ile gelirlerini ve izleyici etkileşimini maksimize etmelerine yardımcı olmak için tasarlanmıştır.  
 
-At its core, **CAST** brings together **mathematical modeling** and **advanced heuristics** to form a scalable scheduling engine. This engine incorporates **advertiser requirements, contract obligations, audience ratings, and regulatory constraints** to automatically generate schedules that **minimize conflicts, ensure fair placement, and maximize audience reach** across available time slots.  
+Temelinde, **CAST**, **matematiksel modelleme** ve **ileri seviye sezgisel yöntemleri** bir araya getirerek ölçeklenebilir bir planlama motoru oluşturur. Bu motor, **reklamveren gereksinimleri, sözleşme yükümlülükleri, izleyici reytingleri ve düzenleyici kısıtlamalar** gibi unsurları dikkate alarak, mevcut zaman dilimlerinde **çatışmaları minimize eden, adil yerleşim sağlayan ve izleyici erişimini maksimize eden** otomatik programlar üretir.  
 
-Connected directly to real broadcast data, **CAST** uses **fast algorithms** to deliver outputs for **last-minute decisions and live events**, keeping schedules **efficient, compliant, and reliable**. The platform delivers measurable improvements in **efficiency, compliance, and revenue optimization**, giving networks and advertisers a clear competitive edge.  
+Gerçek yayın verilerine doğrudan bağlı olan **CAST**, **hızlı algoritmalar** kullanarak **son dakika kararları ve canlı etkinlikler** için çıktılar sunar; böylece programlar **verimli, kurallara uygun ve güvenilir** kalır. Platform, **verimlilik, uyumluluk ve gelir optimizasyonu** alanlarında ölçülebilir iyileşmeler sağlar ve ağlar ile reklamverenlere net bir rekabet avantajı sunar.

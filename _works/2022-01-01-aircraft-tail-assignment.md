@@ -1,18 +1,18 @@
 ---
-title: Aircraft Tail Assignment
-description: A decision support engine for optimizing aircraft tail assignment, reducing operational costs, and maximizing fleet utilization and passenger capacity.
-category: Aviation | Engine | Optimization
+title: Uçak Atama ve Kuyruk Yönetimi
+description: Uçak kuyruk numarası atamasını optimize eden, operasyonel maliyetleri azaltan ve filo kullanımını ile yolcu kapasitesini maksimize eden bir karar destek motoru.
+category: Havacılık | Motor | Optimizasyon
 image: '/images/ta.jpg'
-image_caption: 'Parked aircraft'
+image_caption: 'Park halindeki uçak'
 ---
 
-## Summary
+## Özet
 
-The **Aircraft Tail Assignment System** helps airlines solve one of their most complex planning challenges: assigning aircraft to flights at the tail-number level. By considering **operational and technical constraints** such as maintenance schedules, ground times, routing restrictions, cabin configurations, and crew continuity, the system generates flight assignments that maximize **efficiency, profitability, and reliability**.  
+**Uçak Kuyruk Numarası Atama Sistemi**, havayollarının en karmaşık planlama sorunlarından biri olan uçakları, uçuşlara kuyruk numarası düzeyinde atama sorununu çözmelerine yardımcı olur. Bakım programları, yer zamanları, rota kısıtlamaları, kabin konfigürasyonları ve ekip sürekliliği gibi **operasyonel ve teknik kısıtlamaları** göz önünde bulundurarak, sistem **verimlilik, kârlılık ve güvenilirliği** maksimize eden uçuş atamaları üretir.  
 
-We developed a **mathematical optimization model**, applied **advanced heuristics**, and built a **robust scheduling engine** that:  
-- Reduces maintenance frequency  
-- Maximizes fleet utilization  
-- Increases passenger capacity  
+Datart Lab olarak, bir **matematiksel optimizasyon modeli** geliştirdik, **ileri seviye sezgisel yöntemler** uyguladık ve şunları sağlayan **güçlü bir planlama motoru** inşa ettik:  
+- Bakım sıklığını azaltır  
+- Filo kullanımını maksimize eder  
+- Yolcu kapasitesini artırır  
 
-Beyond optimization, the system enhances **coordination across departments** including maintenance, operations, and crew planning, resulting in smoother and more cost-effective workflows. With direct integration to real airline data, it enables **adaptive, transparent, and data-driven planning** — delivering measurable improvements in **profitability, resource utilization, and operational resilience**.  
+Optimizasyonun ötesinde, sistem bakım, operasyon ve ekip planlaması gibi departmanlar arasında **koordinasyonu artırır**, böylece daha sorunsuz ve maliyet etkin iş akışları sağlar. Gerçek havayolu verileriyle doğrudan entegrasyon sayesinde, sistem **uyarlanabilir, şeffaf ve veri odaklı planlama** imkanı sunar ve **kârlılık, kaynak kullanımı ve operasyonel dayanıklılık** açısından ölçülebilir iyileşmeler sağlar.

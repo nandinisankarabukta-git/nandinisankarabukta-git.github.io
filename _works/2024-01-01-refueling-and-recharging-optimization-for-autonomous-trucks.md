@@ -1,13 +1,13 @@
 ---
-title: Refueling and Recharging Optimization for Autonomous Vehicles
-description: This engine optimizes refueling and recharging strategies for autonomous trucks to reduce operational costs, minimize downtime, and limit deviations from planned routes.
-category: Mining | Engine | Routing
+title: Otonom Araçlar için Yakıt ve Şarj Optimizasyonu
+description: Bu motor, otonom kamyonlar için yakıt ve şarj stratejilerini optimize ederek operasyonel maliyetleri azaltır, duruş sürelerini minimize eder ve planlanan rotalardan sapmaları sınırlar.
+category: Madencilik | Motor | Rotalama
 image: '/images/mine.png'
-image_caption: 'Autonomous vehicles in operation'
+image_caption: 'Otonom araçlar operasyon halinde'
 ---
 
-## Summary
+## Özet
 
-The **Refueling and Recharging Optimization Engine** is designed to support autonomous vehicle operations by determining the most efficient energy replenishment strategies. Developed from the ground up, we built the complete system — from the **mathematical optimization formulation** to the **selection of tailored algorithms** and the **implementation of the full engine code**.  
+**Yakıt ve Şarj Optimizasyon Motoru**, otonom araç operasyonlarını desteklemek için en verimli enerji doldurma stratejilerini belirleyecek şekilde tasarlanmıştır. Baştan sona geliştirilen sistemde, **matematiksel optimizasyon formülasyonundan**, **özelleştirilmiş algoritmaların seçimine** ve **tam motor kodunun uygulanmasına** kadar tüm süreci biz inşa ettik.  
 
-By accounting for **energy availability and operational requirements**, the engine reduces downtime and ensures consistent replenishment. This comprehensive decision support system balances **efficiency and reliability**, enabling autonomous vehicles to operate with greater continuity, higher utilization, and improved overall performance.  
+Bu motor, **Enerji mevcudiyeti ve operasyonel gereksinimler**i göz önünde bulundurarak, motor duruş sürelerini azaltır ve sürekli enerji ikmali sağlar. Bu kapsamlı karar destek sistemi, **verimlilik ve güvenilirlik** arasında denge kurarak otonom araçların daha kesintisiz, yüksek kullanım oranıyla ve genel performansın iyileştirilmiş şekilde çalışmasını mümkün kılar.
