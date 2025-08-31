@@ -18,8 +18,8 @@
       object-fit: cover;
       overflow: hidden;
       background-color: var(--background-alt-color);
-      -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.7));
-              mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.7));
+      -webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9));
+      mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9));
       -webkit-mask-size: 100%;
               mask-size: 100%;
       -webkit-mask-repeat: no-repeat;
@@ -29,8 +29,8 @@
     .hero__wrapper {
       position: absolute;
       inset: 0;
-      -webkit-backdrop-filter: blur(4px) brightness(0.85);
-              backdrop-filter: blur(4px) brightness(0.85);
+      -webkit-backdrop-filter: blur(1px) brightness(0.85);
+              backdrop-filter: blur(1px) brightness(0.85);
 
       .hero__content {
         position: absolute;
@@ -49,11 +49,11 @@
           }
 
           & > h1 {
-            font-size: clamp(1.8rem, 5vw, 3.5rem);
+            font-size: clamp(1.5rem, 4vw, 3rem);
           }
 
           & > h2 {
-            font-size: clamp(1.8rem, 5vw, 3.5rem);
+            font-size: clamp(1.25rem, 3.5vw, 2.75rem);
             font-weight: 400;
           }
 

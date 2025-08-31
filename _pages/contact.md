@@ -6,8 +6,8 @@ permalink: /contact/
 image:
 include_credit: true
 ---
-Bize ulaşmak için  [team@datart-lab.com](mailto:team@datart-lab.com) adresine yazabilirsiniz. Bağlantı kuralım, işbirliği yapalım ve yeni şeyler üretelim.
-
+Reach out to us at [team@datart-lab.com](mailto:team@datart-lab.com) to connect, collaborate, and create together. 
+{: .text-lg}
 ***
 
 #### Merak Edenler & Geleceğin Yetenekleri

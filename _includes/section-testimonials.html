@@ -40,7 +40,29 @@
                 </div>
               </div>
               {% if testimonial__item.content %}
-                <p class="client-text">{{ testimonial__item.content | markdownify}}</p>
+                <p class="client-text">{{ testimonial__item.content | markdownify }}</p>
+                {% if testimonial__item.hobbies or testimonial__item.hobby_icons %}
+                  <div>
+                    <ul class="hobbies__list list-reset">
+                      {% if testimonial__item.hobbies %}
+                        {% for hobby in testimonial__item.hobbies %}
+                          <li class="hobby__item">
+                            <p class="hobby-text"><span class="select-none">{{ hobby.icon }}</span> {{ hobby.label }}</p>
+                          </li>
+                        {% endfor %}
+                      {% endif %}
+                      {% if testimonial__item.hobby_icons %}
+                        <li class="hobby__item">
+                          <p class="hobby-text">
+                            {% for hobby in testimonial__item.hobby_icons %}
+                              <span class="select-none">{{ hobby.icon }}</span>
+                            {% endfor %}
+                          </p>
+                        </li>
+                      {% endif %}
+                    </ul>
+                  </div>
+                {% endif %}
               {% endif %}
               {% if testimonial__item.socials %}
                 <div class="social">
