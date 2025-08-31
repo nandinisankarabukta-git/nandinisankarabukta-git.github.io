@@ -6,10 +6,13 @@ permalink: /iletisim/
 image:
 include_credit: true
 ---
-Bizimle iletişime geçmek, iş birliği yapmak ve birlikte üretmek için [team@datart-lab.com](mailto:team@datart-lab.com)
- adresinden bize ulaşabilirsiniz. 
-{: .text-lg}
-***
+
+<p class="text-3xl md:text-5xl lg:text-6xl font-bold">
+Bizimle iletişime geçmek, iş birliği yapmak ve birlikte üretmek için 
+<a href="mailto:team@datart-lab.com" class="underline">team@datart-lab.com</a> adresinden bize ulaşabilirsiniz.
+</p>
+
+---
 
 #### Merak Edenler & Geleceğin Yetenekleri
 > Veri analitiği, optimizasyon veya yazılım geliştirme alanında kendini geliştirmek istiyorsan, Datart Lab sana gerçek projelerde görev alabileceğin ve değerli deneyimler kazanabileceğin fırsatlar sunar. Lisans ya da lisansüstü öğrenci olman fark etmez; *projelerimize katılarak öğrenebilir, katkı sağlayabilir ve yetkinliklerini geliştirebilirsin*.
