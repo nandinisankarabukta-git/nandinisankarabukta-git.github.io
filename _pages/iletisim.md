@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Contact
+title: İletişim
 description: 
-permalink: /contact/
+permalink: /iletisim/
 image:
 include_credit: true
 ---

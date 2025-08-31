@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Team
+title: Ekibimiz
 description: 
-permalink: /team/
+permalink: /ekibimiz/
 image:
 image_caption:
 ---

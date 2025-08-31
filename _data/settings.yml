@@ -12,10 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Work'
       url: '/work/'
-    - title: 'Team'
-      url: '/team/'
-    - title: 'Contact'
-      url: '/contact/'
+    - title: 'Ekibimiz'
+      url: '/ekibimiz/'
+    - title: 'İletişim'
+      url: '/iletisim/'
 
 
 #-------------------------------
@@ -235,7 +235,7 @@ testimonial__items:
     designation:
     link:
     content: >
-       Egecan’in çalışmaları bozulabilir ürünler için parti büyüklüğü belirleme üzerine yoğunlaşıyor; ayrıca lojistik, çizelgeleme ve kaynak tahsisine yönelik simülasyon, optimizasyon ve yapay zekâ uygulamalarına da ilgi duyuyor. 
+       Egecan’ın çalışmaları bozulabilir ürünler için parti büyüklüğü belirleme üzerine yoğunlaşıyor; ayrıca lojistik, çizelgeleme ve kaynak tahsisine yönelik simülasyon, optimizasyon ve yapay zekâ uygulamalarına da ilgi duyuyor. 
        Şu anda aynı bölümden lisans derecesi de aldığı [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/en)’nde Endüstri Mühendisliği yüksek lisans eğitimine devam ediyor.
     hobbies:
       - { icon: "☕", label: "Blanc 1664" }
@@ -325,7 +325,7 @@ testimonial__items:
     link:
     content: >
      Esad, gizlilik, makine öğrenimi ve yazılım mühendisliği alanlarında uzmanlaşmıştır ve tam donanımlı geliştirme (full-stack) ile sistem entegrasyonu konularında güçlü bir yetkinliğe sahiptir. 
-     Datart Lab’de lead developer olarak görev yapmakta ve optimizasyon motorları ile karar analitiği platformlarına katkı sağlamaktadır. Bilgisayar Bilimleri alanında yüksek lisansını [Koç Üniversitesi](https://www.ku.edu.tr/en/)’nden almıştır.
+     Datart Lab’de lead developer olarak görev yapmakta ve optimizasyon motorları ile karar analitiği platformlarına katkı sağlamaktadır. Bilgisayar Bilimleri alanında yüksek lisans eğitimini [Koç Üniversitesi](https://www.ku.edu.tr/en/)’nde tamamlamıştır.
 
     hobbies:
       - { icon: "☕", label: "Çay" }
@@ -346,7 +346,7 @@ testimonial__items:
     link:
     content: >
      Nurullah’ın araştırmaları, bozulabilir gıda tedarik zincirleri üzerine odaklanıyor; ayrıca makine öğrenimi ve optimizasyon algoritmalarının entegrasyonuna ilgi duyuyor.
-      Spor analitiğine de ilgi gösteriyor ve basketbol ile futbolda veriye dayalı analizler yapıyor.Lisansını da aynı bölümden aldığı [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/en)’nde Endüstri Mühendisliği yüksek lisansına devam ediyor.
+      Spor analitiğine de ilgisi var, basketbol ve futbol karşılaşmaları için veriye dayalı analizler yapıyor. Lisans derecesini de aynı bölümden aldığı [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/en)’nde Endüstri Mühendisliği yüksek lisans eğitimine devam ediyor.
 
     hobbies:
       - { icon: "☕", label: "Çay" }
@@ -368,7 +368,7 @@ testimonial__items:
     link:
     content: >
      Ulvi’nin çalışmaları endüstriyel optimizasyon, karar analitiği ve uygulamalı operasyon araştırmaları üzerine odaklanıyor.
-      Farklı alanlarda gelişmiş çizelgeleme ve optimizasyon çözümleri geliştirme konusunda uygulamalı deneyime sahiptir. 
+      Farklı alanlarda gelişmiş çizelgeleme ve optimizasyon çözümleri geliştirme konusunda uygulamalı deneyime sahip. 
       [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/en)’nden Endüstri Mühendisliği alanında lisans ve yüksek lisans derecelerini almıştır. [Sabancı Üniversitesi](https://www.sabanciuniv.edu/en) Endüstri Mühendisliği bölümünde doktora eğitimine devam etmektedir.
 
     hobbies:
@@ -403,7 +403,7 @@ footer__background__image:
 
 #-------------------------------
 # Contact Settings
-Contact:
+İletişim:
   email: # Add your form_id
   description: # Add a description of your form
 
