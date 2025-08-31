@@ -129,7 +129,7 @@ mailchimp:
 calismalarimiz:
   enable: true
   work__title: Öne Çıkan Projeler
-  work__alias: work 
+  
 
 #-------------------------------
 # Publications Settings
@@ -217,7 +217,7 @@ testimonial__items:
     link:
     content: >
       Mert, Datart Lab’de ölçeklenebilir uygulamalar, backend servisleri, veri odaklı çözümler ve kullanıcıya yönelik platformların tasarımı ve geliştirilmesine odaklanıyor. 
-      Şu anda [Koç Üniversitesi](https://www.ku.edu.tr/en/)’nde Bilgisayar Mühendisliği okuyor ve aynı zamanda İşletme ile çift anadal yapıyor.
+      Şu anda [Koç Üniversitesi](http://ku.edu.tr/)’nde Bilgisayar Mühendisliği okuyor ve aynı zamanda İşletme ile çift anadal yapıyor.
     socials:
       - { icon: "ion ion-logo-linkedin", link: "https://www.linkedin.com/in/ahmet-mert-yazici" }
       - { icon: "ion ion-logo-github", link: "https://github.com/ayazici21" }
@@ -236,7 +236,7 @@ testimonial__items:
     link:
     content: >
        Egecan’ın çalışmaları bozulabilir ürünler için parti büyüklüğü belirleme üzerine yoğunlaşıyor; ayrıca lojistik, çizelgeleme ve kaynak tahsisine yönelik simülasyon, optimizasyon ve yapay zekâ uygulamalarına da ilgi duyuyor. 
-       Şu anda aynı bölümden lisans derecesi de aldığı [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/en)’nde Endüstri Mühendisliği yüksek lisans eğitimine devam ediyor.
+       Şu anda aynı bölümden lisans derecesi de aldığı [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/tr)’nde Endüstri Mühendisliği yüksek lisans eğitimine devam ediyor.
     hobbies:
       - { icon: "☕", label: "Blanc 1664" }
       - { icon: "🎬", label: "Dune" }
@@ -262,7 +262,7 @@ testimonial__items:
     link:
     content : >
        Enes, optimizasyon ve matematiksel modelleme konularına ilgi duyuyor ve veri odaklı karar destek sistemlerinin tasarımına katkı sağlıyor. Şu anda çalışmaları, gerçek endüstri uygulamaları olan büyük ölçekli çizelgeleme problemleri üzerine yoğunlaşıyor.
-        [Koç Üniversitesi](https://www.ku.edu.tr/en/)’nde Endüstri Mühendisliği okuyor, Makine Öğrenimi odaklı bir eğitim alıyor ve aynı zamanda Bilgisayar Mühendisliği’nde çift anadal programına devam ediyor.
+        [Koç Üniversitesi](http://ku.edu.tr/)’nde Endüstri Mühendisliği okuyor, Makine Öğrenimi odaklı bir eğitim alıyor ve aynı zamanda Bilgisayar Mühendisliği’nde çift anadal programına devam ediyor.
 
     hobbies:
       - { icon: "☕", label: "Cortado" }
@@ -283,9 +283,9 @@ testimonial__items:
     designation:
     link:
     content: >
-     Dr. Erhun Kundakcıoğlu, [Sabancı Üniversitesi](https://www.sabanciuniv.edu/en) Endüstri Mühendisliği Bölümü’nde Profesör ve Datart Lab’in Direktörüdür. 
+     Dr. Erhun Kundakcıoğlu, [Sabancı Üniversitesi](https://www.sabanciuniv.edu/tr) Endüstri Mühendisliği Bölümü’nde Profesör ve Datart Lab’in Direktörüdür. 
      Araştırmaları, karar analitiği ve matematiksel optimizasyon üzerine odaklanmaktadır. Doktorasını [Florida Üniversitesi](https://www.ufl.edu) Endüstri ve Sistem Mühendisliği alanında tamamlamıştır.
-      Daha önce [Houston Üniversitesi](https://uh.edu) ve [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/en)’nde akademik görevlerde bulunmuş ve Optym şirketinde Distinguished Scientist olarak çalışmıştır.
+      Daha önce [Houston Üniversitesi](https://uh.edu) ve [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/tr)’nde akademik görevlerde bulunmuş ve Optym şirketinde Distinguished Scientist olarak çalışmıştır.
 
     hobbies:
       - { icon: "☕", label: "Espresso" }
@@ -305,7 +305,7 @@ testimonial__items:
     designation:
     link:
     content: >
-        Nehir, Datart Lab’de operasyon araştırmaları üzerine çalışıyor, gerçek hayata uygulanabilir çözümler geliştiriyor ve verinin ve algoritmaların pratik problemlere nasıl uygulandığını öğreniyor. [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/en)
+        Nehir, Datart Lab’de operasyon araştırmaları üzerine çalışıyor, gerçek hayata uygulanabilir çözümler geliştiriyor ve verinin ve algoritmaların pratik problemlere nasıl uygulandığını öğreniyor. [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/tr)
         Bilgisayar Mühendisliği bölümünde lisans eğitimi alırken, Endüstri Mühendisliği alanında yandal programına devam ediyor.
     hobbies:
       - { icon: "☕", label: "Iced Americano" }
@@ -325,7 +325,7 @@ testimonial__items:
     link:
     content: >
      Esad, gizlilik, makine öğrenimi ve yazılım mühendisliği alanlarında uzmanlaşmıştır ve tam donanımlı geliştirme (full-stack) ile sistem entegrasyonu konularında güçlü bir yetkinliğe sahiptir. 
-     Datart Lab’de lead developer olarak görev yapmakta ve optimizasyon motorları ile karar analitiği platformlarına katkı sağlamaktadır. Bilgisayar Bilimleri alanında yüksek lisans eğitimini [Koç Üniversitesi](https://www.ku.edu.tr/en/)’nde tamamlamıştır.
+     Datart Lab’de lead developer olarak görev yapmakta ve optimizasyon motorları ile karar analitiği platformlarına katkı sağlamaktadır. Bilgisayar Bilimleri alanında yüksek lisans eğitimini [Koç Üniversitesi](http://ku.edu.tr/)’nde tamamlamıştır.
 
     hobbies:
       - { icon: "☕", label: "Çay" }
@@ -346,7 +346,7 @@ testimonial__items:
     link:
     content: >
      Nurullah’ın araştırmaları, bozulabilir gıda tedarik zincirleri üzerine odaklanıyor; ayrıca makine öğrenimi ve optimizasyon algoritmalarının entegrasyonuna ilgi duyuyor.
-      Spor analitiğine de ilgisi var, basketbol ve futbol karşılaşmaları için veriye dayalı analizler yapıyor. Lisans derecesini de aynı bölümden aldığı [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/en)’nde Endüstri Mühendisliği yüksek lisans eğitimine devam ediyor.
+      Spor analitiğine de ilgisi var, basketbol ve futbol karşılaşmaları için veriye dayalı analizler yapıyor. Lisans derecesini de aynı bölümden aldığı [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/tr)’nde Endüstri Mühendisliği yüksek lisans eğitimine devam ediyor.
 
     hobbies:
       - { icon: "☕", label: "Çay" }
@@ -369,7 +369,7 @@ testimonial__items:
     content: >
      Ulvi’nin çalışmaları endüstriyel optimizasyon, karar analitiği ve uygulamalı operasyon araştırmaları üzerine odaklanıyor.
       Farklı alanlarda gelişmiş çizelgeleme ve optimizasyon çözümleri geliştirme konusunda uygulamalı deneyime sahip. 
-      [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/en)’nden Endüstri Mühendisliği alanında lisans ve yüksek lisans derecelerini almıştır. [Sabancı Üniversitesi](https://www.sabanciuniv.edu/en) Endüstri Mühendisliği bölümünde doktora eğitimine devam etmektedir.
+      [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/tr)’nden Endüstri Mühendisliği alanında lisans ve yüksek lisans derecelerini almıştır. [Sabancı Üniversitesi](https://www.sabanciuniv.edu/tr) Endüstri Mühendisliği bölümünde doktora eğitimine devam etmektedir.
 
     hobbies:
       - { icon: "☕", label: "Sade Kahve" }
