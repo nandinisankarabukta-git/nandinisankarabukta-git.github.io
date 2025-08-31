@@ -10,8 +10,8 @@ color_scheme: light # You can choose three modes auto, light, and dark. By defau
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Work'
-      url: '/work/'
+    - title: 'Çalışmalarımız'
+      url: '/calismalarimiz/'
     - title: 'Ekibimiz'
       url: '/ekibimiz/'
     - title: 'İletişim'
@@ -126,10 +126,10 @@ mailchimp:
 
 #-------------------------------
 # Work Settings
-work:
+calismalarimiz:
   enable: true
   work__title: Öne Çıkan Projeler
-
+  work__alias: work 
 
 #-------------------------------
 # Publications Settings
