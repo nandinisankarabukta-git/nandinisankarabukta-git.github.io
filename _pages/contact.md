@@ -6,8 +6,9 @@ permalink: /contact/
 image:
 include_credit: true
 ---
-Reach out to us at [team@datart-lab.com](mailto:team@datart-lab.com) to connect, collaborate, and create together. 
-{: .text-lg}
+
+Bizimle iletişime geçmek, iş birliği yapmak ve birlikte üretmek için [team@datart-lab.com](mailto:team@datart-lab.com) adresinden bize ulaşabilirsiniz.  
+{: .text-lg }
 ***
 
 #### Merak Edenler & Geleceğin Yetenekleri
