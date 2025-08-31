@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Contact
+title: İletişim
 description: 
-permalink: /contact/
+permalink: /iletisim/
 image:
 include_credit: true
 ---
-Bizimle iletişime geçmek, iş birliği yapmak ve birlikte üretmek için [team@datart-lab.com](mailto:team@datart-lab.com) adresinden bize ulaşabilirsiniz. 
+Bizimle iş birliği yapmak ve birlikte üretmek için [team@datart-lab.com](mailto:team@datart-lab.com) adresinden bize ulaşabilirsiniz. 
 {: .text-lg }
 ***
 

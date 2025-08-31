@@ -14,8 +14,8 @@ menu__settings:
       url: '/work/'
     - title: 'Team'
       url: '/team/'
-    - title: 'Contact'
-      url: '/contact/'
+    - title: 'İletişim'
+      url: '/iletisim/'
 
 
 #-------------------------------
@@ -403,7 +403,7 @@ footer__background__image:
 
 #-------------------------------
 # Contact Settings
-contact:
+İletişim:
   email: # Add your form_id
   description: # Add a description of your form
 
