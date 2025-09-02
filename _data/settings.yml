@@ -2,7 +2,7 @@
 # Site Settings
 title: Datart Lab
 logo: /images/logo_trimmed.png # You can add own logo. For example '/images/logo.png'.
-description: Site description
+description: Decision Analytics Advanced Research and Development Lab
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -50,9 +50,9 @@ logo__items:
     link: "https://arutesolutions.com/"
     image: "/images/arute.png"
 
-  - name: Atv
-    link: "https://www.atv.com.tr/"
-    image: "/images/atv.webp"
+  - name: ATV
+    link: "https://www.atv.com.tr"
+    image: "/images/atv.png"
 
   - name: Bicakcilar
     link: "https://kocmedical.com/"
@@ -113,7 +113,6 @@ logo__items:
   - name: Tam Finans
     link: "https://www.tamfinans.com.tr/"
     image: "/images/tamfinans.png"
-
 
 
 #-------------------------------
@@ -284,10 +283,7 @@ testimonial__items:
     designation:
     link:
     content: >
-     Dr. Erhun Kundakcıoğlu, [Sabancı Üniversitesi](https://www.sabanciuniv.edu/tr) Endüstri Mühendisliği Bölümü’nde Profesör ve Datart Lab’in Direktörüdür. 
-     Araştırmaları, karar analitiği ve matematiksel optimizasyon üzerine odaklanmaktadır. Doktorasını [Florida Üniversitesi](https://www.ufl.edu) Endüstri ve Sistem Mühendisliği alanında tamamlamıştır.
-      Daha önce [Houston Üniversitesi](https://uh.edu) ve [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/tr)’nde akademik görevlerde bulunmuş ve Optym şirketinde Distinguished Scientist olarak çalışmıştır.
-
+      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the Datart Lab. His research centers on decision analytics and mathematical optimization. He earned a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Director and Distinguished Scientist at [Optym](https://optym.com).
     hobbies:
       - { icon: "☕", label: "Espresso" }
       - { icon: "🎬", label: "Shawshank Redemption" }
