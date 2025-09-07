@@ -2,7 +2,7 @@
 # Site Settings
 title: Datart Lab
 logo: /images/logo_trimmed.png # You can add own logo. For example '/images/logo.png'.
-description: Decision Analytics Advanced Research and Development Lab
+description: Datart İleri Araştırma ve Geliştirme Laboratuvarı
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -283,7 +283,7 @@ testimonial__items:
     designation:
     link:
     content: >
-      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/en) and Director of the Datart Lab. His research centers on decision analytics and mathematical optimization. He earned a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr/en), and served as a Director and Distinguished Scientist at [Optym](https://optym.com).
+      Dr. Erhun Kundakcıoğlu is a Professor of Industrial Engineering at [Sabancı University](https://www.sabanciuniv.edu/) and Director of the Datart Lab. His research centers on decision analytics and mathematical optimization. He earned a PhD in Industrial and Systems Engineering from the [University of Florida](https://www.ufl.edu). Previously, he held faculty positions at the [University of Houston](https://uh.edu) and [Özyeğin University](https://www.ozyegin.edu.tr), and served as a Director and Distinguished Scientist at [Optym](https://optym.com).
     hobbies:
       - { icon: "☕", label: "Espresso" }
       - { icon: "🎬", label: "Shawshank Redemption" }
@@ -302,7 +302,7 @@ testimonial__items:
     designation:
     link:
     content: >
-        Nehir, Datart Lab’de operasyon araştırmaları üzerine çalışıyor, gerçek hayata uygulanabilir çözümler geliştiriyor ve verinin ve algoritmaların pratik problemlere nasıl uygulandığını öğreniyor. [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/tr)
+        Nehir, Datart Lab’de yöneylem araştırması üzerine çalışıyor, gerçek hayata uygulanabilir çözümler geliştiriyor ve verinin ve algoritmaların pratik problemlere nasıl uygulandığını öğreniyor. [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/tr)
         Bilgisayar Mühendisliği bölümünde lisans eğitimi alırken, Endüstri Mühendisliği alanında yandal programına devam ediyor.
     hobbies:
       - { icon: "☕", label: "Iced Americano" }
@@ -364,7 +364,7 @@ testimonial__items:
     designation:
     link:
     content: >
-     Ulvi’nin çalışmaları endüstriyel optimizasyon, karar analitiği ve uygulamalı operasyon araştırmaları üzerine odaklanıyor.
+     Ulvi’nin çalışmaları endüstriyel optimizasyon, karar analitiği ve uygulamalı yöneylem araştırması üzerine odaklanıyor.
       Farklı alanlarda gelişmiş çizelgeleme ve optimizasyon çözümleri geliştirme konusunda uygulamalı deneyime sahip. 
       [Özyeğin Üniversitesi](https://www.ozyegin.edu.tr/tr)’nden Endüstri Mühendisliği alanında lisans ve yüksek lisans derecelerini almıştır. [Sabancı Üniversitesi](https://www.sabanciuniv.edu/tr) Endüstri Mühendisliği bölümünde doktora eğitimine devam etmektedir.
 
