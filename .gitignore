@@ -1,4 +1,15 @@
-_site
-.sass-cache
+*.sublime-project
+*.sublime-workspace
+.DS_Store
 .jekyll-metadata
+.jekyll-cache
+.sass-cache
+.vscode
+.idea
+codekit-config.json
+node_modules
+npm-debug.log*
 Gemfile.lock
+_asset_bundler_cache
+_site
+_dvwa
