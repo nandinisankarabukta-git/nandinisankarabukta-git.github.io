@@ -7,33 +7,32 @@ excerpt: "Projects"
 ---
 Here is a list of the various projects I worked on.
 
-## pyDucky
+## Decuber
 
-PyDucky is a Python 3 version of the original [RubberDucky](https://github.com/hak5darren/USB-Rubber-Ducky) script encoder (Java). 
-This version allows you to use alternative layout. It supports ASCII, ISO-8859-1 and Unicode.
+Decuber is a Rubik's Cube-inspired message encoder built with HTML, CSS, JS, and Python.  
+It converts characters into color pairs using a 6-color scheme, storing 4 characters per cube face.  
+The included Python script [`DecuberBase36.py`](https://github.com/h4ckxel/Decuber/blob/main/DecuberBase36.py) extends functionality to encode any binary data (text, images, ZIPs) into base36 and then into cube colors.  
+This version supports CLI encoding/decoding, optional OpenSSL encryption, and works on Linux, macOS, and WSL.  
+It requires Python 3.x and has no external dependencies.
 
-**Link:** [pyDucky](https://github.com/axcheron/pyDucky)
+**Link:** [Decuber](https://github.com/h4ckxel/Decuber)
 
-## cisco_pwdecrypt
+## Didactic-Darakeet
 
-Simple Python tool to decrypt the "enc_GroupPwd" variable in PCF files (and Type 5/7 passwords).
+A project designed to facilitate fluid and natural communication with deaf and mute people. It uses an application based on the Mediapipe framework for real-time visual sign language recognition, enabling two-way translation between speech/text and sign language.
 
-**Link:** [cisco_pwdecrypt](https://github.com/axcheron/cisco_pwdecrypt)
+> **Note:** Code improvements are currently underway to enhance functionality and maintainability.
 
-## pyvboxdie-cracker
+**Link**: [Didactic-Darakeet](https://github.com/h4ckxel/didactic-parakeet)
 
-Simple Python tool to crack VirtualBox Disk Image Encryption passwords.
+## Agujero_Negro_Simulador (Black Hole Simulator)
 
-**Link:** [pyvboxdie-cracker](https://github.com/axcheron/pyvboxdie-cracker)
+This is a Black Hole Simulator project developed primarily in **C++** using ray tracing and geodesics calculation to visualize the gravitational effects (such as gravitational lensing) of a black hole. It includes C++ source files (`ray_tracing.cpp`, `CPU-geodesic.cpp`) and shader files (`geodesic.comp`, `grid.frag`, `grid.vert`).
 
-## pyvmx-cracker
+**Link**: [Black Hole Simulator](https://github.com/h4ckxel/agujero_negro_simulador)
 
-Simple tool to crack VMware VMX encryption passwords.
+## FiltroGaussiano (Gaussian Filter)
 
-**Link:** [pyvmx-cracker](https://github.com/axcheron/pyvmx-cracker)
+This Python script performs **Image Smoothing with a Gaussian Filter** on a grayscale image using the `NumPy`, `SciPy`, and `Pillow` libraries. It loads an image, applies a controllable Gaussian blur by adjusting the `sigma` value, and displays both the original and filtered images for comparison.
 
-## crestron_getsudopwd
-
-Tool to exploit CVE-2018-13341 and recover hidden account password on Crestron devices.
-
-**Link:** [crestron_getsudopwd](https://github.com/axcheron/crestron_getsudopwd)
+**Link**: [Gaussian Filter](https://github.com/h4ckxel/FiltroGaussiano)
