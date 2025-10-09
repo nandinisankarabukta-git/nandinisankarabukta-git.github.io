@@ -18,7 +18,7 @@ I left the passwords in cleartext for most of the levels because, if you google 
 
 **You can access to the write-ups with the following link:** [OTW Writeups](/writeups/otw/otw_wargames/).
 
->**Note:** This write-up is constantly evolving. **Last update:** October 7, 2019.
+>**Note:** This write-up is constantly evolving. **Last update:** October 08, 2025.
 
 ## HTB - Hack The Box 
 

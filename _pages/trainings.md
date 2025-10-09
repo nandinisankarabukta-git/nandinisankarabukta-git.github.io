@@ -8,7 +8,7 @@ excerpt: "Free Trainings"
 Here is a list of some free trainings and courses about information security I found while browsing the Web. I hope it will help you to get a better understanding of the various field of information security.
 {: .text-justify}
 
->**Note:** This section is constantly evolving. **Last update:** October 18, 2021.
+>**Note:** This section is constantly evolving. **Last update:** October 08, 2025.
 
 ## Modern Binary Exploitation 
 

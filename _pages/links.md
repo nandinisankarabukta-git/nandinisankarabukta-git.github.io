@@ -17,7 +17,7 @@ tags:
 ---
 {% include toc title="Links" %}
 
->**Note:** This section is constantly evolving. **Last update:** 01.07.2019.
+>**Note:** This section is constantly evolving. **Last update:** 08.10.2025.
 
 This is a curated collection of handy bookmarks focusing on hacking, penetration testing and other computer security topics.
 
@@ -25,7 +25,7 @@ In my day to day work I collect and read lots of infosec resources (btw, I use [
 
 Inspired by the original project, the [Open Penetration Testing Bookmarks Collection](https://github.com/jhaddix/pentest-bookmarks), which seems to be no longer maintened, I cleaned it up and added some bookmarks from my personnal collection.
 
-If you want to contribute to this list, feel free to contact me [@axcheron](https://twitter.com/axcheron).
+If you want to contribute to this list, feel free to contact me [@h4ckxel](https://twitter.com/h4ckxel).
 
 
 # Medias

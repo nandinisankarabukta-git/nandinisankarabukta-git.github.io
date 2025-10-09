@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "_neon" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BreakInSecurity"
+title                    : "Fsociety"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Alexandre CHERON"
+name                     : "z3r0 c00l ¨h4ckxel¨"
 description              : "Privacy Is Dead - Get Over It"
 url                      : #"http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -49,7 +49,7 @@ comments:
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme                : neon # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : axcheron
+  username               : h4ckxel
 facebook:
   username               :
   app_id                 :
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexandre CHERON"
+  name             : "z3r0 c00l ¨h4ckxel¨"
   avatar           : "/images/bio_main.jpg"
   bio              : "Just Another Hacker. Security Researcher. Bytes Addict. Almost Human."
   location         : "127.0.0.1"
@@ -112,35 +112,35 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://axcheron.github.io"
+      url: "https://h4ckxel.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/axcheron"
+      url: "https://x.com/h4ckxel"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/axcheron"
+      url: "https://github.com/h4ckxel"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alexandrecheron/"
+      url: "https://www.linkedin.com/in/acxel-elizalde-06b9b9331/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/axcheron"
+      url: "https://x.com/h4ckxel"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/axcheron"
+      url: "https://github.com/h4ckxel"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -158,7 +158,7 @@ footer:
   flickr           :
   facebook         :
   foursquare       :
-  github           : axcheron
+  github           : h4ckxel
   google_plus      :
   keybase          :
   instagram        :
@@ -169,7 +169,7 @@ footer:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : axcheron
+  twitter          : h4ckxel
   vine             :
   weibo            :
   xing             :
