@@ -1,22 +1,26 @@
-# BreakInSecurity
+# Fsociety
 
-This is the source code of my blog. It is based on [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes), a flexible two-column Jekyll theme. 
+Este es el código fuente de mi **blog**. La página está basada en [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes), un tema flexible de Jekyll con dos columnas.
 
-**Compatible with Jekyll 3.5 and up.**
+> **⚠️ Aviso Importante**: Aunque la documentación está en español, el contenido del blog está escrito **íntegramente en inglés**. Esto se hace por **razones profesionales y de alcance** para maximizar la visibilidad e interacción con una audiencia más amplia en el campo tecnológico.
 
-You can visit my blog [here](https://axcheron.github.io).
+**Compatible con Jekyll 3.5 y superiores.**
 
-### Running Jekyll (Local Testing)
+Puedes visitar mi blog [aquí](https://h4ckxel.github.io).
 
-First you have to run `bundle install` to install dependencies. Make sure to use the last version of bundler by updating the gem via `gem install bundler`. 
+-----
 
-> **Note:** On macOS, you can easily install *Ruby* by using [Homebrew](http://brew.sh) and running the command `brew install ruby`.
+## Ejecutar Jekyll (Pruebas Locales)
 
-If `jekyll build` and `jekyll serve` throw errors you may have to run Jekyll with `bundle exec` instead.
+Primero, debes ejecutar `bundle install` para instalar todas las dependencias. Asegúrate de usar la última versión de `bundler` actualizando la *gem* a través de `gem install bundler`.
 
-In some cases, running executables without `bundle exec` may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
+> **Nota**: En **macOS**, puedes instalar *Ruby* fácilmente usando [Homebrew](http://brew.sh) y ejecutando el comando `brew install ruby`.
 
-However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.
+Si `jekyll build` y `jekyll serve` generan errores, es posible que debas ejecutar Jekyll usando `bundle exec`.
+
+En algunos casos, ejecutar los ejecutables sin `bundle exec` podría funcionar, especialmente si el ejecutable está instalado en tu sistema y no requiere *gems* que entren en conflicto con tu paquete actual.
+
+Sin embargo, esto no es un método fiable y puede causar problemas. Incluso si parece funcionar ahora, podría fallar en el futuro o en otra máquina. Por lo tanto, se recomienda la siguiente forma:
 
 ```bash
 $ bundle exec jekyll build
@@ -24,117 +28,116 @@ $ bundle exec jekyll build
 $ bundle exec jekyll serve
 ```
 
-> **Note:** When testing locally I recommend `url: "http://localhost:4000"` to keep paths pointing to local pages and assets. Ideally you’d use multiple config files with `bundle exec jekyll serve --config _config.yml,_config.dev.yml` to apply development overrides.
+> **Nota**: Al realizar pruebas localmente, recomiendo usar `url: "http://localhost:4000"` para que las rutas apunten a las páginas y recursos locales. Lo ideal sería usar múltiples archivos de configuración con `bundle exec jekyll serve --config _config.yml,_config.dev.yml` para aplicar ajustes específicos de desarrollo.
 
----
+-----
 
-## Credits
+## Créditos
 
-### Creator
+### Creador
 
 **Michael Rose**
 
-- <https://mademistakes.com>
-- <https://twitter.com/mmistakes>
-- <https://github.com/mmistakes>
+  - [https://mademistakes.com](https://mademistakes.com)
+  - [https://twitter.com/mmistakes](https://twitter.com/mmistakes)
+  - [https://github.com/mmistakes](https://github.com/mmistakes)
 
-### Icons + Demo Images:
+### Iconos e Imágenes de Demostración:
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
+  - [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain y [tracy tam](https://thenounproject.com/tracytam)
+  - [Font Awesome](http://fontawesome.io/)
+  - [Unsplash](https://unsplash.com/)
 
-### Other:
+### Otros:
 
-- [Jekyll](http://jekyllrb.com/)
-- [jQuery](http://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav)
-- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-- [Gumshoe](https://github.com/cferdinandi/gumshoe)
-- [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
-- [Lunr](http://lunrjs.com)
+  - [Jekyll](http://jekyllrb.com/)
+  - [jQuery](http://jquery.com/)
+  - [Susy](http://susy.oddbird.net/)
+  - [Breakpoint](http://breakpoint-sass.com/)
+  - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+  - [FitVids.JS](http://fitvidsjs.com/)
+  - [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav)
+  - [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+  - [Gumshoe](https://github.com/cferdinandi/gumshoe)
+  - [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/)
+  - [Lunr](http://lunrjs.com)
 
----
+-----
 
-## License
+## Licencia
 
-The MIT License (MIT)
+La Licencia MIT (MIT)
 
-Copyright (c) 2013-2020 Michael Rose and contributors
+Copyright (c) 2013-2020 Michael Rose y colaboradores
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y de los archivos de documentación asociados (el "Software"), para tratar
+el Software sin restricción, incluyendo sin limitación los derechos
+de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta
+de copias del Software, y para permitir a las personas a las que se les proporcione el Software
+hacerlo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas
+las copias o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIALIZACIÓN,
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
+AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES POR NINGUNA RECLAMACIÓN, DAÑOS U OTRAS
+RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJAN DE,
+FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRAS OPERACIONES EN EL
 SOFTWARE.
 
-Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/) 
-creators Garrett Knoll, Arthur Shlain, and tracy tam.
-Icons are distributed under Creative Commons Attribution 3.0 United States (CC BY 3.0 US).
+Minimal Mistakes incorpora iconos de [The Noun Project](https://thenounproject.com/)
+creadores Garrett Knoll, Arthur Shlain y tracy tam.
+Los iconos se distribuyen bajo Creative Commons Attribution 3.0 United States (CC BY 3.0 US).
 
-Minimal Mistakes incorporates [Font Awesome](http://fontawesome.io/),
+Minimal Mistakes incorpora [Font Awesome](http://fontawesome.io/),
 Copyright (c) 2017 Dave Gandy.
-Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL) 
-and [MIT License](http://opensource.org/licenses/MIT).
+Font Awesome se distribuye bajo los términos de la [SIL OFL 1.1](http://scripts.sil.org/OFL)
+y [Licencia MIT](http://opensource.org/licenses/MIT).
 
-Minimal Mistakes incorporates photographs from [Unsplash](https://unsplash.com).
+Minimal Mistakes incorpora fotografías de [Unsplash](https://unsplash.com).
 
-Minimal Mistakes incorporates [Susy](http://susy.oddbird.net/),
+Minimal Mistakes incorpora [Susy](http://susy.oddbird.net/),
 Copyright (c) 2017, Miriam Eric Suzanne.
-Susy is distributed under the terms of the [BSD 3-clause "New" or "Revised" License](https://opensource.org/licenses/BSD-3-Clause).
+Susy se distribuye bajo los términos de la [Licencia BSD de 3 cláusulas "Nueva" o "Revisada"](https://opensource.org/licenses/BSD-3-Clause).
 
-Minimal Mistakes incorporates [Breakpoint](http://breakpoint-sass.com/).
-Breakpoint is distributed under the terms of the [MIT/GPL Licenses](http://opensource.org/licenses/MIT).
+Minimal Mistakes incorpora [Breakpoint](http://breakpoint-sass.com/).
+Breakpoint se distribuye bajo los términos de las [Licencias MIT/GPL](http://opensource.org/licenses/MIT).
 
-Minimal Mistakes incorporates [FitVids.js](https://github.com/davatron5000/FitVids.js/),
-Copyright (c) 2013 Dave Rubert and Chris Coyier.
-FitVids is distributed under the terms of the [WTFPL License](http://sam.zoy.org/wtfpl/).
+Minimal Mistakes incorpora [FitVids.js](https://github.com/davatron5000/FitVids.js/),
+Copyright (c) 2013 Dave Rubert y Chris Coyier.
+FitVids se distribuye bajo los términos de la [Licencia WTFPL](http://sam.zoy.org/wtfpl/).
 
-Minimal Mistakes incorporates [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/),
-Copyright (c) 2014-2016 Dmitry Semenov, http://dimsemenov.com.
-Magnific Popup is distributed under the terms of the MIT License.
+Minimal Mistakes incorpora [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/),
+Copyright (c) 2014-2016 Dmitry Semenov, [http://dimsemenov.com](http://dimsemenov.com).
+Magnific Popup se distribuye bajo los términos de la Licencia MIT.
 
-Minimal Mistakes incorporates [Smooth Scroll](http://github.com/cferdinandi/smooth-scroll),
+Minimal Mistakes incorpora [Smooth Scroll](http://github.com/cferdinandi/smooth-scroll),
 Copyright (c) 2019 Chris Ferdinandi.
-Smooth Scroll is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Smooth Scroll se distribuye bajo los términos de la [Licencia MIT](http://opensource.org/licenses/MIT).
 
-Minimal Mistakes incorporates [Gumshoejs](http://github.com/cferdinandi/gumshoe),
+Minimal Mistakes incorpora [Gumshoejs](http://github.com/cferdinandi/gumshoe),
 Copyright (c) 2019 Chris Ferdinandi.
-Smooth Scroll is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Smooth Scroll se distribuye bajo los términos de la [Licencia MIT](http://opensource.org/licenses/MIT).
 
-Minimal Mistakes incorporates [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/),
+Minimal Mistakes incorpora [jQuery throttle / debounce](http://benalman.com/projects/jquery-throttle-debounce-plugin/),
 Copyright (c) 2010 "Cowboy" Ben Alman.
-jQuery throttle / debounce is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+jQuery throttle / debounce se distribuye bajo los términos de la [Licencia MIT](http://opensource.org/licenses/MIT).
 
-Minimal Mistakes incorporates [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav),
+Minimal Mistakes incorpora [GreedyNav.js](https://github.com/lukejacksonn/GreedyNav),
 Copyright (c) 2015 Luke Jackson.
-GreedyNav.js is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+GreedyNav.js se distribuye bajo los términos de la [Licencia MIT](http://opensource.org/licenses/MIT).
 
-Minimal Mistakes incorporates [Jekyll Group-By-Array](https://github.com/mushishi78/jekyll-group-by-array),
-Copyright (c) 2015 Max White <mushishi78@gmail.com>.
-Jekyll Group-By-Array is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Minimal Mistakes incorpora [Jekyll Group-By-Array](https://github.com/mushishi78/jekyll-group-by-array),
+Copyright (c) 2015 Max White [mushishi78@gmail.com](mailto:mushishi78@gmail.com).
+Jekyll Group-By-Array se distribuye bajo los términos de la [Licencia MIT](http://opensource.org/licenses/MIT).
 
-Minimal Mistakes incorporates [@allejo's Pure Liquid Jekyll Table of Contents](https://allejo.io/blog/a-jekyll-toc-in-liquid-only/),
+Minimal Mistakes incorpora [@allejo's Pure Liquid Jekyll Table of Contents](https://allejo.io/blog/a-jekyll-toc-in-liquid-only/),
 Copyright (c) 2017 Vladimir Jimenez.
-Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Pure Liquid Jekyll Table of Contents se distribuye bajo los términos de la [Licencia MIT](http://opensource.org/licenses/MIT).
 
-Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
+Minimal Mistakes incorpora [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
-Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
+Lunr se distribuye bajo los términos de la [Licencia MIT](http://opensource.org/licenses/MIT).
