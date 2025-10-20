@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Project 4
+subtitle: Industry 4
 layout: default
 modal-id: 4
 date: 2014-07-15

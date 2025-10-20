@@ -1,11 +1,11 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Project 3
+subtitle: Industry 3
 layout: default
 modal-id: 3
 date: 2014-07-16
 img: golden.png
-thumbnail: golden-thumbnail.png
+thumbnail: checkout-flow-optimization.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
